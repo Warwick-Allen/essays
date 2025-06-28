@@ -51,6 +51,7 @@ try {
   select OUT;
   while (<IN>) {
     s~         ’          ~! apos  !~xg ;
+    s~      \\(l|r)q({})? ~!$1squo !~xg ;
     s~         ``         ~! ldquo !~xg ;
     s~         ''         ~! rdquo !~xg ;
     s~ (?<=\w) --- (?=\w) ~! mdash !~xg ;
