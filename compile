@@ -1,0 +1,7 @@
+#!/usr/bin/bash -x
+x=themes_and_motifs_in_hebrews
+xelatex $x.tex
+biber $x
+xelatex $x.tex
+xelatex $x.tex
+make4ht -x $x.tex
