@@ -4,44 +4,4 @@ xelatex $x.tex
 biber $x
 xelatex $x.tex
 xelatex $x.tex
-make4ht -x $x.tex
-perl -i -pe 'BEGIN {$style=<<HERE
- <style type="text/css">
- .block {
-  margin-left: auto;
-  margin-right: auto;
-  width: 40em;
-  text-align: justify;
-  line-height: 3.5ex;
- }
- .abstract {
-  width: 36em;
- }
- .abstract h2 {
-  font-size: 110%;
-  text-align: center;
- }
- h2 {
-   margin: 3ex auto 1.5ex auto;
- }
- h3 {
-   margin: 2ex auto 1ex auto;
- }
- dl {
-   display: grid;
-   grid-template-columns: max-content auto;
- }
- dt {
-   grid-column-start: 1;
- }
- dd {
-   grid-column-start: 2;
-   margin: 1ex 0 1ex 1em;
-   text-indent: -1em;
- }
-</style>
-HERE
-}
-s~(?=</head>)~$style~;
-s~(?<=<body\b)~ class="block"~;
-' $x.html
+tex2html $x.tex

@@ -5,8 +5,9 @@ use strict;
 use Try::Tiny;
 
 my $in = shift;
-my $out = do {local $_ = $in; s/(?:\.[^\.]*|)$/.html/; $_};
-my $tmp = do {local $_ = `mktemp -u`; chomp; $_};
+(my $base) = $in =~ /(.*)(?=\.)/;
+my $out = "$base.html";
+my $tmp = "$base.tex2html";
 
 my $style = <<HERE;
  <style type="text/css">
@@ -15,13 +16,12 @@ my $style = <<HERE;
   margin-right: auto;
   width: 40em;
   text-align: justify;
+  line-height: 3.5ex;
  }
  .abstract {
   width: 36em;
- }
- .abstract h2 {
-  font-size: 110%;
-  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
  }
  h2 {
    margin: 3ex auto 1.5ex auto;
@@ -29,39 +29,11 @@ my $style = <<HERE;
  h3 {
    margin: 2ex auto 1ex auto;
  }
- dl {
-   display: grid;
-   grid-template-columns: max-content auto;
- }
- dt {
-   grid-column-start: 1;
- }
- dd {
-   grid-column-start: 2;
-   margin-left: 0;
-   text-indent: 0.5em;
- }
 </style>
 HERE
 try {
-  $/ = "\n\n";
-
-  open IN, $in or die $!;
-  open OUT, '>', "$tmp.tex" or die $!;
-  select OUT;
-  while (<IN>) {
-    s~         ’          ~! apos  !~xg ;
-    s~      \\(l|r)q({})? ~!$1squo !~xg ;
-    s~         ``         ~! ldquo !~xg ;
-    s~         ''         ~! rdquo !~xg ;
-    s~ (?<=\w) --- (?=\w) ~! mdash !~xg ;
-    s~ (?<=\w) --  (?=\w) ~! ndash !~xg ;
-    print;
-  }
-  close OUT;
-  close IN;
-
-  system "tth '$tmp.tex'";
+  system "cp '$in' '$tmp.tex'" and die $!;
+  system "make4ht -x '$tmp.tex'" and die $!;
 
   my $ref_num;
   open IN, "$tmp.html" or die $!;
@@ -72,17 +44,12 @@ try {
     s/$_[0]//g;
     $_;
   }
+  $/ = ">";
   while (<IN>) {
-    s~ !\s* (\w+) \s*!                  ~&$1;~xg                            ;
-    s~ <a\b.*?/a>                       ~~xg                                ;
-    s~ (?<=<title>)([^<]*)              ~strip qr/(^|\\) */ ~xe             ;
-    s~ (<h1\b.*?</h1>)                  ~strip qr,(<br />| (?=</)), ~xe     ;
-    s~ (<meta\s.*)                      ~<head>$1$style\n~xs                or
-    s~ (?<=</title>)                    ~\n</head><body class="block">\n~xs or
-    s~ \s*(?=<h2>.*Abstract.*</h2>)     ~<div class="block abstract">\n~xs  or
-    s~ \s*(?=<h2>.*Introduction.*</h2>) ~</div>\n~xs                        or
-    s~ (?<=<dt>\[)(?=\]</dt>)           ~++$ref_num~xe                      ;
-    s~ .*File.translated.from.*         ~</body>\n</html>~xs                ;
+    s~ (?=</head>)                      ~$style\n~x                         or
+    s~ (?<=<body>)                      ~\n<div class="block">~x            or
+    s~ (?=</body>)                      ~</div><!-- class="block" -->\n~x   or
+    1;
     print;
   }
   close OUT;
@@ -92,5 +59,5 @@ catch {
   print STDERR;
 }
 finally {
-  system "[ -e '$tmp.$_' ] && rm '$tmp.$_'" for qw/tex html/;
+  system "rm $tmp*";
 }
