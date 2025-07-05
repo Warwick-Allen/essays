@@ -4,4 +4,4 @@ xelatex $x.tex
 biber $x
 xelatex $x.tex
 xelatex $x.tex
-tex2html $x.tex
+./tex2html.pl $x.tex

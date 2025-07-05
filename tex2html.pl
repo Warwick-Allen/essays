@@ -10,7 +10,7 @@ my $out = "$base.html";
 my $tmp = "$base.tex2html";
 
 my $style = <<HERE;
- <style type="text/css">
+<style type="text/css">
  .block {
   margin-left: auto;
   margin-right: auto;
@@ -18,16 +18,39 @@ my $style = <<HERE;
   text-align: justify;
   line-height: 3.5ex;
  }
+ .maketitle {
+  text-align: center;
+ }
+ .author {
+  margin-top: 5ex;
+  margin-bottom: -1ex;
+  font-size: 3ex;
+ }
+ .date {
+  margin-bottom: 4ex;
+  font-size: 3ex;
+ }
  .abstract {
   width: 36em;
   margin-left: auto;
   margin-right: auto;
  }
+ .abstracttitle {
+  margin-top: 4ex;
+  font-size: 2.5ex;
+  text-align: center;
+ }
  h2 {
-   margin: 3ex auto 1.5ex auto;
+   margin-top: 3ex;
+   margin-bottom: 1.5ex;
+ }
+ h2.titleHead {
+  font-size: 4ex;
+  line-height: 4ex;
  }
  h3 {
-   margin: 2ex auto 1ex auto;
+   margin-top: 2ex;
+   margin-bottom: 1ex;
  }
 </style>
 HERE
