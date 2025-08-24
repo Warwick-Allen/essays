@@ -186,6 +186,9 @@ _minted*
 *.data.minted
 *.pyg
 
+# make4ht
+*.mk4
+
 # morewrites
 *.mw
 
@@ -321,3 +324,9 @@ TSWLatexianTemp*
 # option is specified. Footnotes are the stored in a file with suffix Notes.bib.
 # Uncomment the next line to have this generated file ignored.
 #*Notes.bib
+
+
+# The document compiles both Hebrew-names and Greek-names versions.  We only
+# need to keep the language-agnositic source file.
+*.greek.*
+*.hebrew.*

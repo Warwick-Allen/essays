@@ -8,6 +8,7 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage{titlesec}
 \usepackage{nowidow}
+\usepackage{etoolbox}
 \usepackage[style=sbl,backend=biber]{biblatex}
 \addbibresource{references.bib}
 
@@ -35,8 +36,7 @@
 
 % Switch between Greek-based and Hebrew-based names and titles
 \newif\ifusehebrew
-%usehebrewtrue
-\usehebrewfalse
+\usehebrewundefined
 \ifusehebrew
   \def\jesus{Yeshua}
   \def\christ{the Messiah}
