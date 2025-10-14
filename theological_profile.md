@@ -3,6 +3,36 @@
 
 ---
 
+## Table of Contents
+
+### Front Matter
+- [About This Document](#about-this-document)
+- [Executive Summary](#executive-summary)
+
+### Doctrinal Sections
+- [I. Theological Method and Authority](#i-theological-method-and-authority)
+- [II. Theology Proper (Doctrine of God)](#ii-theology-proper-doctrine-of-god)
+- [III. Christology](#iii-christology)
+- [IV. Anthropology and Hamartiology](#iv-anthropology-and-hamartiology)
+- [V. Soteriology (Doctrine of Salvation)](#v-soteriology-doctrine-of-salvation)
+- [VI. Ecclesiology and Church Practice](#vi-ecclesiology-and-church-practice)
+- [VII. Sacraments and Ordinances](#vii-sacraments-and-ordinances)
+- [VIII. Pneumatology (Doctrine of the Holy Spirit)](#viii-pneumatology-doctrine-of-the-holy-spirit)
+- [IX. Means of Grace](#ix-means-of-grace)
+- [X. Christian Life and Ethics](#x-christian-life-and-ethics)
+- [XI. Eschatology (Last Things)](#xi-eschatology-last-things)
+- [XII. Creation and Science](#xii-creation-and-science)
+- [XIII. Other Doctrines](#xiii-other-doctrines)
+- [XIV. Areas of Ongoing Study](#xiv-areas-of-ongoing-study)
+- [XV. Alignment with Historic Creeds](#xv-alignment-with-historic-creeds)
+- [XVI. Theological Identity and Tradition](#xvi-theological-identity-and-tradition)
+- [XVII. Practical Implications](#xvii-practical-implications)
+
+### Conclusion
+- [Conclusion](#conclusion)
+
+---
+
 ## About This Document
 
 This theological profile presents a systematic overview of personal theological convictions, organised by major doctrinal categories. It is intended to provide clarity on theological positions for pastors, church leaders, fellow believers, and anyone interested in understanding this particular theological framework.
@@ -49,36 +79,36 @@ This combination places the holder within the **Free Will Baptist** theological 
 
 ### Scripture and Authority
 - **Primary Position**: Scripture is the supreme and sufficient authority for all matters of faith and practice.
-- **Core Doctrines**: For essential doctrines (salvation, Christ's person and work), Scripture alone suffices (closer to *sola scriptura*).
-- **Secondary Matters**: Tradition (especially early Church Fathers), reason, and experience serve as valuable interpretive tools with genuine theological authority.
-- **Confidence Level**: High (5-6 on personal scale).
+- **Core Doctrines**: For the essential doctrines (salvation, Christ's person and work), Scripture alone suffices (closer to *sola scriptura*).
+- **Secondary Matters**: Tradition (especially the early Church Fathers), reason, and experience serve as valuable interpretive tools with genuine theological authority.
+- **Confidence Level**: High (5-6 on the personal scale).
 
-**Alignment**: Shares the Protestant commitment to biblical authority with Reformed, Baptist, and evangelical traditions, whilst incorporating a more Anglican/Wesleyan appreciation for tradition, reason, and experience as interpretive aids.
+**Alignment**: Shares the Protestant commitment to biblical authority with the Reformed, Baptist, and evangelical traditions, whilst incorporating a more Anglican/Wesleyan appreciation for tradition, reason, and experience as interpretive aids.
 
 ### Hermeneutics
-- **Biblical Inspiration**: Plenary verbal inspiration - all parts of Scripture equally inspired by God.
+- **Biblical Inspiration**: Plenary verbal inspiration - all parts of the Scripture are equally inspired by God.
 - **Infallibility**: Didactic infallibility - everything the Bible intends to teach is infallible and authoritative.
 - **Inerrancy Nuance**: The Bible may contain errors in incidental, non-didactic statements, but this doesn't deny divine superintendence.
-- **Perspicuity**: Core doctrines necessary for salvation are sufficiently clear for all people to understand.
+- **Perspicuity**: The core doctrines necessary for salvation are sufficiently clear for all people to understand.
 - **Canon**: The 66 books of the Protestant canon are the only authoritative books.
-- **Preservation**: Divine preservation ensures no errors in transmission impact core doctrines.
+- **Preservation**: Divine preservation ensures no errors in transmission impact any core doctrines.
 
-**Alignment**: Aligns with evangelical and Reformed understanding of biblical authority, whilst allowing for nuance on inerrancy that some conservative evangelicals also hold.
+**Alignment**: Aligns with the evangelical and Reformed understanding of biblical authority, whilst allowing for a nuance on inerrancy that some conservative evangelicals also hold.
 
 ### Theological Framework
 - **Molinism (Middle Knowledge)**: God knows what free-will choice any creature will make in any circumstance, including all counterfactual truths.
 - **Purpose**: This framework reconciles divine sovereignty with libertarian human freedom.
-- **Confidence**: High (5 on personal scale).
+- **Confidence**: High (5 on the personal scale).
 
-**Alignment**: Shares philosophical framework with Molinist theologians like Luis de Molina, William Lane Craig, and Thomas Flint; provides distinctively Arminian approach to sovereignty and freedom.
+**Alignment**: Shares the philosophical framework with Molinist theologians like Luis de Molina, William Lane Craig, and Thomas Flint; provides a distinctively Arminian approach to sovereignty and freedom.
 
 ---
 
 ## II. Theology Proper (Doctrine of God)
 
 ### Essential Attributes
-All held with highest confidence (5-6):
-- **Trinity**: One being in three persons (Father, Son, Holy Spirit).
+All held with the highest confidence (5-6):
+- **Trinity**: One being in three persons (the Father, the Son, and the Holy Spirit).
 - **Eternal Processions**: The Son proceeds from the Father; the Spirit proceeds from the Father, through the Son; these processions are ontological and eternal (importance 4-5, confidence 5-6).
 - **Aseity**: Self-existing, necessary, non-contingent being.
 - **Eternality**: No beginning or end; exists outside created time but entered time at creation.
@@ -87,20 +117,20 @@ All held with highest confidence (5-6):
 - **Transcendence and Immanence**: Both beyond creation and actively present within it.
 - **Greatest Being**: That of which nothing greater can be conceived.
 
-**Alignment**: These doctrines represent historic Christian orthodoxy affirmed by Catholic, Orthodox, Protestant, and evangelical traditions universally.
+**Alignment**: These doctrines represent historic Christian orthodoxy affirmed by the Catholic, Orthodox, Protestant, and evangelical traditions universally.
 
 ### Divine Sovereignty
 - **Sovereignty and Freedom**: God knowingly allows every event that occurs.
 - **Molinist Framework**: God exercises meticulous providence through middle knowledge whilst respecting libertarian free will.
-- **Time and God**: God entered into time when He created it (presentist view).
+- **Time and God**: God entered into time when He created it (the presentist view).
 
-**Alignment**: The Molinist framework distinguishes this from both strict Calvinist sovereignty (determinism) and open theism (limited foreknowledge), whilst maintaining robust divine sovereignty.
+**Alignment**: The Molinist framework distinguishes this from both the strict Calvinist sovereignty (determinism) and open theism (limited foreknowledge), whilst maintaining a robust divine sovereignty.
 
 ---
 
 ## III. Christology
 
-All Christological affirmations held with highest confidence (5-6):
+All Christological affirmations held with the highest confidence (5-6):
 
 ### Person of Christ
 - **Deity**: Jesus is the Son of God, consubstantial with the Father.
@@ -116,20 +146,20 @@ All Christological affirmations held with highest confidence (5-6):
 - **Second Coming**: Will return to judge living and dead.
 - **Revelation**: Jesus is the full revelation of God's nature and character.
 
-**Alignment**: These Christological affirmations represent the historic Christian orthodoxy enshrined in the Nicene and Chalcedonian creeds, affirmed across Catholic, Orthodox, Protestant, and evangelical traditions.
+**Alignment**: These Christological affirmations represent the historic Christian orthodoxy enshrined in the Nicene and Chalcedonian creeds, affirmed across the Catholic, Orthodox, Protestant, and evangelical traditions.
 
 ---
 
 ## IV. Anthropology and Hamartiology
 
 ### Nature of Humanity
-- **Image of God**: Humans created male and female in God's image, sharing attributes to finite extent.
+- **Image of God**: Humans created male and female in God's image, sharing attributes to a finite extent.
 - **Two Genders**: Only male and female, corresponding to biological sex.
-- **Purpose**: Created as recipients of God's love; chief end is to glorify and enjoy God forever.
+- **Purpose**: Created as recipients of God's love; the chief end is to glorify and enjoy God forever.
 - **Libertarian Free Will**: Humans possess genuine libertarian freedom.
 - **Historicity**: Adam and Eve were actual historical people (lived 6,000 to 1,000,000 years ago).
 
-**Alignment**: Image of God and human purpose align with all Christian traditions. Libertarian free will aligns with Arminian, Wesleyan, Catholic, and Orthodox traditions (contra Reformed/Calvinist compatibilism). The Westminster Catechism's "chief end" statement is affirmed.
+**Alignment**: The image of God and human purpose align with all Christian traditions. Libertarian free will aligns with the Arminian, Wesleyan, Catholic, and Orthodox traditions (contra the Reformed/Calvinist compatibilism). The Westminster Catechism's "chief end" statement is affirmed.
 
 ### Original Sin and the Fall
 **Key Distinctive**: Corruption without inherited guilt.
@@ -140,7 +170,7 @@ All Christological affirmations held with highest confidence (5-6):
 - **Physical Death**: Universal consequence of Adam's sin (corporate/biological), but not personal punishment for those without guilt.
 - **Enmity with God**: Unregenerate persons are enemies of God due to personal sin once accountable.
 
-**Alignment**: Total depravity aligns with Reformed theology. The position on corruption without inherited guilt aligns with many Free Will Baptists, some Anabaptists, and Churches of Christ, whilst differing from Reformed, Catholic, Orthodox, and Wesleyan positions that affirm inherited guilt.
+**Alignment**: Total depravity aligns with the Reformed theology. The position on corruption without inherited guilt aligns with many Free Will Baptists, some Anabaptists, and Churches of Christ, whilst differing from the Reformed, Catholic, Orthodox, and Wesleyan positions that affirm inherited guilt.
 
 ### Sin
 - **Definition**: Failure to follow God's commands; offence against God.
@@ -149,7 +179,7 @@ All Christological affirmations held with highest confidence (5-6):
 - **Age of Accountability**: Varies by individual based on cognitive/moral development; exact timing known only to God.
 - **Cognitively Disabled**: Those who never develop moral agency remain in innocent state throughout life.
 
-**Alignment**: Age of accountability theology is common in Baptist and evangelical circles, though the philosophical grounding in libertarian free will and moral agency is more sophisticated than typical formulations.
+**Alignment**: The age of accountability theology is common in the Baptist and evangelical circles, though the philosophical grounding in libertarian free will and moral agency is more sophisticated than the typical formulations.
 
 ### Infant and Child Soteriology
 **Distinctive Position**: Innocence until accountability.
@@ -161,7 +191,7 @@ All Christological affirmations held with highest confidence (5-6):
 - **Parental Responsibility**: Parents should disciple children towards faith as understanding develops.
 - **Young Conversion**: Children can exercise saving faith as young as 4 years old with basic understanding ("I need Jesus").
 
-**Alignment**: This position is held by many Free Will Baptists, some Anabaptist traditions, and Churches of Christ. It differs from Reformed (some affirm infant guilt with elect infants saved), Catholic/Orthodox (baptismal regeneration removes original guilt), and Wesleyan (inherited guilt removed by baptism) positions.
+**Alignment**: This position is held by many Free Will Baptists, some Anabaptist traditions, and Churches of Christ. It differs from the Reformed (some affirm infant guilt with elect infants saved), Catholic/Orthodox (baptismal regeneration removes original guilt), and Wesleyan (inherited guilt removed by baptism) positions.
 
 ---
 
@@ -178,7 +208,7 @@ Strongly held positions (confidence 3-5):
 4. **Resistible Grace**: God grants people ability to reject His call to salvation.
 5. **Perseverance**: *Uncertain* - leans towards belief that regenerate believers may fall away, but holds with very low confidence (ongoing study).
 
-**Alignment**: These positions align with classical Arminianism, Wesleyanism, Free Will Baptist theology, and are shared by many Pentecostal and charismatic traditions. They stand in contrast to Calvinist/Reformed five points (TULIP). The uncertainty on perseverance represents an open question between Arminian (conditional security) and Calvinist (eternal security) positions.
+**Alignment**: These positions align with classical Arminianism, Wesleyanism, Free Will Baptist theology, and are shared by many Pentecostal and charismatic traditions. They stand in contrast to the Calvinist/Reformed five points (TULIP). The uncertainty on perseverance represents an open question between the Arminian (conditional security) and Calvinist (eternal security) positions.
 
 ### Prevenient Grace
 - **Nature**: Supernatural grace given to all people, enabling free acceptance or rejection of God's call.
@@ -186,7 +216,7 @@ Strongly held positions (confidence 3-5):
 - **Application**: May work gradually or immediately; all God's preparatory work precedes faith.
 - **Infants**: Exact mechanics unclear; ensures all have genuine opportunity to respond.
 
-**Alignment**: This is a distinctively Arminian and Wesleyan doctrine, also held by Catholic and Orthodox traditions in different forms. Reformed theology generally rejects prevenient grace in favour of irresistible grace given only to the elect.
+**Alignment**: This is a distinctively Arminian and Wesleyan doctrine, also held by the Catholic and Orthodox traditions in different forms. The Reformed theology generally rejects prevenient grace in favour of irresistible grace given only to the elect.
 
 ### Atonement Theories
 Multiple aspects affirmed:
@@ -195,7 +225,7 @@ Multiple aspects affirmed:
 - **Propitiation**: Christ's death satisfied God's wrath against sin.
 - **Effectual Application**: Becomes effective when person repents and trusts Christ.
 
-**Alignment**: Penal substitutionary atonement is the predominant evangelical and Reformed understanding. Catholic, Orthodox, and some Anglican traditions emphasise other atonement theories (Christus Victor, moral influence, recapitulation) alongside or instead of penal substitution. The affirmation of multiple theories represents a comprehensive view held by many evangelicals.
+**Alignment**: The penal substitutionary atonement is the predominant evangelical and Reformed understanding. The Catholic, Orthodox, and some Anglican traditions emphasise other atonement theories (Christus Victor, moral influence, recapitulation) alongside or instead of penal substitution. The affirmation of multiple theories represents a comprehensive view held by many evangelicals.
 
 ### Justification and Sanctification
 - **Justification**: Instantaneous, forensic declaration of righteousness by faith alone.
@@ -205,14 +235,14 @@ Multiple aspects affirmed:
 - **Complete Freedom from Sin**: Only achieved at glorification, not in this life.
 - **Asymptotic Progress**: Believers grow progressively towards holiness but never achieve sinless perfection in this life.
 
-**Alignment**: The simultaneity of justification and initial sanctification aligns with Reformed and Wesleyan theology (contra Catholic progressive justification). The rejection of attainable perfection in this life aligns with Reformed and most Baptist theology, whilst differing from Wesleyan-Holiness traditions that affirm entire sanctification or Christian perfection as possible in this life.
+**Alignment**: The simultaneity of justification and initial sanctification aligns with the Reformed and Wesleyan theology (contra the Catholic progressive justification). The rejection of attainable perfection in this life aligns with the Reformed and most Baptist theology, whilst differing from the Wesleyan-Holiness traditions that affirm entire sanctification or Christian perfection as possible in this life.
 
 ### Faith and Works
 - **Justification**: By faith alone; works have no merit in justification.
 - **Necessity of Works**: Saving faith necessarily produces good works as evidence.
 - **Relationship**: Faith is the root, works are the fruit.
 
-**Alignment**: This represents the Protestant consensus on *sola fide*, affirmed by Reformed, Lutheran, Baptist, and evangelical traditions, distinguishing from Catholic understanding of faith and works cooperating in justification.
+**Alignment**: This represents the Protestant consensus on *sola fide*, affirmed by the Reformed, Lutheran, Baptist, and evangelical traditions, distinguishing from the Catholic understanding of faith and works cooperating in justification.
 
 ### Assurance
 - **Direct Witness**: Comes through Holy Spirit's witness to believer's spirit.
@@ -220,7 +250,7 @@ Multiple aspects affirmed:
 - **False Assurance**: Purported Spirit witness without evidence of sanctification is likely illusory.
 - **Confidence**: High (5).
 
-**Alignment**: The emphasis on direct witness of the Spirit aligns with Wesleyan, Pentecostal, and charismatic traditions. The balance with indirect witness (sanctification) aligns with Reformed emphasis on perseverance and fruit. This represents a synthesis of both emphases.
+**Alignment**: The emphasis on the direct witness of the Spirit aligns with the Wesleyan, Pentecostal, and charismatic traditions. The balance with the indirect witness (sanctification) aligns with the Reformed emphasis on perseverance and fruit. This represents a synthesis of both emphases.
 
 ---
 
@@ -232,7 +262,7 @@ Multiple aspects affirmed:
 - **Social Holiness**: Christianity must be lived in community; believers need fellowship and accountability.
 - **Church Authority**: Any person or organisation attempting to issue binding decrees on all believers' consciences is antichrist.
 
-**Alignment**: The distinction between universal and local church is common to Protestant theology. The emphasis on community aligns with Wesleyan "social holiness" and Anabaptist emphasis on believers' church. The rejection of binding ecclesiastical decrees aligns with Protestant rejection of papal authority and congregational/Baptist polity.
+**Alignment**: The distinction between the universal and local church is common to the Protestant theology. The emphasis on community aligns with the Wesleyan "social holiness" and the Anabaptist emphasis on the believers' church. The rejection of binding ecclesiastical decrees aligns with the Protestant rejection of papal authority and the congregational/Baptist polity.
 
 ### Church Offices
 - **Biblical Offices Only**: Elder (pastor, overseer, bishop) and deacon.
@@ -242,7 +272,7 @@ Multiple aspects affirmed:
 - **Titles**: Elders should not use titles like "pastor" or "father" (held lightly, confidence 2).
 - **Authority Structure**: Prophets and apostles (missionaries) subject to elder authority.
 
-**Alignment**: Two-office view aligns with Baptist and many Reformed churches (contra Presbyterian three offices including ruling elders, and Catholic/Orthodox multiple orders). Complementarian position (male-only eldership) aligns with conservative Baptist, Reformed, and many evangelical churches. Female deacons align with many Baptist churches. Rejection of titles aligns with some Brethren and Anabaptist traditions.
+**Alignment**: The two-office view aligns with the Baptist and many Reformed churches (contra the Presbyterian three offices including ruling elders, and the Catholic/Orthodox multiple orders). The complementarian position (male-only eldership) aligns with the conservative Baptist, Reformed, and many evangelical churches. Female deacons align with many Baptist churches. The rejection of titles aligns with some Brethren and Anabaptist traditions.
 
 ### Church Mission
 - **Evangelism**: Primary mission, addressing eternal salvation.
@@ -250,7 +280,7 @@ Multiple aspects affirmed:
 - **Balance**: Both are essential expressions of the gospel.
 - **Not Dominionist**: Church not expected to control secular world until Christ returns.
 
-**Alignment**: The priority of evangelism with mandatory social action represents an evangelical consensus, particularly strong in Wesleyan and holiness traditions. Rejection of dominionism distinguishes from some Reconstructionist and theonomic Reformed positions.
+**Alignment**: The priority of evangelism with mandatory social action represents an evangelical consensus, particularly strong in the Wesleyan and holiness traditions. The rejection of dominionism distinguishes from some Reconstructionist and theonomic Reformed positions.
 
 ---
 
@@ -283,7 +313,7 @@ Multiple aspects affirmed:
 - Requires moral agency that infants lack.
 - Children already "holy" (1 Cor 7:14) in covenant community without baptism.
 
-**Alignment**: Believers' baptism aligns with Baptist, Anabaptist, Pentecostal, and Churches of Christ traditions. The high sacramental view (baptism as means of grace with supernatural work) is unusual in Baptist circles but aligns more with Churches of Christ, some Anabaptist traditions, and even Anglican/Lutheran understandings (though applied only to believers). The willingness to accept other modes distinguishes from strict Baptist immersionism. This represents a synthesis of Baptist convictions with higher sacramental theology.
+**Alignment**: The believers' baptism aligns with the Baptist, Anabaptist, Pentecostal, and Churches of Christ traditions. The high sacramental view (baptism as a means of grace with supernatural work) is unusual in the Baptist circles but aligns more with Churches of Christ, some Anabaptist traditions, and even the Anglican/Lutheran understandings (though applied only to believers). The willingness to accept other modes distinguishes from the strict Baptist immersionism. This represents a synthesis of the Baptist convictions with higher sacramental theology.
 
 ### The Lord's Supper (Eucharist)
 **Distinctive**: High sacramental view unusual in Baptist circles.
@@ -301,7 +331,7 @@ Multiple aspects affirmed:
 - **Open to Believers**: All true believers may partake, even if not yet baptised.
 - **Closed to Non-Believers**: Non-believers may not partake.
 
-**Alignment**: The spiritual presence view aligns with Reformed, Anglican, and Wesleyan theology (contra Baptist memorialism and Catholic transubstantiation). Frequent communion aligns with Wesleyan, Anglican, Catholic, and Orthodox practice (contra typical evangelical quarterly or monthly practice). Open communion for believers aligns with Baptist and many evangelical churches (contra Lutheran closed communion and Catholic/Orthodox requirements).
+**Alignment**: The spiritual presence view aligns with the Reformed, Anglican, and Wesleyan theology (contra the Baptist memorialism and the Catholic transubstantiation). Frequent communion aligns with the Wesleyan, Anglican, Catholic, and Orthodox practice (contra the typical evangelical quarterly or monthly practice). Open communion for believers aligns with the Baptist and many evangelical churches (contra the Lutheran closed communion and the Catholic/Orthodox requirements).
 
 ---
 
@@ -338,7 +368,7 @@ Multiple aspects affirmed:
 - **Experience Governed by Scripture**: Religious experience is real and important but must be subordinate to rational understanding of Scripture.
 - **Guarding Against Error**: Subjective feelings untethered from biblical truth lead to heresy.
 
-**Alignment**: Normative continuationism aligns with Pentecostal, charismatic, and Third Wave movements, and increasingly with younger evangelicals. The careful biblical testing and Scripture's supremacy over prophecy aligns with Reformed charismatic theology (e.g., Wayne Grudem, Sam Storms). This distinguishes from cessationist Reformed, Baptist, and dispensationalist traditions, and from some Pentecostal traditions that give prophecy near-scriptural authority. The balance of Word and Spirit represents thoughtful charismatic theology.
+**Alignment**: The normative continuationism aligns with the Pentecostal, charismatic, and Third Wave movements, and increasingly with younger evangelicals. The careful biblical testing and Scripture's supremacy over prophecy aligns with the Reformed charismatic theology (e.g., Wayne Grudem, Sam Storms). This distinguishes from the cessationist Reformed, Baptist, and dispensationalist traditions, and from some Pentecostal traditions that give prophecy near-scriptural authority. The balance of Word and Spirit represents thoughtful charismatic theology.
 
 ---
 
@@ -349,7 +379,7 @@ Multiple aspects affirmed:
 - **Not Merely Helpful**: Essential for spiritual growth, not optional.
 - **God's Ordinary Method**: Grace ordinarily flows through these means, though God is not bound by them.
 
-**Alignment**: This high view of means of grace aligns strongly with Wesleyan, Anglican, Lutheran, Catholic, and Orthodox traditions, whilst being less emphasised in typical Baptist and low-church evangelical circles.
+**Alignment**: This high view of the means of grace aligns strongly with the Wesleyan, Anglican, Lutheran, Catholic, and Orthodox traditions, whilst being less emphasised in the typical Baptist and low-church evangelical circles.
 
 ### Instituted Means
 Ordained by Christ:
@@ -368,14 +398,14 @@ Ordained by Christ:
 - Taking up one's cross.
 - Vigilance (watching) - spiritual alertness and awareness, being watchful against sin and temptation, maintaining readiness for Christ's return.
 
-**Alignment**: This categorisation and emphasis on means of grace comes from Wesleyan theology, though the specific means are recognised across many traditions. The inclusion of baptism and service to the saints as instituted means represents a comprehensive sacramental theology.
+**Alignment**: This categorisation and emphasis on the means of grace comes from the Wesleyan theology, though the specific means are recognised across many traditions. The inclusion of baptism and service to the saints as instituted means represents a comprehensive sacramental theology.
 
 ### Prayer
 - **Healing**: God heals in response to prayer, both miraculously and by natural means.
 - **Delayed Healing**: Sometimes God delays healing; sometimes until resurrection.
 - **Declarative Prayer**: Christians should not declare something in prayer unless first revealed by God.
 
-**Alignment**: Prayer for healing aligns with charismatic, Pentecostal, and traditional Christian practice. The caution on declarative prayer distinguishes from "Word of Faith" theology.
+**Alignment**: The prayer for healing aligns with the charismatic, Pentecostal, and traditional Christian practice. The caution on declarative prayer distinguishes from the "Word of Faith" theology.
 
 ---
 
@@ -387,7 +417,7 @@ Ordained by Christ:
 - **Expectation**: Believers expected to live godly lives and show fruit of Spirit.
 - **Suffering**: Christians should expect to suffer for following Christ.
 
-**Alignment**: Progressive sanctification without perfectionism aligns with Reformed, Lutheran, and most Baptist theology. It differs from Wesleyan-Holiness traditions that affirm entire sanctification as attainable.
+**Alignment**: The progressive sanctification without perfectionism aligns with the Reformed, Lutheran, and most Baptist theology. It differs from the Wesleyan-Holiness traditions that affirm entire sanctification as attainable.
 
 ### Stewardship and Wealth
 - **Three Principles**: Earn all you can, save all you can, give all you can.
@@ -396,7 +426,7 @@ Ordained by Christ:
 - **Subject to Calling**: Economic principles subject to specific divine calling (e.g., full-time ministry may require different approach).
 - **Wealth Not Prosperity Gospel**: Rejects notion that prosperity is sign of God's blessing.
 
-**Alignment**: The three principles come directly from John Wesley's sermon "The Use of Money," representing Wesleyan economic ethics. The rejection of legalistic tithing aligns with New Covenant theology. The rejection of prosperity gospel aligns with mainstream evangelical and Reformed theology.
+**Alignment**: The three principles come directly from John Wesley's sermon "The Use of Money," representing the Wesleyan economic ethics. The rejection of legalistic tithing aligns with the New Covenant theology. The rejection of the prosperity gospel aligns with the mainstream evangelical and Reformed theology.
 
 ### Marriage and Family
 - **Definition**: Only between one man and one woman.
@@ -407,7 +437,7 @@ Ordained by Christ:
   - Sexual intercourse outside marriage is sinful.
   - Homosexual acts are sinful.
 
-**Alignment**: These positions represent conservative evangelical, Reformed, Baptist, Catholic, and Orthodox consensus on marriage and sexuality. The complementarian position distinguishes from egalitarian evangelicals.
+**Alignment**: These positions represent the conservative evangelical, Reformed, Baptist, Catholic, and Orthodox consensus on marriage and sexuality. The complementarian position distinguishes from the egalitarian evangelicals.
 
 ### Gender Roles
 - **In Marriage**: Complementarian - different roles with husband as head.
@@ -417,7 +447,7 @@ Ordained by Christ:
   - Both men and women may function as prophets as Spirit enables.
   - Both may serve as apostles (missionaries).
 
-**Alignment**: Complementarianism aligns with conservative Baptist, Reformed, Catholic, and Orthodox traditions. The allowance for women as deacons and prophets represents a moderate complementarian position (contra strict complementarianism that restricts all public ministry).
+**Alignment**: The complementarianism aligns with the conservative Baptist, Reformed, Catholic, and Orthodox traditions. The allowance for women as deacons and prophets represents a moderate complementarian position (contra the strict complementarianism that restricts all public ministry).
 
 ---
 
@@ -451,7 +481,7 @@ Ordained by Christ:
 - **No Purgatory**: Rejects Roman Catholic doctrine.
 - **No Universalism**: Not all will be saved.
 
-**Alignment**: Premillennialism aligns with dispensationalist, many Baptist, and Pentecostal traditions. It differs from amillennialism (Reformed, Lutheran, Catholic) and postmillennialism (some Reformed). Pre-tribulation rapture is common in dispensationalist circles. Conscious eternal punishment aligns with traditional Christian orthodoxy (Catholic, Orthodox, Reformed, Baptist, evangelical), differing from annihilationism and universalism. The low confidence reflects appropriate humility on debated eschatological details.
+**Alignment**: The premillennialism aligns with the dispensationalist, many Baptist, and Pentecostal traditions. It differs from the amillennialism (Reformed, Lutheran, Catholic) and the postmillennialism (some Reformed). The pre-tribulation rapture is common in the dispensationalist circles. The conscious eternal punishment aligns with the traditional Christian orthodoxy (Catholic, Orthodox, Reformed, Baptist, evangelical), differing from the annihilationism and universalism. The low confidence reflects appropriate humility on the debated eschatological details.
 
 ---
 
@@ -484,7 +514,7 @@ Ordained by Christ:
 - **Anti-Platonism**: Abstract objects do not exist; if they do, they're contingent on God (confidence 3).
 - **Presentism**: Only present time exists; past has ceased, future hasn't yet come (confidence 3).
 
-**Alignment**: Old earth creationism with theistic evolution aligns with many mainline Protestant, Catholic, and Orthodox positions, and increasingly with evangelical scholars (e.g., BioLogos, Reasons to Believe frameworks). It differs from young earth creationism (strict literalist, some Baptist and Reformed traditions) and from purely naturalistic evolution. The allowance for hermeneutical diversity on Genesis aligns with many evangelical statements (e.g., Lausanne Covenant). The low confidence on many creation topics reflects ongoing scientific and theological dialogue.
+**Alignment**: The old earth creationism with theistic evolution aligns with many mainline Protestant, Catholic, and Orthodox positions, and increasingly with evangelical scholars (e.g., BioLogos, Reasons to Believe frameworks). It differs from the young earth creationism (strict literalist, some Baptist and Reformed traditions) and from purely naturalistic evolution. The allowance for hermeneutical diversity on Genesis aligns with many evangelical statements (e.g., the Lausanne Covenant). The low confidence on many creation topics reflects the ongoing scientific and theological dialogue.
 
 ---
 
@@ -496,14 +526,14 @@ Ordained by Christ:
 - **Prayer to Mary**: Attempting to pray to Mary or other departed saints is prohibited.
 - **No Special Status**: Rejects Catholic Marian dogmas.
 
-**Alignment**: These positions represent standard Protestant theology, differing from Catholic and Orthodox Marian doctrines (perpetual virginity, Immaculate Conception, Assumption, intercession of saints).
+**Alignment**: These positions represent the standard Protestant theology, differing from the Catholic and Orthodox Marian doctrines (perpetual virginity, Immaculate Conception, Assumption, intercession of saints).
 
 ### Biblical Translations
 - **Multiple Good Translations**: Many very good English translations exist.
 - **Modern Advantages**: Modern translations have advantages due to Dead Sea Scrolls.
 - **Warning**: "The Passion Translation" is dangerous and should be avoided.
 
-**Alignment**: Openness to multiple translations aligns with mainstream evangelical scholarship. Rejection of "The Passion Translation" reflects concerns shared by many evangelical biblical scholars.
+**Alignment**: The openness to multiple translations aligns with the mainstream evangelical scholarship. The rejection of "The Passion Translation" reflects concerns shared by many evangelical biblical scholars.
 
 ---
 
@@ -589,20 +619,20 @@ The following areas are marked for ongoing study (where confidence is 2+ points 
 
 ### Distinctiveness
 This theological profile is **uncommon but internally coherent**, representing a thoughtful synthesis that:
-- Maintains Baptist convictions on baptism and church polity.
-- Embraces Arminian soteriology through Molinist framework.
-- Incorporates charismatic pneumatology with biblical safeguards.
-- Elevates means of grace beyond typical Baptist practice.
+- Maintains the Baptist convictions on baptism and church polity.
+- Embraces the Arminian soteriology through the Molinist framework.
+- Incorporates the charismatic pneumatology with biblical safeguards.
+- Elevates the means of grace beyond the typical Baptist practice.
 - Distinguishes between corruption and guilt in anthropology.
-- Balances theological confidence with appropriate humility.
+- Balances the theological confidence with appropriate humility.
 
 ### Theological Influences
 Drawing from multiple streams:
-- **Arminian Tradition**: Arminius, Remonstrants, Free Will Baptists.
-- **Baptist Tradition**: Believers' church, regenerate membership, local autonomy.
-- **Charismatic Movement**: Pentecostalism, Third Wave, continuationism.
-- **Reformed Tradition**: High view of Scripture, emphasis on God's sovereignty (via Molinism).
-- **Wesleyan Tradition**: Means of grace, social holiness, balance of authorities.
+- **The Arminian Tradition**: Arminius, the Remonstrants, the Free Will Baptists.
+- **The Baptist Tradition**: The believers' church, regenerate membership, local autonomy.
+- **The Charismatic Movement**: Pentecostalism, the Third Wave, continuationism.
+- **The Reformed Tradition**: High view of Scripture, emphasis on God's sovereignty (via Molinism).
+- **The Wesleyan Tradition**: The means of grace, social holiness, balance of authorities.
 - **Philosophical Theology**: Molinism (William Lane Craig, Thomas Flint, Kirk MacGregor).
 
 ---
@@ -616,30 +646,30 @@ Drawing from multiple streams:
 - Emphasises both evangelism and social concern.
 - Practises believers' baptism by immersion.
 - Complementarian leadership structure.
-- Service-oriented (foot-washing as example).
+- Service-oriented (foot-washing as an example).
 
 ### Spiritual Formation
-- Disciplines of prayer, fasting, Scripture, fellowship.
+- The disciplines of prayer, fasting, Scripture, and fellowship.
 - Progressive growth in holiness without perfectionism.
-- Community accountability essential.
+- Community accountability is essential.
 - Experience governed by Scripture and reason.
-- Openness to Spirit's leading with discernment.
+- Openness to the Spirit's leading with discernment.
 - Vigilance against sin and spiritual warfare.
 
 ### Ethical Framework
 - Biblical commands are authoritative.
-- Conscience guided by Scripture and Spirit.
+- Conscience guided by Scripture and the Spirit.
 - Generous stewardship of resources.
 - Sexual ethics based on biblical marriage.
 - Social concern alongside personal holiness.
 - Earning, saving, and giving guided by calling.
 
 ### Intellectual Approach
-- High confidence on core Christian doctrines.
-- Appropriate uncertainty on debated matters.
+- High confidence on the core Christian doctrines.
+- Appropriate uncertainty on the debated matters.
 - Ongoing study where importance exceeds confidence.
 - Values both theological precision and pastoral sensitivity.
-- Molinist framework for complex questions of sovereignty and freedom.
+- The Molinist framework for complex questions of sovereignty and freedom.
 - Appreciation for multiple Christian traditions.
 
 ---
@@ -647,17 +677,17 @@ Drawing from multiple streams:
 ## Conclusion
 
 This theological profile represents a believer who:
-- Is deeply committed to historic Christian orthodoxy.
+- Is deeply committed to the historic Christian orthodoxy.
 - Thoughtfully integrates insights from multiple traditions.
-- Maintains appropriate theological humility on debated matters.
+- Maintains appropriate theological humility on the debated matters.
 - Balances Word and Spirit, doctrine and experience.
 - Pursues holiness without perfectionism.
 - Engages both mind and heart in faith.
 - Values both theological precision and practical application.
 
-The profile is characterised by **internal coherence** within a Molinist Arminian framework, **pastoral sensitivity** on matters of conscience and practice, and **theological confidence** balanced with humility where Scripture allows for diverse understandings.
+The profile is characterised by **the internal coherence** within a Molinist Arminian framework, **the pastoral sensitivity** on matters of conscience and practice, and **the theological confidence** balanced with humility where Scripture allows for diverse understandings.
 
-This synthesis demonstrates that thoughtful Christians can draw from the riches of multiple traditions - Reformed, Arminian, Baptist, Pentecostal, Wesleyan, and others - to construct a theological framework that is both biblically grounded and intellectually satisfying, whilst remaining appropriately humble on matters where Christians have historically disagreed.
+This synthesis demonstrates that thoughtful Christians can draw from the riches of multiple traditions - the Reformed, Arminian, Baptist, Pentecostal, Wesleyan, and others - to construct a theological framework that is both biblically grounded and intellectually satisfying, whilst remaining appropriately humble on matters where Christians have historically disagreed.
 
 ---
 
