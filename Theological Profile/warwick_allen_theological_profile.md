@@ -95,6 +95,65 @@ This combination places the holder within the **Free Will Baptist** theological 
 - **Canon**: The 66 books of the Protestant canon are the only authoritative books
 - **Preservation**: Divine preservation ensures no errors in transmission impact core doctrines
 
+### The Canon of Scripture
+
+**Formation and Recognition**
+- Divine Authority: A writing is canonical Scripture if, and only if, it was breathed out by God (2 Timothy 3:16).
+- Church Recognition: The Church recognised books that already possessed divine authority; the Church did not confer authority upon them.
+- Role of Councils: Church councils played a limited role in helping the Church recognise the canon, but did not establish it.
+- Marks of Canonicity: Apostolic authorship or approval, the Holy Spirit's witness to the Church, and the internal qualities of the books themselves all served as clues helping the Church recognise which books were breathed out by God and divinely appointed to be recorded as Scripture.
+- Confidence Level: High (5)
+
+**Closure of the Canon**
+- Closed Canon: The canon is closed; no new books can be added to Scripture.
+- Confidence Level: Very strong (5) - would require overwhelmingly strong argument to be dissuaded.
+- Importance Rating: High (5) - denying this is heterodox but not heresy; a serious error that will severely impact one's Christian walk.
+- Distinction from Prophecy: Other prophecy (not recorded as Scripture) may also be breathed out by God, but the nature of these prophecies (e.g., limited scope) and the Spirit's guidance did not lead the Church to recognise them as Scripture.
+
+**The Deuterocanonical Books**
+- Status: The books included in the Catholic and Orthodox canons but not in the Protestant canon (Tobit, Judith, 1-2 Maccabees, Wisdom, Sirach, Baruch, additions to Esther and Daniel) are useful for historical understanding but are not authoritative Scripture.
+- Use in Teaching: May be read in church services and used for teaching, but only as aids to the exegesis of canonical Scripture.
+- Caution Required: Care should be taken to prevent listeners from thinking of these books as Scripture.
+- Bible Printing: Preference is that deuterocanonical books not be printed in Bibles to maintain clear distinction between canon and other writings, though this is not strongly held; if included, clear separation from canonical text is essential.
+- Confidence Level: Low (2) - held lightly regarding their use in teaching.
+
+### Relationship Between Old and New Testaments
+
+**Four Relational Frameworks**
+The Old and New Testaments relate to one another through multiple complementary frameworks, none of which needs to be ranked above the others:
+
+1. **Promise and Fulfilment**: The Old Testament contains promises that find their fulfilment in the New Testament, supremely in Christ.
+
+2. **Type and Antitype**: Old Testament persons, events, and institutions were real and served genuine purposes in their own contexts, whilst also foreshadowing greater realities fulfilled in Christ and the New Covenant. (Note: "Type and antitype" is preferred over "shadow and reality" because the types were absolutely real, even as they pointed forward.)
+
+3. **Continuity with Discontinuity**: The testaments share fundamental continuity in God's character, purposes, and moral standards, whilst also exhibiting significant discontinuity in covenantal arrangements, ceremonial requirements, and the progressive unfolding of redemption.
+
+4. **Progressive Revelation**: God progressively revealed His character, purposes, and redemptive plan throughout history, with fuller revelation coming in the New Testament and supremely in Christ, "the exact imprint of his nature" (Hebrews 1:3).
+
+- Confidence Level: Moderate (3) - could be dissuaded by good counter-argument.
+- Importance Rating: Moderate (3) - Christians within the same fellowship might disagree.
+
+### The Mosaic Law and Christian Ethics
+
+**Fulfilment in Christ**
+- Vicarious Fulfilment: Christ fulfilled all the law; Christians vicariously fulfil the law by being united to Christ.
+- Not Under the Mosaic Covenant: Christians are not under the Mosaic Covenant as a covenant system.
+
+**Determining Binding Laws**
+When discerning which Old Testament moral standards remain binding:
+- **Covenant-People vs. All-People Laws**: Laws given outside the Mosaic Covenant or explicitly applied to Gentile nations are typically binding for all people across all time.
+- **Gentile Judgements**: Attention should be paid to the reasons for judgements wrought against Gentile nations in the Old Testament, as these reveal universal moral standards.
+- **New Testament Reaffirmation**: When New Testament epistles restate an Old Testament law, this generally indicates the law has been carried over into the Church era and remains binding upon Christians.
+- **Caution with Gospel Accounts**: Care must be taken when interpreting Jesus' words in the Gospels, as He was primarily speaking to people still living under the Old Covenant; careful examination of context is required.
+- **Grey Areas**: Careful Bible study will clarify which laws were for Israel only and which were for all people.
+
+**Examples and Applications**
+- Ceremonial and Civil Laws: Laws unique to Israel's covenant status (such as circumcision post-Christ, dietary restrictions, festivals, temple rituals) are not binding on Christians.
+- Universal Moral Laws: Laws reflecting God's unchanging character and applied beyond Israel (such as prohibitions on murder, adultery, theft, idolatry, sexual immorality) remain binding.
+- Jerusalem Council: The advice to avoid blood and strangled animals (Acts 15) represents a grey area requiring careful consideration.
+
+- Confidence Level: Moderate (3) - the framework needs refinement for edge cases, though strong confidence exists that Christians are not required to keep Mosaic laws never applied to Gentiles.
+
 ### Theological Framework
 - **Molinism (Middle Knowledge)**: God knows what free-will choice any creature will make in any circumstance, including all counterfactual truths
 - **Purpose**: This framework reconciles divine sovereignty with libertarian human freedom
