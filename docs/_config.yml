@@ -1,6 +1,9 @@
 title: "Warwick Allen's Theological Profile"
 description: "A Molinist Arminian Baptist Charismatic with High Sacramental Convictions"
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
+
+# Force rebuild
+updated: 2025-10-15
 
 # GitHub Pages specific settings
 baseurl: "/essays"

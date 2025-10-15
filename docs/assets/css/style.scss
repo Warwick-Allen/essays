@@ -3,40 +3,67 @@
 
 @import "{{ site.theme }}";
 
-/* Custom styling for theological profile */
+/* Dark Theme Custom Styling */
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   line-height: 1.7;
-  color: #333;
+  color: #e6edf3 !important;
+  background-color: #0d1117 !important;
+}
+
+/* Force dark background on all containers */
+#main_content_wrap,
+.outer,
+.inner,
+.main-content,
+#main-content,
+section {
+  background-color: #0d1117 !important;
+  color: #e6edf3 !important;
 }
 
 .main-content {
   max-width: 900px;
   margin: 0 auto;
+  color: #e6edf3;
+  background-color: #0d1117 !important;
 }
 
-/* Improve heading styling */
+/* Improve heading styling with Elizabethan serif font */
 h1, h2, h3, h4, h5, h6 {
   margin-top: 1.5em;
   margin-bottom: 0.5em;
   font-weight: 600;
   line-height: 1.3;
-  color: #2c3e50;
+  color: #58a6ff;
+  font-family: "Sorts Mill Goudy", Garamond, "Libre Baskerville", Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
 
 h1 {
-  border-bottom: 3px solid #3498db;
+  border-bottom: 3px solid #58a6ff;
   padding-bottom: 0.3em;
+  color: #79c0ff;
+  font-size: 2.5em;
+  font-weight: 500;
+  letter-spacing: 0.02em;
 }
 
 h2 {
-  border-bottom: 2px solid #e1e4e8;
+  border-bottom: 2px solid #30363d;
+  background: none !important;
+  background-image: none !important;
   padding-bottom: 0.3em;
+  color: #79c0ff;
+  font-size: 2em;
+  font-weight: 500;
+  letter-spacing: 0.02em;
 }
 
 h3 {
-  color: #34495e;
+  color: #58a6ff;
+  font-size: 1.5em;
+  font-weight: 500;
 }
 
 /* Improve list styling */
@@ -51,34 +78,37 @@ li {
 
 /* Style for confidence/importance indicators */
 strong {
-  color: #c7254e;
+  color: #79c0ff;
   font-weight: 600;
 }
 
 /* Blockquote styling */
 blockquote {
-  border-left: 4px solid #3498db;
+  border-left: 4px solid #58a6ff;
   padding-left: 1em;
   margin-left: 0;
-  color: #555;
+  color: #8b949e;
   font-style: italic;
+  background-color: #161b22;
+  padding: 0.5em 1em;
+  border-radius: 3px;
 }
 
 /* Link styling */
 a {
-  color: #3498db;
+  color: #58a6ff;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
-  color: #2980b9;
+  color: #79c0ff;
 }
 
 /* Table of contents styling */
 #table-of-contents + ul {
-  background-color: #f8f9fa;
-  border: 1px solid #e1e4e8;
+  background-color: #161b22;
+  border: 1px solid #30363d;
   border-radius: 5px;
   padding: 1.5em;
   margin-bottom: 2em;
@@ -87,23 +117,210 @@ a:hover {
 /* Horizontal rule styling */
 hr {
   border: none;
-  border-top: 2px solid #e1e4e8;
+  border-top: 2px solid #30363d;
+  background: none !important;
+  background-image: none !important;
   margin: 2em 0;
 }
 
 /* Code styling */
 code {
-  background-color: #f6f8fa;
+  background-color: #161b22;
   padding: 0.2em 0.4em;
   border-radius: 3px;
   font-size: 0.9em;
-  color: #e83e8c;
+  color: #ff7b72;
+  border: 1px solid #30363d;
+}
+
+/* Paragraph styling */
+p {
+  color: #c9d1d9;
+}
+
+/* Better contrast for main content */
+.main-content {
+  background-color: #0d1117 !important;
+}
+
+/* Page header styling - force dark theme with stronger overrides */
+.page-header {
+  background-color: #0d1117 !important;
+  background-image: none !important;
+  border: none !important;
+  background: #0d1117 !important;
+}
+
+/* Remove grey header background completely */
+.page-header::before,
+.page-header::after {
+  display: none !important;
+  background: none !important;
+}
+
+/* Override any gradient or background on header */
+.page-header .inner {
+  background-color: #0d1117 !important;
+  background-image: none !important;
+  background: #0d1117 !important;
+}
+
+/* Force dark theme on all possible header elements */
+header,
+.header,
+.page-header,
+.page-header *,
+.page-header .inner,
+.page-header .inner *,
+body,
+html,
+#main_content_wrap,
+.outer,
+.inner,
+.main-content,
+#main-content,
+section,
+div,
+article {
+  background-color: #0d1117 !important;
+  background-image: none !important;
+  background: #0d1117 !important;
+}
+
+/* Override any theme-specific backgrounds */
+.page-header {
+  background: #0d1117 !important;
+  background-color: #0d1117 !important;
+  background-image: none !important;
+  background-size: unset !important;
+  background-repeat: no-repeat !important;
+  background-position: unset !important;
+}
+
+/* Force dark theme on viewport */
+html {
+  background-color: #0d1117 !important;
+}
+
+body {
+  background-color: #0d1117 !important;
+  background-image: none !important;
+}
+
+/* Hide or style the GitHub ribbon */
+.ribbon {
+  display: none !important;
+}
+
+/* Footer styling */
+.site-footer {
+  background-color: #0d1117 !important;
+  border-top: 1px solid #30363d;
+}
+
+.site-footer-owner,
+.site-footer-credits {
+  color: #8b949e;
+}
+
+/* Import Elizabethan-style font */
+@import url('https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy:ital@0;1&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+/* Hide the prominent GitHub ribbon with aggressive overrides */
+.fork-me-on-github,
+.github-corner,
+.ribbon,
+.ribbon-wrapper,
+.ribbon-wrapper-fixed,
+a[href*="github.com"][class*="btn"],
+a[href*="github.com"][class*="ribbon"],
+.btn,
+.github-corner:hover .octo-arm,
+.github-corner .octo-arm,
+a[href*="github.com"],
+a[href*="github.com"]:hover,
+a[href*="github.com"]:focus,
+a[href*="github.com"]:active,
+a[href*="github.com"]:visited {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  position: absolute !important;
+  left: -9999px !important;
+  top: -9999px !important;
+  width: 0 !important;
+  height: 0 !important;
+  overflow: hidden !important;
+}
+
+/* Hide any GitHub buttons in header and everywhere */
+.page-header a[href*="github.com"],
+.page-header .btn,
+.page-header .github-corner,
+body a[href*="github.com"],
+html a[href*="github.com"] {
+  display: none !important;
+  visibility: hidden !important;
+}
+
+/* Specifically target the "View on GitHub" text */
+a[href*="github.com"]:before,
+a[href*="github.com"]:after {
+  display: none !important;
+  content: none !important;
+}
+
+/* Style a subtle GitHub link at bottom */
+.github-link {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: rgba(24, 24, 27, 0.8);
+  color: #8b949e;
+  text-decoration: none;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 0.85em;
+  border: 1px solid #30363d;
+  transition: all 0.2s ease;
+  backdrop-filter: blur(10px);
+}
+
+.github-link:hover {
+  color: #58a6ff;
+  border-color: #58a6ff;
+  background-color: rgba(24, 24, 27, 0.9);
+}
+
+.github-link::before {
+  content: "View Source";
+}
+
+.github-link svg {
+  display: none;
+}
+
+/* Table styling if present */
+table {
+  border-color: #30363d;
+  color: #e6edf3;
+}
+
+th {
+  background-color: #161b22;
+  border-color: #30363d;
+}
+
+td {
+  border-color: #30363d;
 }
 
 /* Print-friendly styling */
 @media print {
   body {
     font-size: 12pt;
+    background-color: white;
+    color: black;
   }
   
   .page-header {
@@ -113,6 +330,10 @@ code {
   a[href]:after {
     content: " (" attr(href) ")";
     font-size: 0.8em;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: black;
   }
 }
 

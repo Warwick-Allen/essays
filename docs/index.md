@@ -734,3 +734,7 @@ The profile is characterized by **internal coherence** within a Molinist Arminia
 ---
 
 *This profile reflects beliefs as of October 2025, with recognition that theology continues to develop through study, experience, and the Spirit's illumination of Scripture.*
+
+---
+
+<a href="https://github.com/Warwick-Allen/essays" class="github-link">View Source on GitHub</a>

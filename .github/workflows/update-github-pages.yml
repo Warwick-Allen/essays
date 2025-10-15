@@ -27,6 +27,12 @@ jobs:
       - name: Copy theological profile to docs
         run: |
           cp "Theological Profile/warwick_allen_theological_profile.md" docs/index.md
+          
+          # Add GitHub link at the end
+          echo "" >> docs/index.md
+          echo "---" >> docs/index.md
+          echo "" >> docs/index.md
+          echo '<a href="https://github.com/Warwick-Allen/essays" class="github-link">View Source on GitHub</a>' >> docs/index.md
       
       - name: Check for changes
         id: check_changes
