@@ -59,6 +59,10 @@ Throughout this document, certain beliefs are marked with **confidence levels** 
 
 **Areas of Ongoing Study**: Where importance exceeds confidence by 2 or more points, the topic is subject to ongoing study and theological development.
 
+### Related Document
+
+This document is partly based on a table outline Allen's commitment to various doctrines. This table is available for viewing in the Google Sheets document [Personal Statements of Faith for Waiheke Fellowship] (https://docs.google.com/spreadsheets/d/e/2PACX-1vQBiyT66UU2fBsoeNISXCSm3z0lVILNau5el5UomFN4qEB0zIyLrRgXB-CdFZhFkMeI3blx0VqJd3Nd/pubhtml#gid=0). If you require more detail on how Allen handles a specific doctrine, you might find an answer there.
+
 ---
 
 ## Executive Summary
