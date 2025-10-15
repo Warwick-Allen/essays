@@ -26,25 +26,37 @@ jobs:
       
       - name: Copy theological profile to docs
         run: |
+          # Create the theological-profile directory if it doesn't exist
+          mkdir -p docs/theological-profile
+          
+          # Copy to main index
           cp "Theological Profile/warwick_allen_theological_profile.md" docs/index.md
           
-          # Add GitHub link at the end
+          # Copy to theological-profile endpoint
+          cp "Theological Profile/warwick_allen_theological_profile.md" docs/theological-profile/index.md
+          
+          # Add GitHub link to both files
           echo "" >> docs/index.md
           echo "---" >> docs/index.md
           echo "" >> docs/index.md
           echo '<a href="https://github.com/Warwick-Allen/essays" class="github-link">View Source on GitHub</a>' >> docs/index.md
+          
+          echo "" >> docs/theological-profile/index.md
+          echo "---" >> docs/theological-profile/index.md
+          echo "" >> docs/theological-profile/index.md
+          echo '<a href="https://github.com/Warwick-Allen/essays" class="github-link">View Source on GitHub</a>' >> docs/theological-profile/index.md
       
       - name: Check for changes
         id: check_changes
         run: |
-          git diff --quiet docs/index.md || echo "changed=true" >> $GITHUB_OUTPUT
+          git diff --quiet docs/index.md docs/theological-profile/index.md || echo "changed=true" >> $GITHUB_OUTPUT
       
       - name: Commit and push if changed
         if: steps.check_changes.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/index.md
+          git add docs/index.md docs/theological-profile/index.md
           git commit -m "Auto-update GitHub Pages from theological profile"
           git push
 
