@@ -1,4 +1,4 @@
-# Theological Profile
+# Warwick Allen's Theological Profile
 ## A Molinist Arminian Baptist Charismatic with High Sacramental Convictions
 
 ---
@@ -35,7 +35,7 @@
 
 ## About This Document
 
-This theological profile presents a systematic overview of personal theological convictions, organised by major doctrinal categories. It is intended to provide clarity on theological positions for pastors, church leaders, fellow believers, and anyone interested in understanding this particular theological framework.
+This theological profile presents a systematic overview of Warwick Allen's personal theological convictions, organised by major doctrinal categories. It is intended to provide clarity on theological positions for pastors, church leaders, fellow believers, and anyone interested in understanding his particular theological framework.
 
 ### Confidence and Importance Indicators
 
