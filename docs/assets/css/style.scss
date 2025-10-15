@@ -219,9 +219,10 @@ body {
   border-top: 1px solid #30363d;
 }
 
+/* Hide the "maintained by" and "Published with" lines */
 .site-footer-owner,
 .site-footer-credits {
-  color: #8b949e;
+  display: none !important;
 }
 
 /* Import Elizabethan-style font */
