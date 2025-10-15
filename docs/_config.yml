@@ -1,0 +1,37 @@
+title: "Warwick Allen's Theological Profile"
+description: "A Molinist Arminian Baptist Charismatic with High Sacramental Convictions"
+theme: jekyll-theme-cayman
+
+# GitHub Pages specific settings
+baseurl: ""
+url: "https://warwick-allen.github.io"
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  syntax_highlighter: rouge
+
+# Enable relative links
+relative_links:
+  enabled: true
+  collections: false
+
+# Plugins
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+
+# Configure titles from headings
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: false
+
+# Show excerpts on blog index
+show_excerpts: false
+
