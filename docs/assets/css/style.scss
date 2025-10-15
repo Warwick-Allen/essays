@@ -143,12 +143,13 @@ p {
   background-color: #0d1117 !important;
 }
 
-/* Page header styling - force dark theme with stronger overrides */
-.page-header {
-  background-color: #0d1117 !important;
-  background-image: none !important;
-  border: none !important;
-  background: #0d1117 !important;
+/* Hide the page header completely */
+.page-header,
+#header_wrap,
+#project_title,
+#project_tagline,
+header {
+  display: none !important;
 }
 
 /* Remove grey header background completely */
