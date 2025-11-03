@@ -196,7 +196,6 @@ sophistication through Molinism.
 
 #### Nature of Types
 
-
 - ##### Christological Focus
 
   All Scripture points to Christ in some way; if proposed
@@ -230,7 +229,6 @@ sophistication through Molinism.
 
 #### Nature of Progressive Revelation
 
-
 - ##### Earlier Incompleteness
 
   Earlier revelation can be incomplete or less clear
@@ -251,7 +249,6 @@ sophistication through Molinism.
 ### The Role of the Holy Spirit in Interpretation
 
 #### Necessity of Illumination
-
 
 - ##### Not Strictly Necessary
 
@@ -280,7 +277,6 @@ sophistication through Molinism.
   Low (2) - held lightly, could easily be dissuaded.
 
 #### Insights Beyond Exegesis
-
 
 - ##### No New Insights
 
@@ -315,7 +311,6 @@ sophistication through Molinism.
 
 #### Spirit's Role in Belief
 
-
 - ##### Necessary for Saving Faith
 
   The Spirit plays a necessary role in someone
@@ -338,7 +333,6 @@ sophistication through Molinism.
 ### Principles for Application
 
 #### Foundational Approach
-
 
 - ##### Stable Original Meaning
 
@@ -366,7 +360,6 @@ sophistication through Molinism.
 
 #### Descriptive vs. Prescriptive Texts
 
-
 - ##### Narrative Purpose
 
   Narrative passages primarily reveal something about Christ
@@ -383,7 +376,6 @@ sophistication through Molinism.
   Strong (4) on this principle.
 
 #### Old Testament Narratives
-
 
 - ##### Primarily Descriptive
 
@@ -433,7 +425,6 @@ sophistication through Molinism.
 
 #### Meaning vs. Application
 
-
 - ##### Objective Meaning
 
   The meaning of a text is objective.
@@ -457,7 +448,6 @@ sophistication through Molinism.
   Low (2) - held lightly, could easily be dissuaded.
 
 #### Testing Against Community
-
 
 - ##### Historical and Contemporary
 
@@ -499,7 +489,7 @@ sophistication through Molinism.
 
   9.  evidence substantial enough that
   other qualified interpreters could see the textual case even if disagreeing;
- 
+
   10.  compelling enough to teach with intellectual integrity whilst fairly
   acknowledging traditional view. Evidence must be so compelling that one cannot
   in good conscience hold the consensus view.
@@ -517,7 +507,6 @@ sophistication through Molinism.
   conflate own thoughts with divine leading.
 
 #### Determining Cultural Specificity vs. Transcultural Application
-
 
 - ##### Assumption of Transcultural
 
@@ -551,7 +540,6 @@ sophistication through Molinism.
 
 #### Situational Instructions
 
-
 - ##### Non-Repeatable Circumstances
 
   Instructions tied to specific, non-repeatable
@@ -560,7 +548,6 @@ sophistication through Molinism.
   principles.
 
 #### Role of Church Tradition
-
 
 - ##### Valid Evidence
 
@@ -577,7 +564,6 @@ sophistication through Molinism.
 ### Handling Difficult and Unclear Passages
 
 #### Encountering Unclear Passages
-
 
 - ##### Acceptable Uncertainty
 
@@ -605,7 +591,6 @@ sophistication through Molinism.
 
 #### Interpreting Unclear Passages
 
-
 - ##### In Light of Clear
 
   Unclear passages should certainly be interpreted in light
@@ -617,7 +602,6 @@ sophistication through Molinism.
   counter-argument.
 
 #### Passages with Orthodox Disagreement
-
 
 - ##### Careful Evaluation
 
@@ -648,7 +632,6 @@ sophistication through Molinism.
 
 #### Clarity and Theological Centrality
 
-
 - ##### Affects Centrality
 
   The difficulty or clarity of a passage should affect how
@@ -668,7 +651,6 @@ sophistication through Molinism.
 
 #### Analogy of Faith
 
-
 - ##### Harmony with Foundational Doctrines
 
   Scripture should be interpreted in
@@ -680,7 +662,6 @@ sophistication through Molinism.
   counter-argument.
 
 #### Role of Reason and Logic
-
 
 - ##### Ministerial Role
 
@@ -702,7 +683,6 @@ sophistication through Molinism.
   Moderate (3) - could be dissuaded by good counter-argument.
 
 #### Prophecy and Predictive Passages
-
 
 - ##### General Principles Apply
 
@@ -730,7 +710,6 @@ sophistication through Molinism.
 ### Formation and Recognition
 
 #### Divine Authority
-
 
 - ##### Canonical Criterion
 
@@ -762,7 +741,6 @@ sophistication through Molinism.
 
 #### No New Scripture
 
-
 - ##### Closed Canon
 
   The canon is closed; no new books can be added to Scripture.
@@ -787,7 +765,6 @@ sophistication through Molinism.
 ### The Deuterocanonical Books
 
 #### Status and Use
-
 
 - ##### Not Authoritative Scripture
 
@@ -854,7 +831,6 @@ frameworks, none of which needs to be ranked above the others:
 - Fuller revelation came in the New Testament and supremely in Christ, "the
   exact imprint of his nature" (Hebrews 1:3).
 
-
 - ##### Confidence Level
 
   Moderate (3) - could be dissuaded by good counter-argument.
@@ -869,7 +845,6 @@ frameworks, none of which needs to be ranked above the others:
 ### Fulfilment in Christ
 
 #### Vicarious Fulfilment
-
 
 - ##### Christ Fulfilled All
 
@@ -952,7 +927,6 @@ When discerning which Old Testament moral standards remain binding:
   prohibitions on murder, adultery, theft, idolatry, sexual immorality) remain
   binding.
 
-
 - ##### Confidence Level
 
   Moderate (3) - the framework needs refinement for edge
@@ -965,17 +939,14 @@ When discerning which Old Testament moral standards remain binding:
 
 #### Nature and Purpose
 
-
 - ##### Middle Knowledge
 
   God knows what free-will choice any creature will make in any circumstance,
   including all counterfactual truths.
 
-
 - ##### Purpose
 
   This framework reconciles divine sovereignty with libertarian human freedom.
-
 
 - ##### Confidence
 
@@ -1114,9 +1085,9 @@ All Christological affirmations held with the highest confidence (5-6):
   Adam and Eve were actual historical people (lived 6,000 to
   1,000,000 years ago)
 
-### Original Sin and the Fall #### Key Distinctive : Corruption without
-inherited guilt
+### Original Sin and the Fall
 
+#### Key Distinctive : Corruption without inherited guilt
 
 - #### Corrupted Nature
 
@@ -1168,9 +1139,9 @@ inherited guilt
   Those who never develop moral agency remain in
   innocent state throughout life
 
-### Infant and Child Soteriology #### Distinctive Position : Innocence until
-accountability
+### Infant and Child Soteriology
 
+#### Distinctive Position : Innocence until accountability
 
 - #### Before Accountability
 
@@ -1181,8 +1152,11 @@ accountability
 
   Christ's work addresses corrupted nature, enabling
   children to remain in relationship with God
-- **Status (1 Cor 7:14)**: Children of believers are "holy" - set apart in
-  covenant community
+
+- #### Status
+
+  Children of believers are "holy"&mdash;
+  set apart in covenant community (per 1 Cor 7:14)
 
 - #### Salvation of Infants
 
@@ -1207,14 +1181,30 @@ accountability
 
 #### The Five Articles of Remonstrance (Arminian Distinctive)
 
-1. **Conditional Election**: God elected a people (Israel, then the Church by
-adoption); individuals become elect when they trust in Christ 2. **Universal
-Atonement**: Christ's atoning work was on behalf of and sufficient for all
-people 3. **Total Depravity with Prevenient Grace**: No one can come to God
-unless God first calls and enables them; all receive prevenient grace 4.
-**Resistible Grace**: God grants people ability to reject His call to salvation
-5. **Perseverance**: *Uncertain* - leans toward belief that regenerate believers
-may fall away, but holds with very low confidence (ongoing study)
+1.  ##### Conditional Election
+
+    God elected a people (Israel, then the Church by adoption);
+    individuals become elect when they trust in Christ.
+
+2.  ##### Universal Atonement
+
+    Christ's atoning work was on behalf of and sufficient for all people.
+
+3.  ##### Total Depravity with Prevenient Grace
+
+    No one can come to God unless God first calls and enables them;
+    all receive prevenient grace.
+
+4.  ##### Resistible Grace
+
+    God grants people ability to reject His call to salvation.
+
+5.  ##### Perseverance
+
+    *Uncertain*&mdash;
+    leans toward belief that regenerate believers may fall away,
+    but holds with very low confidence
+    (this is a subject of ongoing study).
 
 ### Prevenient Grace
 
@@ -1237,7 +1227,7 @@ may fall away, but holds with very low confidence (ongoing study)
   Exact mechanics unclear; ensures all have genuine opportunity to
   respond
 
-### Atonement Theories Multiple aspects affirmed:
+### Atonement Theories&mdash;Multiple Aspects Affirmed
 
 - #### Penal Substitutionary
 
@@ -1287,8 +1277,8 @@ may fall away, but holds with very low confidence (ongoing study)
   Believers grow progressively toward holiness but
   never achieve sinless perfection in this life
 
-#### Major Difference from Wesleyanism : Rejects entire sanctification/Christian
-perfection as attainable in this life
+#### Major Difference from Wesleyanism :
+Rejects entire sanctification/Christian perfection as attainable in this life
 
 ### Faith and Works
 
@@ -1359,40 +1349,55 @@ perfection as attainable in this life
 - #### Eldership
 
   Only men may serve as elders; must be "one-woman men" (faithful
-  if married, chaste if single); divorced men may serve in some circumstances
+  if married, chaste if single); divorced men may serve in some circumstances.
 
 - #### Deacons
 
-  Both men and women may serve
+  Both men and women may serve.
 
 - #### Titles
 
   Elders should not use titles like "pastor" or "father" (held
-  lightly, confidence 2)
+  lightly, confidence 2).
+
+- #### Church Membership
+
+  Formal membership to a local congregation should be encouraged.
+  Because such membership bestows additional benefits, responsibilities and
+  authority (as when matters of discipline are brought before the church, per
+  Matthew 18:17), the role of "church member" (or "congregant"), may be
+  considered similar to a church office.
 
 - #### Authority Structure
 
-  Prophets and apostles (missionaries) subject to elder
-  authority
+  - Prophets and apostles (missionaries) are subject to elder authority.
+
+  - A variety of forms of ecclesiastical polity are allowable;
+    different structures may be optimal in different contexts.
 
 ### Church Mission
 
 - #### Evangelism
 
-  Primary mission, addressing eternal salvation
+  Primary mission, addressing eternal salvation.
 
 - #### Social Action
 
-  Mandatory but secondary; flows from genuine faith
+  Mandatory but secondary; flows from genuine faith.
 
 - #### Balance
 
-  Both are essential expressions of the gospel
+  Both are essential expressions of the gospel.
 
 - #### Not Dominionist
 
-  Church not expected to control secular world until Christ
-  returns
+  The Church is not expected to control the secular world until Christ returns.
+
+- #### Political Engagement
+
+  It is a good for society for Christians to vote, pursue political offices,
+  and otherwise be politically engaged.
+  Political activity should be encouraged.
 
 ---
 
@@ -1405,7 +1410,6 @@ perfection as attainable in this life
 Believers' baptism with high sacramental theology
 
 #### Nature and Meaning
-
 
 - ##### Ordained by Christ
 
@@ -1425,7 +1429,6 @@ Believers' baptism with high sacramental theology
 
 - ##### Multiple Symbolism
 
-  
   - Death of old nature and creation of new nature
   - Identification with Christ
   - Induction into Church membership
@@ -1444,7 +1447,6 @@ Believers' baptism with high sacramental theology
   Believer's duty and pleasure to seek baptism
 
 #### Mode
-
 
 - ##### Proper Form
 
@@ -1471,7 +1473,6 @@ High sacramental view unusual in Baptist circles
 
 #### Nature
 
-
 - ##### Ordained by Christ
 
   A ritual commanded by Christ
@@ -1496,7 +1497,6 @@ High sacramental view unusual in Baptist circles
 
 #### Practice
 
-
 - ##### Frequency
 
   Should partake frequently (as often as possible)
@@ -1516,7 +1516,6 @@ High sacramental view unusual in Baptist circles
 
 ### Person of the Spirit
 
-
 - #### Deity
 
   Consubstantial with Father and Son.
@@ -1531,11 +1530,9 @@ High sacramental view unusual in Baptist circles
 
 #### Distinctive
 
-
 Normative continuationism with careful biblical boundaries
 
 #### Position on Gifts
-
 
 - ##### Continuationism
 
@@ -1557,7 +1554,6 @@ Normative continuationism with careful biblical boundaries
   All prophecy must be tested against Scripture
 
 #### Contemporary Prophecy
-
 
 - ##### Divine Source
 
@@ -1583,7 +1579,6 @@ Normative continuationism with careful biblical boundaries
 
 #### Deliverance Ministry
 
-
 - ##### Demonisation Possible
 
   Demons can seriously affect believers' lives
@@ -1598,7 +1593,6 @@ Normative continuationism with careful biblical boundaries
   Demonised persons can be set free through prayer
 
 #### Balance
-
 
 - ##### Experience Governed by Scripture
 
@@ -1733,7 +1727,7 @@ Normative continuationism with careful biblical boundaries
   Prohibited except in specific biblical circumstances
 
 - #### Sexual Ethics
-  
+
   - Sexual intercourse outside marriage is sinful
   - Homosexual acts are sinful
 
@@ -1744,7 +1738,7 @@ Normative continuationism with careful biblical boundaries
   Complementarian - different roles with husband as head
 
 - #### In Church
-  
+
   - Only men may be elders
   - Both men and women may be deacons
   - Both men and women may function as prophets as Spirit enables
@@ -2058,7 +2052,6 @@ Full affirmation of all articles:
 - Who spoke by the prophets.
 
 #### On the Church and Sacraments
-
 
 - #### One holy catholic and apostolic Church
 
