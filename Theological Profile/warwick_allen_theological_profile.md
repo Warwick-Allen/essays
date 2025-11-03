@@ -1457,9 +1457,6 @@ Rejects entire sanctification/Christian perfection as attainable in this life
 
   - Prophets and apostles (missionaries) are subject to elder authority.
 
-  - A variety of forms of ecclesiastical polity are allowable;
-    different structures may be optimal in different contexts.
-
 ### Church Mission
 
 - #### Evangelism
@@ -2368,9 +2365,12 @@ charismatic evangelical churches 5. Some Vineyard churches
 
   Molinism (William Lane Craig, Thomas Flint)
 
-### Distinctiveness This theological profile is **uncommon but internally
-coherent**, representing a thoughtful synthesis that:
-- Maintains Baptist convictions on baptism and church polarity
+### Distinctiveness
+
+This theological profile is ***uncommon but internally coherent***,
+representing a thoughtful synthesis that:
+
+- Maintains Baptist convictions on baptism and church polity
 - Embraces Arminian soteriology through Molinist framework
 - Incorporates charismatic pneumatology with biblical safeguards
 - Elevates means of grace beyond typical Baptist practice
