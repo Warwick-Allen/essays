@@ -10,25 +10,40 @@
 - [Executive Summary](#executive-summary)
 
 ### Doctrinal Sections
-- [I. Theological Method and Authority](#i-theological-method-and-authority)
-- [II. Theology Proper (Doctrine of God)](#ii-theology-proper-doctrine-of-god)
-- [III. Christology](#iii-christology)
-- [IV. Anthropology and Hamartiology](#iv-anthropology-and-hamartiology)
-- [V. Soteriology (Doctrine of Salvation)](#v-soteriology-doctrine-of-salvation)
-- [VI. Ecclesiology and Church Practice](#vi-ecclesiology-and-church-practice)
-- [VII. Sacraments and Ordinances](#vii-sacraments-and-ordinances)
-- [VIII. Pneumatology (Doctrine of the Holy
-  Spirit)](#viii-pneumatology-doctrine-of-the-holy-spirit)
-- [IX. Means of Grace](#ix-means-of-grace)
-- [X. Christian Life and Ethics](#x-christian-life-and-ethics)
-- [XI. Eschatology (Last Things)](#xi-eschatology-last-things)
-- [XII. Creation and Science](#xii-creation-and-science)
-- [XIII. Other Doctrines](#xiii-other-doctrines)
-- [XIV. Areas of Ongoing Study](#xiv-areas-of-ongoing-study)
-- [XV. Alignment with Historic Creeds](#xv-alignment-with-historic-creeds)
-- [XVI. Theological Identity and
-  Tradition](#xvi-theological-identity-and-tradition)
-- [XVII. Practical Implications](#xvii-practical-implications)
+- [I.    Theological Method and Authority](
+         #i-theological-method-and-authority)
+- [II.   Theology Proper (Doctrine of God)](
+         #ii-theology-proper-doctrine-of-god)
+- [III.  Christology](
+         #iii-christology)
+- [IV.   Anthropology and Hamartiology](
+         #iv-anthropology-and-hamartiology)
+- [V.    Soteriology (Doctrine of Salvation)](
+         #v-soteriology-doctrine-of-salvation)
+- [VI.   Ecclesiology and Church Practice](
+         #vi-ecclesiology-and-church-practice)
+- [VII.  Sacraments and Ordinances](
+         #vii-sacraments-and-ordinances)
+- [VIII. Pneumatology (Doctrine of the Holy Spirit)](
+         #viii-pneumatology-doctrine-of-the-holy-spirit)
+- [IX.   Means of Grace](
+         #ix-means-of-grace)
+- [X.    Christian Life and Ethics](
+         #x-christian-life-and-ethics)
+- [XI.   Eschatology (Last Things)](
+         #xi-eschatology-last-things)
+- [XII.  Creation and Science](
+         #xii-creation-and-science)
+- [XIII. Other Doctrines](
+         #xiii-other-doctrines)
+- [XIV.  Areas of Ongoing Study](
+         #xiv-areas-of-ongoing-study)
+- [XV.   Alignment with Historic Creeds](
+         #xv-alignment-with-historic-creeds)
+- [XVI.  Theological Identity and Tradition](
+         #xvi-theological-identity-and-tradition)
+- [XVII. Practical Implications](
+         #xvii-practical-implications)
 
 ### Conclusion
 - [Conclusion](#conclusion)
@@ -99,14 +114,27 @@ This theological profile represents a thoughtful and internally coherent
 synthesis of beliefs drawn from multiple Christian traditions. The core
 commitments are:
 
-1. **Molinist Arminian Soteriology** - emphasising libertarian free will,
-universal atonement, and prevenient grace.  2. **Baptist Ecclesiology and
-Sacramentology** - believers' baptism, regenerate church membership, but with
-unusually high sacramental theology.  3. **Charismatic Pneumatology** -
-normative continuationism with careful biblical testing.  4. **Progressive
-Sanctification** - rejecting entire sanctification as attainable in this life in
-favour of asymptotic growth towards holiness.  5. **Reformed Baptist
-Anthropology** - corrupted nature without inherited guilt before accountability.
+1. #### Molinist Arminian Soteriology
+
+   Emphasising libertarian free will, universal atonement, and prevenient grace.
+
+2. #### Baptist Ecclesiology and Sacramentology
+
+   Believers' baptism, regenerate church membership, but with unusually high
+   sacramental theology.
+
+3. #### Charismatic Pneumatology
+
+   Normative continuationism with careful biblical testing.
+
+4. #### Progressive Sanctification
+
+   Rejecting entire sanctification as attainable in this life in favour of
+asymptotic growth towards holiness.
+
+5. #### Reformed Baptist Anthropology
+
+   Corrupted nature without inherited guilt before accountability.
 
 This combination places the holder within the **Free Will Baptist** theological
 stream, with significant charismatic convictions and philosophical
@@ -118,254 +146,391 @@ sophistication through Molinism.
 
 ## Scripture and Authority
 
-- **Primary Position**:
+- #### Primary Position
+
   Scripture is the supreme and sufficient authority for all
   matters of faith and practice.
-- **Core Doctrines**:
+
+- #### Core Doctrines
+
   For essential doctrines (salvation, Christ's person and work),
   Scripture alone suffices (closer to sola scriptura).
-- **Secondary Matters**:
+
+- #### Secondary Matters
+
   Tradition (especially early Church Fathers), reason, and
   experience serve as valuable interpretive tools with genuine theological
   authority.
-- **Confidence Level**:
+
+- #### Confidence Level
+
   High (5-6 on personal scale).
 
-- **No Contradiction**:
+- #### No Contradiction
+
   The New Testament never overturns or contradicts the Old
   Testament.
-- Law's Fulfilment: Because Christ has fulfilled the Law, many aspects are not
+
+- #### Law's Fulfilment
+
+- Because Christ has fulfilled the Law, many aspects are not
   directly applicable to Christians, though the entire Law retains indirect
   applicability.
-- **Israel and Church**:
+
+- #### Israel and Church
+
   Promises and commands given to Israel are not automatically
   transferred to the Church.
-- **Scriptural Justification Required**:
+
+- #### Scriptural Justification Required
+
   To believe a promise or command given to
   Israel carries over to the Church requires scriptural justification beyond
   mere assumption of inheritance.
-- **Confidence Level**:
+
+- #### Confidence Level
+
   Moderate (3) - could be dissuaded by good counter-argument.
 
 ### Typology
 
 #### Nature of Types
 
-- **Christological Focus**:
+
+- ##### Christological Focus
+
   All Scripture points to Christ in some way; if proposed
   typology does not point to Christ, scepticism is warranted.
-- **Spirit-Led Discovery**:
+
+- ##### Spirit-Led Discovery
+
   Individuals might find types through the Spirit's
   illumination.
-- **NT-Grounded Patterns**:
+
+- ##### NT-Grounded Patterns
+
   Typology should be grounded in patterns the New
   Testament itself establishes.
-- **Consistency with NT Types**:
+
+- ##### Consistency with NT Types
+
   Valid types should be the same kind of thing as
   explicitly-identified NT types (bronze serpent, rock Moses struck, Adam,
   various prophets).
-- **Wide Range**:
+
+- ##### Wide Range
+
   The New Testament identifies a wide range of types of Christ.
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Moderate (3) - could be dissuaded by good counter-argument.
 
 ### Progressive Revelation
 
 #### Nature of Progressive Revelation
 
-- **Earlier Incompleteness**:
+
+- ##### Earlier Incompleteness
+
   Earlier revelation can be incomplete or less clear
   without being erroneous.
 - Later Revelation's Role: Later revelation adds details or layers of meaning
   but doesn't undermine correct understanding of earlier texts.
-- **Correcting Misunderstanding**:
+
+- ##### Correcting Misunderstanding
+
   Later revelation may correct erroneous
   interpretations of earlier revelation (e.g., Messiah's two comings rather than
   one).
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Moderate (3) - could be dissuaded by good counter-argument.
 
 ### The Role of the Holy Spirit in Interpretation
 
 #### Necessity of Illumination
 
-- **Not Strictly Necessary**:
+
+- ##### Not Strictly Necessary
+
   Illumination by the Spirit is not necessary for
   correct interpretation of Scripture.
-- **Unbelievers Can Interpret**:
+
+- ##### Unbelievers Can Interpret
+
   An unbeliever with proper tools may interpret
   Scripture accurately.
-- **Helps Prevent Misinterpretation**:
+
+- ##### Helps Prevent Misinterpretation
+
   Without the Spirit's help, people are more
   likely to misinterpret Scripture through both (a) working on the interpreter's
   heart/humility, and (b) more directly guiding to correct understanding. It is
   unclear which is more common or fundamental in Scripture interpretation.
-- **Personal Transformation**:
+
+- ##### Personal Transformation
+
   The Spirit's help is required to translate
   intellectual understanding into personal transformation toward Christlikeness.
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Low (2) - held lightly, could easily be dissuaded.
 
 #### Insights Beyond Exegesis
 
-- **No New Insights**:
+
+- ##### No New Insights
+
   The Holy Spirit will not give believers insights into
   Scripture that go beyond what complete grammatical-historical exegesis would
   yield.
-- **May Reveal Information**:
+
+- ##### May Reveal Information
+
   The Spirit might reveal grammatical or historical
   information to aid otherwise incomplete exegesis.
-- **Not for Doctrine**:
+
+- ##### Not for Doctrine
+
   Such specially-revealed information should not establish
   doctrine unless clearly verified using conventional methods, due to human
   fallibility in discerning the Spirit's voice.
-- **Hypothetical**:
+
+- ##### Hypothetical
+
   This is discussed hypothetically; no bona fide instances of such
   revelation are known.
-- **Verification Required**:
+
+- ##### Verification Required
+
   Spirit's illumination should be subject to verification
   using objective interpretive methods due to human fallibility.
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Low (2) - held lightly.
 
 #### Spirit's Role in Belief
 
-- **Necessary for Saving Faith**:
+
+- ##### Necessary for Saving Faith
+
   The Spirit plays a necessary role in someone
   arriving at saving faith (John 6:44a; 2 Corinthians 3:14-16).
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Very strong (5) on necessity for saving faith.
-- **Details Uncertain**:
+
+- ##### Details Uncertain
+
   Confidence in how this operates (e.g., whether someone can
   achieve thorough intellectual understanding apart from the Spirit) is much
   lower.
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Low (2) on operational details - held lightly.
 
 ### Principles for Application
 
 #### Foundational Approach
 
-- **Stable Original Meaning**:
+
+- ##### Stable Original Meaning
+
   Scripture has stable original meaning that must be
   discerned before application.
-- **Christological Witness**:
+
+- ##### Christological Witness
+
   All Scripture ultimately bears witness to Christ (John
   5:39).
-- **Textual Priority**:
+
+- ##### Textual Priority
+
   Internal textual evidence prioritised over external sources.
-- **Grammatical-Historical Analysis**:
+
+- ##### Grammatical-Historical Analysis
+
   Employed within canonical-covenantal
   framework considering redemptive history and covenant relationships.
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Strong (4) - could be dissuaded by very strong
   counter-argument.
 
 #### Descriptive vs. Prescriptive Texts
 
-- **Narrative Purpose**:
+
+- ##### Narrative Purpose
+
   Narrative passages primarily reveal something about Christ
   or God's redemptive plan.
-- **Secondary Behavioural Principles**:
+
+- ##### Secondary Behavioural Principles
+
   Only secondarily (if at all) provide
   behavioural principles, and only when supported by didactic texts or clear
   textual indicators of divine approval or disapproval.
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Strong (4) on this principle.
 
 #### Old Testament Narratives
 
-- **Primarily Descriptive**:
+
+- ##### Primarily Descriptive
+
   Record what happened as part of God's unfolding
   redemptive plan, not primarily prescriptive.
-- **Primary Hermeneutical Move**:
+
+- ##### Primary Hermeneutical Move
+
   From "this happened" to "this tells us about
   Christ or God's redemptive plan" (consistent with John 5:39).
-- **Behavioural Implications**:
+
+- ##### Behavioural Implications
+
   Only after identifying redemptive-historical
   significance should behavioural implications be considered, and then
   cautiously.
-- **No Direct Moral Imperatives**:
+
+- ##### No Direct Moral Imperatives
+
   Cannot derive moral imperatives from narrative
   description alone without clear textual indicators (explicit divine
   approval/disapproval, didactic commentary, contextual clues establishing
   actions as moral examples).
-- **Prefer Didactic Foundation**:
+
+- ##### Prefer Didactic Foundation
+
   Prefer to establish behavioural principles from
   didactic/prescriptive texts first, then use narratives as illustrations.
-- **Pedagogical Not Authoritative Use**:
+
+- ##### Pedagogical Not Authoritative Use
+
   When used illustratively, narratives
   function pedagogically rather than authoritatively in that specific
   application - the text remains authoritative Scripture in its primary purpose
   (historical record, revealing God's nature, redemptive plan), but is used
   non-authoritatively when illustrating secondary principles.
-- **Some Narratives Lack Direct Application**:
+
+- ##### Some Narratives Lack Direct Application
+
   Some narratives are included because
   they advance the redemptive story and reveal God's character, not to model
   behaviour for emulation.
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Moderate (3) on overall approach.
 
 #### Meaning vs. Application
 
-- **Objective Meaning**:
+
+- ##### Objective Meaning
+
   The meaning of a text is objective.
-- **Subjective Application**:
+
+- ##### Subjective Application
+
   Personal application should only be particular
   subjective application of universal objective meaning, not distinct meaning.
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Moderate (3) - could be dissuaded by good counter-argument.
 
 #### Multiple Applications
 
 - One Interpretation, Multiple Applications: A passage may have multiple valid
   applications while having only one correct interpretation.
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Low (2) - held lightly, could easily be dissuaded.
 
 #### Testing Against Community
 
-- **Historical and Contemporary**:
+
+- ##### Historical and Contemporary
+
   Interpretations tested against community of
   believers through consultation with commentaries, church leadership, and
   consensus of Church tradition.
-- **Scripture as Ultimate Authority**:
+
+- ##### Scripture as Ultimate Authority
+
   Scripture is ultimate authority, but the more
   an interpretation diverges from historical Christian consensus, the stronger
   the biblical evidence must be.
-- **Strong Evidence Required**:
-  Strong biblical evidence to depart from consensus
-  must include: (1) clear grammatical-historical analysis showing plain meaning
-  in context; (2) explicit theological reasoning within the text grounding the
-  command in transcultural realities; (3) repetition across multiple biblical
-  books/authors; (4) coherence with broader canonical narrative and central
-  doctrines; (5) support preferably from didactic rather than merely narrative
-  passages; (6) accounting for all relevant texts, not selective use; (7)
+
+- ##### Strong Evidence Required
+
+  Strong biblical evidence to depart from consensus must include:
+
+  1.  clear grammatical-historical analysis showing plain meaning
+  in context;
+
+  2.  explicit theological reasoning within the text grounding the
+  command in transcultural realities;
+
+  3.  repetition across multiple biblical
+  books/authors;
+
+  4.  coherence with broader canonical narrative and central
+  doctrines;
+
+  5.  support preferably from didactic rather than merely narrative
+  passages;
+
+  6.  accounting for all relevant texts, not selective use; (7)
   identification of why historical consensus may have been influenced by
-  extra-biblical factors; (8) demonstration from Scripture why traditional
-  interpretation appears to be misreading; (9) evidence substantial enough that
+  extra-biblical factors;
+
+  8.  demonstration from Scripture why traditional
+  interpretation appears to be misreading;
+
+  9.  evidence substantial enough that
   other qualified interpreters could see the textual case even if disagreeing;
-  (10) compelling enough to teach with intellectual integrity whilst fairly
+ 
+  10.  compelling enough to teach with intellectual integrity whilst fairly
   acknowledging traditional view. Evidence must be so compelling that one cannot
   in good conscience hold the consensus view.
-- **High Threshold in Practice**:
+
+- ##### High Threshold in Practice
+
   In practice, no interpretations are held that lack
   at least strong minority support within historic Christianity, suggesting
   threshold for departing from consensus is quite high.
-- **Scepticism of Personal Revelation**:
+
+- ##### Scepticism of Personal Revelation
+
   Remain sceptical of personal "revelations"
   that conflict with established interpretation, recognising human tendency to
   conflate own thoughts with divine leading.
 
 #### Determining Cultural Specificity vs. Transcultural Application
 
-- **Assumption of Transcultural**:
+
+- ##### Assumption of Transcultural
+
   Assume transcultural applicability for biblical
   commands unless strong evidence to the contrary.
-- **Evidence Sources**:
+
+- ##### Evidence Sources
+
   Both textual indicators and Church tradition may provide
   evidence.
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Moderate (3) on both the overall framework and the
   assumption of transcultural applicability unless proven otherwise.
 
@@ -386,7 +551,9 @@ sophistication through Molinism.
 
 #### Situational Instructions
 
-- **Non-Repeatable Circumstances**:
+
+- ##### Non-Repeatable Circumstances
+
   Instructions tied to specific, non-repeatable
   circumstances (Paul's request for cloak, Jesus' command to rich young ruler to
   sell everything) are situational rather than extracting universal behavioural
@@ -394,11 +561,15 @@ sophistication through Molinism.
 
 #### Role of Church Tradition
 
-- **Valid Evidence**:
+
+- ##### Valid Evidence
+
   Church tradition serves as valid evidence in discerning
   cultural specificity (e.g., widespread acceptance of cultural equivalents to
   "holy kiss" suggests application flexibility).
-- **Scripture Trumps Tradition**:
+
+- ##### Scripture Trumps Tradition
+
   When Scripture explicitly grounds command in
   transcultural realities (e.g., creation order), that command retains universal
   applicability regardless of evolving Church practice.
@@ -407,59 +578,89 @@ sophistication through Molinism.
 
 #### Encountering Unclear Passages
 
-- **Acceptable Uncertainty**:
+
+- ##### Acceptable Uncertainty
+
   It is acceptable to say "I don't know what this
   means."
-- **Meaning Exists**:
+
+- ##### Meaning Exists
+
   The passage will have meaning that accords with the rest of
   Scripture.
-- **Apprehensible with Study**:
+
+- ##### Apprehensible with Study
+
   That meaning will be apprehensible given enough
   study, contextual knowledge, and the Spirit's illumination.
-- **None Impossible**:
+
+- ##### None Impossible
+
   Some passages are difficult to comprehend, but none are
   impossible.
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Moderate (3) - could be dissuaded by good counter-argument.
 
 #### Interpreting Unclear Passages
 
-- **In Light of Clear**:
+
+- ##### In Light of Clear
+
   Unclear passages should certainly be interpreted in light
   of clear passages. This is an important hermeneutic.
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Strong (4) - could be dissuaded by very strong
   counter-argument.
 
 #### Passages with Orthodox Disagreement
 
-- **Careful Evaluation**:
+
+- ##### Careful Evaluation
+
   Each disputed passage should be evaluated carefully using
   hermeneutical principles already discussed.
-- **Some Relatively Clear**:
+
+- ##### Some Relatively Clear
+
   Some disputed passages (e.g., women's roles, spiritual
   gifts) are relatively clear and shouldn't be as debated as they are.
-- **Some Genuinely Unclear**:
+
+- ##### Some Genuinely Unclear
+
   Other passages are genuinely unclear (e.g., correct
   interpretation of Romans 7).
-- **Humility Based on Clarity**:
+
+- ##### Humility Based on Clarity
+
   Appropriate level of humility should be primarily
   based on the clarity of the passage itself, with level of disagreement within
   orthodoxy impacting humility only secondarily.
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Strong (4) on overall approach. Moderate (3) on
   interpretations of specific disputed passages deemed relatively clear (though
   confidence may vary by individual passage).
 
 #### Clarity and Theological Centrality
 
-- **Affects Centrality**:
+
+- ##### Affects Centrality
+
   The difficulty or clarity of a passage should affect how
   central it should be to one's theology.
-- **Core Doctrines**:
+
+- ##### Core Doctrines
+
   Unclear passages should not be used to establish core
   doctrines.
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Strong (4) - could be dissuaded by very strong
   counter-argument.
 
@@ -467,40 +668,60 @@ sophistication through Molinism.
 
 #### Analogy of Faith
 
-- **Harmony with Foundational Doctrines**:
+
+- ##### Harmony with Foundational Doctrines
+
   Scripture should be interpreted in
   harmony with foundational Christian doctrines.
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Strong (4) - could be dissuaded by very strong
   counter-argument.
 
 #### Role of Reason and Logic
 
-- **Ministerial Role**:
+
+- ##### Ministerial Role
+
   Reason and logic play important but ministerial (not
   magisterial) role in interpretation, in the sense used by Francis Turretin.
-- **Serving Scripture**:
+
+- ##### Serving Scripture
+
   Reason serves Scripture and does not rule over it.
-- **Necessary Philosophical Presuppositions**:
+
+- ##### Necessary Philosophical Presuppositions
+
   Some fundamental philosophical
   presuppositions unavoidably assume magisterial role (e.g., belief in external
   reality, ability to know something with useful level of confidence).
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Moderate (3) - could be dissuaded by good counter-argument.
 
 #### Prophecy and Predictive Passages
 
-- **General Principles Apply**:
+
+- ##### General Principles Apply
+
   General hermeneutical principles already discussed
   apply to predictive texts.
-- **Cross-Reference with History**:
+
+- ##### Cross-Reference with History
+
   Predictive texts should be carefully
   cross-referenced with historical records to determine if already fulfilled.
-- **Multiple Fulfilments**:
+
+- ##### Multiple Fulfilments
+
   The concept of multiple fulfilments of single prophecy
   is affirmed, often with lesser fulfilment first followed by later, greater
   fulfilment.
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Very strong (5) on applying general principles and
   cross-referencing with history. Moderate (3) on multiple fulfilments.
 
@@ -510,36 +731,54 @@ sophistication through Molinism.
 
 #### Divine Authority
 
-- **Canonical Criterion**:
+
+- ##### Canonical Criterion
+
   A writing is canonical Scripture if, and only if, it was
   breathed out by God (2 Timothy 3:16).
-- **Church Recognition**:
+
+- ##### Church Recognition
+
   The Church recognised books that already possessed divine
   authority; the Church did not confer authority upon them.
-- **Role of Councils**:
+
+- ##### Role of Councils
+
   Church councils played limited role in helping the Church
   recognise the canon but did not establish it.
-- **Marks of Canonicity**:
+
+- ##### Marks of Canonicity
+
   Apostolic authorship or approval, the Holy Spirit's
   witness to the Church, and the internal qualities of the books themselves all
   served as clues helping the Church recognise which books were breathed out by
   God and divinely appointed to be recorded as Scripture.
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   High (5).
 
 ### Closure of the Canon
 
 #### No New Scripture
 
-- **Closed Canon**:
+
+- ##### Closed Canon
+
   The canon is closed; no new books can be added to Scripture.
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Very strong (5) - would require overwhelmingly strong
   argument to be dissuaded.
-- **Importance Rating**:
+
+- ##### Importance Rating
+
   High (5) - denying this is heterodox but not heresy; a
   serious error that will severely impact one's Christian walk.
-- **Distinction from Prophecy**:
+
+- ##### Distinction from Prophecy
+
   Other prophecy (not recorded as Scripture) may also
   be breathed out by God, but the nature of these prophecies (e.g., limited
   scope) and the Spirit's guidance did not lead the Church to recognise them as
@@ -549,23 +788,33 @@ sophistication through Molinism.
 
 #### Status and Use
 
-- **Not Authoritative Scripture**:
+
+- ##### Not Authoritative Scripture
+
   The books included in Catholic and Orthodox
   canons but not in the Protestant canon (Tobit, Judith, 1-2 Maccabees, Wisdom,
   Sirach, Baruch, additions to Esther and Daniel) are useful for historical
   understanding but are not authoritative Scripture.
-- **Use in Teaching**:
+
+- ##### Use in Teaching
+
   May be read in church services and used for teaching, but
   only as aids to exegesis of canonical Scripture.
-- **Caution Required**:
+
+- ##### Caution Required
+
   Care should be taken to prevent listeners from thinking of
   these books as Scripture.
-- **Bible Printing**:
+
+- ##### Bible Printing
+
   Preference is that deuterocanonical books not be printed in
   Bibles to maintain clear distinction between canon and other writings, though
   this is not strongly held; if included, clear separation from canonical text
   is essential.
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Low (2) - held lightly regarding their use in teaching.
 
 ## Relationship Between Old and New Testaments
@@ -585,7 +834,9 @@ frameworks, none of which needs to be ranked above the others:
 - Old Testament persons, events, and institutions were real and served genuine
   purposes in their own contexts, whilst also foreshadowing greater realities
   fulfilled in Christ and the New Covenant.
-- **Terminology**:
+
+- ##### Terminology
+
   "Type and antitype" is preferred over "shadow and reality"
   because the types were absolutely real, even as they pointed forward.
 
@@ -603,9 +854,13 @@ frameworks, none of which needs to be ranked above the others:
 - Fuller revelation came in the New Testament and supremely in Christ, "the
   exact imprint of his nature" (Hebrews 1:3).
 
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Moderate (3) - could be dissuaded by good counter-argument.
-- **Importance Rating**:
+
+- ##### Importance Rating
+
   Moderate (3) - Christians within the same fellowship might
   disagree.
 
@@ -615,12 +870,18 @@ frameworks, none of which needs to be ranked above the others:
 
 #### Vicarious Fulfilment
 
-- **Christ Fulfilled All**:
+
+- ##### Christ Fulfilled All
+
   Christ fulfilled all the law.
-- **United to Christ**:
+
+- ##### United to Christ
+
   Christians vicariously fulfil the law by being united to
   Christ.
-- **Not Under Mosaic Covenant**:
+
+- ##### Not Under Mosaic Covenant
+
   Christians are not under the Mosaic Covenant as a
   covenant system.
 
@@ -671,7 +932,9 @@ When discerning which Old Testament moral standards remain binding:
 
 - Careful Bible study will clarify which laws were for Israel only and which
   were for all people.
-- **Example**:
+
+- ##### Example
+
   The advice to avoid blood and strangled animals (Acts 15) represents
   a grey area requiring careful consideration.
 
@@ -689,7 +952,9 @@ When discerning which Old Testament moral standards remain binding:
   prohibitions on murder, adultery, theft, idolatry, sexual immorality) remain
   binding.
 
-- **Confidence Level**:
+
+- ##### Confidence Level
+
   Moderate (3) - the framework needs refinement for edge
   cases, though strong confidence exists that Christians are not required to
   keep Mosaic laws never applied to Gentiles.
@@ -700,14 +965,20 @@ When discerning which Old Testament moral standards remain binding:
 
 #### Nature and Purpose
 
-- **Middle Knowledge**:
+
+- ##### Middle Knowledge
+
   God knows what free-will choice any creature will make in any circumstance,
   including all counterfactual truths.
 
-- **Purpose**:
+
+- ##### Purpose
+
   This framework reconciles divine sovereignty with libertarian human freedom.
 
-- **Confidence**:
+
+- ##### Confidence
+
   High (5 on personal scale).
 
 ---
@@ -715,32 +986,52 @@ When discerning which Old Testament moral standards remain binding:
 ## II. Theology Proper (Doctrine of God)
 
 ### Essential Attributes All held with highest confidence (5-6):
-- **Trinity**:
+
+- #### Trinity
+
   One being in three persons (Father, Son, Holy Spirit)
-- **Aseity**:
+
+- #### Aseity
+
   Self-existing, necessary, non-contingent being
-- **Eternality**:
+
+- #### Eternality
+
   No beginning or end; exists outside created time but entered
   time at creation
-- **Omnipresence**:
+
+- #### Omnipresence
+
   Present throughout all creation while remaining distinct
   from it
-- **Omniscience**:
+
+- #### Omniscience
+
   Knows all truth, including future events and counterfactuals
   (via middle knowledge)
-- **Transcendence and Immanence**:
+
+- #### Transcendence and Immanence
+
   Both beyond creation and actively present
   within it
-- **Greatest Being**:
+
+- #### Greatest Being
+
   That of which nothing greater can be conceived
 
 ### Divine Sovereignty
-- **Sovereignty and Freedom**:
+
+- #### Sovereignty and Freedom
+
   God knowingly allows every event that occurs
-- **Molinist Framework**:
+
+- #### Molinist Framework
+
   God exercises meticulous providence through middle
   knowledge while respecting libertarian free will
-- **Time and God**:
+
+- #### Time and God
+
   God entered into time when He created it (presentist view)
 
 ---
@@ -750,28 +1041,48 @@ When discerning which Old Testament moral standards remain binding:
 All Christological affirmations held with the highest confidence (5-6):
 
 ### Person of Christ
-- **Deity**:
+
+- #### Deity
+
   Jesus is the Son of God, consubstantial with the Father
-- **Incarnation**:
+
+- #### Incarnation
+
   Added human nature to divine nature; fully God and fully
   human
-- **Virgin Birth**:
+
+- #### Virgin Birth
+
   Mary was virgin until after Jesus' birth
-- **Creator**:
+
+- #### Creator
+
   All things made through Christ
-- **Messiah**:
+
+- #### Messiah
+
   Fulfilment of Hebrew Scriptures' prophecies
 
 ### Work of Christ
-- **Crucifixion**:
+
+- #### Crucifixion
+
   Died under Pontius Pilate, suffered and was buried
-- **Resurrection**:
+
+- #### Resurrection
+
   Rose bodily on the third day
-- **Ascension**:
+
+- #### Ascension
+
   Ascended to heaven, seated at the Father's right hand
-- **Second Coming**:
+
+- #### Second Coming
+
   Will return to judge living and dead
-- **Revelation**:
+
+- #### Revelation
+
   Jesus is the full revelation of God's nature and character
 
 ---
@@ -779,72 +1090,112 @@ All Christological affirmations held with the highest confidence (5-6):
 ## IV. Anthropology and Hamartiology
 
 ### Nature of Humanity
-- **Image of God**:
+
+- #### Image of God
+
   Humans created male and female in God's image, sharing
   attributes to finite extent
-- **Two Genders**:
+
+- #### Two Genders
+
   Only male and female, corresponding to biological sex
-- **Purpose**:
+
+- #### Purpose
+
   Created as recipients of God's love; chief end is to glorify and
   enjoy God forever
-- **Libertarian Free Will**:
+
+- #### Libertarian Free Will
+
   Humans possess genuine libertarian freedom
-- **Historicity**:
+
+- #### Historicity
+
   Adam and Eve were actual historical people (lived 6,000 to
   1,000,000 years ago)
 
 ### Original Sin and the Fall #### Key Distinctive : Corruption without
 inherited guilt
 
-- **Corrupted Nature**:
+
+- #### Corrupted Nature
+
   All humans inherit Adam's corrupted nature (tendency
   toward sin, spiritual brokenness)
-- **No Inherited Guilt**:
+
+- #### No Inherited Guilt
+
   Adam's descendants are NOT guilty of his sin at birth;
   guilt requires personal moral agency
-- **Total Depravity**:
+
+- #### Total Depravity
+
   All aspects of human nature affected by the Fall
-- **Physical Death**:
+
+- #### Physical Death
+
   Universal consequence of Adam's sin
   (corporate/biological), but not personal punishment for those without guilt
-- **Enmity with God**:
+
+- #### Enmity with God
+
   Unregenerate persons are enemies of God due to personal
   sin once accountable
 
 ### Sin
-- **Definition**:
+
+- #### Definition
+
   Failure to follow God's commands; offence against God
-- **Moral Agency Requirement**:
+
+- #### Moral Agency Requirement
+
   Sin only incurs guilt when committed with moral
   agency (ability to choose otherwise)
-- **Infants and Sin**:
+
+- #### Infants and Sin
+
   Infants manifest sinful actions (as "sinners" = "people
   who sin") but without moral culpability
-- **Age of Accountability**:
+
+- #### Age of Accountability
+
   Varies by individual based on cognitive/moral
   development; exact timing known only to God
-- **Cognitively Disabled**:
+
+- #### Cognitively Disabled
+
   Those who never develop moral agency remain in
   innocent state throughout life
 
 ### Infant and Child Soteriology #### Distinctive Position : Innocence until
 accountability
 
-- **Before Accountability**:
+
+- #### Before Accountability
+
   Children are legally innocent, having corrupted
   nature but no personal guilt
-- **Need for Atonement**:
+
+- #### Need for Atonement
+
   Christ's work addresses corrupted nature, enabling
   children to remain in relationship with God
 - **Status (1 Cor 7:14)**: Children of believers are "holy" - set apart in
   covenant community
-- **Salvation of Infants**:
+
+- #### Salvation of Infants
+
   Those who die before accountability are saved (no
   guilt to condemn them)
-- **Parental Responsibility**:
+
+- #### Parental Responsibility
+
   Parents should disciple children toward faith as
   understanding develops
-- **Young Conversion**:
+
+- #### Young Conversion
+
   Children can exercise saving faith as young as 4 years
   old with basic understanding ("I need Jesus")
 
@@ -866,45 +1217,73 @@ unless God first calls and enables them; all receive prevenient grace 4.
 may fall away, but holds with very low confidence (ongoing study)
 
 ### Prevenient Grace
-- **Nature**:
+
+- #### Nature
+
   Supernatural grace given to all people, enabling free acceptance
   or rejection of God's call
-- **Function**:
+
+- #### Function
+
   Restores capacity for moral response lost in the Fall
-- **Application**:
+
+- #### Application
+
   May work gradually or immediately; all God's preparatory work
   precedes faith
-- **Infants**:
+
+- #### Infants
+
   Exact mechanics unclear; ensures all have genuine opportunity to
   respond
 
 ### Atonement Theories Multiple aspects affirmed:
-- **Penal Substitutionary**:
+
+- #### Penal Substitutionary
+
   Christ bore punishment for our sins
-- **Ransom**:
+
+- #### Ransom
+
   Christ paid ransom to deliver from bondage to sin
-- **Propitiation**:
+
+- #### Propitiation
+
   Christ's death satisfied God's wrath against sin
-- **Effectual Application**:
+
+- #### Effectual Application
+
   Becomes effective when person repents and trusts
   Christ
 
 ### Justification and Sanctification
-- **Justification**:
+
+- #### Justification
+
   Instantaneous, forensic declaration of righteousness by
   faith alone
-- **Initial Sanctification**:
+
+- #### Initial Sanctification
+
   Begins simultaneously with justification at
   regeneration
-- **Progressive Sanctification**:
+
+- #### Progressive Sanctification
+
   Holy Spirit begins process of growth in
   holiness at new birth
-- **Relationship**:
+
+- #### Relationship
+
   Cannot have justification without sanctification beginning
-- **Complete Freedom from Sin**:
+
+- #### Complete Freedom from Sin
+
   Only achieved at glorification, not in this
   life
-- **Asymptotic Progress**:
+
+- #### Asymptotic Progress
+
   Believers grow progressively toward holiness but
   never achieve sinless perfection in this life
 
@@ -912,23 +1291,37 @@ may fall away, but holds with very low confidence (ongoing study)
 perfection as attainable in this life
 
 ### Faith and Works
-- **Justification**:
+
+- #### Justification
+
   By faith alone; works have no merit in justification
-- **Necessity of Works**:
+
+- #### Necessity of Works
+
   Saving faith necessarily produces good works as
   evidence
-- **Relationship**:
+
+- #### Relationship
+
   Faith is the root, works are the fruit
 
 ### Assurance
-- **Direct Witness**:
+
+- #### Direct Witness
+
   Comes through Holy Spirit's witness to believer's spirit
-- **Indirect Witness**:
+
+- #### Indirect Witness
+
   Confirmed by fruit of sanctification over time
-- **False Assurance**:
+
+- #### False Assurance
+
   Purported Spirit witness without evidence of
   sanctification is likely illusory
-- **Confidence**:
+
+- #### Confidence
+
   High (5)
 
 ---
@@ -936,42 +1329,68 @@ perfection as attainable in this life
 ## VI. Ecclesiology and Church Practice
 
 ### Nature of the Church
-- **Universal Church**:
+
+- #### Universal Church
+
   The invisible body of all true believers where salvation
   occurs
-- **Local Church**:
+
+- #### Local Church
+
   Membership essential for normal Christian life, though not
   strictly necessary for salvation itself
-- **Social Holiness**:
+
+- #### Social Holiness
+
   Christianity must be lived in community; believers need
   fellowship and accountability
-- **Church Authority**:
+
+- #### Church Authority
+
   Any person or organisation attempting to issue binding
   decrees on all believers' consciences is antichrist
 
 ### Church Offices
-- **Biblical Offices Only**:
+
+- #### Biblical Offices Only
+
   Elder (pastor, overseer, bishop) and deacon
-- **Eldership**:
+
+- #### Eldership
+
   Only men may serve as elders; must be "one-woman men" (faithful
   if married, chaste if single); divorced men may serve in some circumstances
-- **Deacons**:
+
+- #### Deacons
+
   Both men and women may serve
-- **Titles**:
+
+- #### Titles
+
   Elders should not use titles like "pastor" or "father" (held
   lightly, confidence 2)
-- **Authority Structure**:
+
+- #### Authority Structure
+
   Prophets and apostles (missionaries) subject to elder
   authority
 
 ### Church Mission
-- **Evangelism**:
+
+- #### Evangelism
+
   Primary mission, addressing eternal salvation
-- **Social Action**:
+
+- #### Social Action
+
   Mandatory but secondary; flows from genuine faith
-- **Balance**:
+
+- #### Balance
+
   Both are essential expressions of the gospel
-- **Not Dominionist**:
+
+- #### Not Dominionist
+
   Church not expected to control secular world until Christ
   returns
 
@@ -987,32 +1406,52 @@ Believers' baptism with high sacramental theology
 
 #### Nature and Meaning
 
-- **Ordained by Christ**:
+
+- ##### Ordained by Christ
+
   A ritual commanded by Christ
-- **Believers Only**:
+
+- ##### Believers Only
+
   Should only be undertaken by professing believers
-- **Not Necessary for Salvation**:
+
+- ##### Not Necessary for Salvation
+
   But necessary for obedience to Christ
-- **Profession of Faith**:
+
+- ##### Profession of Faith
+
   Involves profession of faith and repentance from sin
-- **Multiple Symbolism**:
+
+- ##### Multiple Symbolism
+
   
   - Death of old nature and creation of new nature
   - Identification with Christ
   - Induction into Church membership
-- **Sign and Sacrament**:
+
+- ##### Sign and Sacrament
+
   Both symbol and means of grace
-- **Supernatural Work**:
+
+- ##### Supernatural Work
+
   God does supernatural work at baptism in addition to
   regeneration at first belief
-- **Duty and Privilege**:
+
+- ##### Duty and Privilege
+
   Believer's duty and pleasure to seek baptism
 
 #### Mode
 
-- **Proper Form**:
+
+- ##### Proper Form
+
   Full immersion (confidence 3)
-- **Other Modes Valid**:
+
+- ##### Other Modes Valid
+
   Those baptised by other modes need not be re-baptised
   (confidence 2, subject to study)
 
@@ -1032,27 +1471,43 @@ High sacramental view unusual in Baptist circles
 
 #### Nature
 
-- **Ordained by Christ**:
+
+- ##### Ordained by Christ
+
   A ritual commanded by Christ
-- **Means of Grace**:
+
+- ##### Means of Grace
+
   Genuine channel through which God conveys grace
   (confidence 2, subject to study)
-- **Real Spiritual Presence**:
+
+- ##### Real Spiritual Presence
+
   Christ is spiritually present; communicates grace
   to worthy receivers
-- **Not Merely Memorial**:
+
+- ##### Not Merely Memorial
+
   Rejects Zwinglian memorialism
-- **Not Transubstantiation**:
+
+- ##### Not Transubstantiation
+
   Rejects Roman Catholic doctrine
 
 #### Practice
 
-- **Frequency**:
+
+- ##### Frequency
+
   Should partake frequently (as often as possible)
-- **Open to Believers**:
+
+- ##### Open to Believers
+
   All true believers may partake, even if not yet
   baptised
-- **Closed to Non-Believers**:
+
+- ##### Closed to Non-Believers
+
   Non-believers may not partake
 
 ---
@@ -1061,9 +1516,13 @@ High sacramental view unusual in Baptist circles
 
 ### Person of the Spirit
 
-- **Deity**:
+
+- #### Deity
+
   Consubstantial with Father and Son.
-- **Work in Salvation**:
+
+- #### Work in Salvation
+
   Regenerates, begins sanctification at conversion,
   continues sanctifying work throughout believer's earthly life, and provides
   assurance.
@@ -1077,49 +1536,77 @@ Normative continuationism with careful biblical boundaries
 
 #### Position on Gifts
 
-- **Continuationism**:
+
+- ##### Continuationism
+
   All gifts continue throughout the Church age (Pentecost
   to Second Coming)
-- **Active Today**:
+
+- ##### Active Today
+
   Prophecy, tongues, healing, and all gifts should be
   normative in the church
-- **Biblical Guidelines**:
+
+- ##### Biblical Guidelines
+
   When practiced, must accord with biblical
   instructions
-- **Testing Required**:
+
+- ##### Testing Required
+
   All prophecy must be tested against Scripture
 
 #### Contemporary Prophecy
 
-- **Divine Source**:
+
+- ##### Divine Source
+
   God gives prophetic words for guidance, encouragement, and
   direction
-- **Fallible Reception**:
+
+- ##### Fallible Reception
+
   God's words are infallible, but prophet's
   reception/interpretation is fallible
-- **Scripture Supreme**:
+
+- ##### Scripture Supreme
+
   All prophecy must be tested against Scripture
-- **No Contradiction**:
+
+- ##### No Contradiction
+
   No true prophecy will contradict biblical teaching
-- **Not Scripture-Level Authority**:
+
+- ##### Not Scripture-Level Authority
+
   Does not equal biblical authority
 
 #### Deliverance Ministry
 
-- **Demonisation Possible**:
+
+- ##### Demonisation Possible
+
   Demons can seriously affect believers' lives
   (confidence 2)
-- **Demonic Control**:
+
+- ##### Demonic Control
+
   Demons can control non-believers' bodies
-- **Deliverance Available**:
+
+- ##### Deliverance Available
+
   Demonised persons can be set free through prayer
 
 #### Balance
 
-- **Experience Governed by Scripture**:
+
+- ##### Experience Governed by Scripture
+
   Religious experience is real and
   important but must be subordinate to rational understanding of Scripture
-- **Guarding Against Error**:
+
+- ##### Guarding Against Error
+
   Subjective feelings untethered from biblical truth
   lead to heresy (e.g., Mormon "burning in the bosom")
 
@@ -1128,12 +1615,19 @@ Normative continuationism with careful biblical boundaries
 ## IX. Means of Grace
 
 ### General Principle
-- **Essential Channels**:
+
+- #### Essential Channels
+
   Means of grace are ordinary channels through which God
   conveys grace
-- **Not Merely Helpful**:
+
+- #### Not Merely Helpful
+
   Essential for spiritual growth, not optional
-- **God's Ordinary Method**: Grace ordinarily flows through these means, though
+
+- #### God's Ordinary Method
+
+  Grace ordinarily flows through these means, though
   God is not bound by them
 
 ### Instituted Means Ordained by Christ:
@@ -1154,13 +1648,19 @@ Normative continuationism with careful biblical boundaries
   against sin and temptation, maintaining readiness for Christ's return.
 
 ### Prayer
-- **Healing**:
+
+- #### Healing
+
   God heals in response to prayer, both miraculously and by natural
   means
-- **Delayed Healing**:
+
+- #### Delayed Healing
+
   Sometimes God delays healing; sometimes until
   resurrection
-- **Declarative Prayer**:
+
+- #### Declarative Prayer
+
   Christians should not declare something in prayer
   unless first revealed by God
 
@@ -1169,51 +1669,81 @@ Normative continuationism with careful biblical boundaries
 ## X. Christian Life and Ethics
 
 ### Sanctification and Holiness
-- **Progressive Growth**:
+
+- #### Progressive Growth
+
   Believers grow in holiness throughout life
-- **Not Perfectionist**:
+
+- #### Not Perfectionist
+
   Complete freedom from sin only at glorification
-- **Expectation**:
+
+- #### Expectation
+
   Believers expected to live godly lives and show fruit of
   Spirit
-- **Suffering**:
+
+- #### Suffering
+
   Christians should expect to suffer for following Christ
 
 ### Stewardship and Wealth
-- **Three Principles**:
+
+- #### Three Principles
+
   Earn all you can, save all you can, give all you can
-- **Generous Giving**:
+
+- #### Generous Giving
+
   Christians should give generously to local church and
   those in need
-- **Not Legalistic Tithing**:
+
+- #### Not Legalistic Tithing
+
   Giving should be determined by Spirit's leading
   and conscience, not necessarily 10%
-- **Subject to Calling**:
+
+- #### Subject to Calling
+
   Economic principles subject to specific divine calling
   (e.g., full-time ministry may require different approach)
-- **Wealth Not Prosperity Gospel**:
+
+- #### Wealth Not Prosperity Gospel
+
   Rejects notion that prosperity is sign of
   God's blessing
 
 ### Marriage and Family
-- **Definition**:
+
+- #### Definition
+
   Only between one man and one woman
-- **Typology**:
+
+- #### Typology
+
   Represents Christ's relationship with His Church
-- **Authority Structure**:
+
+- #### Authority Structure
+
   Husband is spiritual head, lovingly serving wife;
   wife submits to his authority (complementarian)
-- **Divorce**:
+
+- #### Divorce
+
   Prohibited except in specific biblical circumstances
-- **Sexual Ethics**:
+
+- #### Sexual Ethics
   
   - Sexual intercourse outside marriage is sinful
   - Homosexual acts are sinful
 
 ### Gender Roles
-- **In Marriage**:
+
+- #### In Marriage
+
   Complementarian - different roles with husband as head
-- **In Church**:
+
+- #### In Church
   
   - Only men may be elders
   - Both men and women may be deacons
@@ -1231,50 +1761,81 @@ Normative continuationism with careful biblical boundaries
 _(Held with humility and low confidence.)_
 
 ### Order of Events
-- **Pre-Tribulation Rapture**:
-  Believers taken from earth at start of
-  tribulation (confidence 2)
-- **Seven-Year Tribulation**:
-  God will afflict earth's inhabitants
-- **Christ's Return**: Jesus will return to judge living and dead
-- **Millennial Reign**:
-  Christ will reign on earth for 1,000 years
-- **Coexistence**:
-  People with resurrection bodies will coexist with those with
-  natural bodies
-- **Final Rebellion**:
-  Satan will incite rebellion at end of millennium
-- **Final Battle**:
-  Christ will destroy all who participate
-- **Final Resurrection**:
-  Everyone who has died will be resurrected to face
-  judgement
-- **Final Judgement**:
-  Christ will judge everyone for their deeds
-- **New Creation**:
-  God will destroy and recreate heavens and earth
+
+1.  #### Pre-Tribulation Rapture
+
+    Believers taken from earth at start of
+    tribulation (confidence 2)
+
+2.  #### Seven-Year Tribulation
+
+    God will afflict earth's inhabitants
+
+3.  #### Christ's Return
+
+    Jesus will return to judge living and dead
+
+4.  #### Millennial Reign
+
+    Christ will reign on earth for 1,000 years
+
+5.  #### Coexistence
+
+    People with resurrection bodies will coexist with those with
+    natural bodies
+
+6.  #### Final Rebellion
+
+    Satan will incite rebellion at end of millennium
+
+7.  #### Final Battle
+
+    Christ will destroy all who participate
+
+8.  #### Final Resurrection
+
+    Everyone who has died will be resurrected to face
+    judgement
+
+9.  #### Final Judgement
+
+    Christ will judge everyone for their deeds
+
+10. #### New Creation
+
+    God will destroy and recreate heavens and earth
 
 ### Intermediate State
 
-- **Immediate Consciousness**:
+- #### Immediate Consciousness
+
   Upon death, believers' spirits immediately enter
   God's presence while awaiting bodily resurrection
-- **Awaiting Resurrection**:
+
+- #### Awaiting Resurrection
+
   Not soul sleep; conscious existence in intermediate
   state
 
 ### Final States
 
-- **Hell (Lake of Fire)**: 
+- #### Hell (Lake of Fire)
+
   - Those whose names not in Book of Life will be cast into lake of fire
   - Conscious, never-ending torment (not annihilationism)
   - Confidence level: 3 (moderate)
-- **New Heavens and Earth**:
+
+- #### New Heavens and Earth
+
   Believers resurrected into glorious, supernatural
   bodies
-- **No Purgatory**:
+
+- #### No Purgatory
+
   Rejects Roman Catholic doctrine
-- **No Universalism**:
+
+- #### No Universalism
+
   Not all will be saved
 
 ---
@@ -1285,52 +1846,85 @@ _(Held with humility and low confidence.)_
 
 #### Old Earth Creationism with Theistic Evolution
 
+- #### Universe Age
 
-- **Universe Age**:
   Several billion years old (confidence 2)
-- **Adam's Timing**: Lived 6,000 to 1,000,000 years ago (confidence 1 - very
+
+- #### Adam's Timing
+
+  Lived 6,000 to 1,000,000 years ago (confidence 1 - very
   uncertain)
-- **Genealogical Gaps**:
+
+- #### Genealogical Gaps
+
   Adam's genealogy likely contains omissions
-- **Evolution**:
+
+- #### Evolution
+
   God used evolution as one element of His creative work
   (confidence 2)
-- **Progressive Creationism**:
+
+- #### Progressive Creationism
+
   God supernaturally intervened at points to
   produce speciation (confidence 1)
-- **Neo-Darwinism**:
+
+- #### Neo-Darwinism
+
   Neo-Darwinian macroevolution is not scientifically
   plausible (confidence 3)
 
 ### Hermeneutics of Genesis
-- **Hermeneutical Freedom**:
+
+- #### Hermeneutical Freedom
+
   Various approaches to Genesis 1-6 can be considered
   orthodox
-- **Days of Creation**:
+
+- #### Days of Creation
+
   Six days should not be interpreted as literal 24-hour
   periods (confidence 3)
-- **Genesis 6 Flood**:
+
+- #### Genesis 6 Flood
+
   Regional event, not global (confidence 2)
-- **Sons of God**:
+
+- #### Sons of God
+
   Fallen spiritual beings (confidence 2)
 
 ### Theology of Creation
-- **Creator**:
+
+- #### Creator
+
   Father Almighty is maker of all things visible and invisible
-- **Through Christ**:
+
+- #### Through Christ
+
   All things made through Christ
-- **Time**:
+
+- #### Time
+
   God created time and entered into it
-- **Sustenance**:
+
+- #### Sustenance
+
   God actively sustains all creation, including Satan and demons
-- **Angels and Demons**:
+
+- #### Angels and Demons
+
   Demons are created spiritual beings that are evil
 
 ### Philosophy
-- **Anti-Platonism**:
+
+- #### Anti-Platonism
+
   Abstract objects do not exist; if they do, they're
   contingent on God (confidence 3)
-- **Presentism**:
+
+- #### Presentism
+
   Only present time exists; past has ceased, future hasn't yet
   come (confidence 3)
 
@@ -1339,24 +1933,38 @@ _(Held with humility and low confidence.)_
 ## XIII. Other Doctrines
 
 ### Mariology
-- **Virgin Birth**:
+
+- #### Virgin Birth
+
   Mary was virgin until after Jesus' birth
-- **Other Children**:
+
+- #### Other Children
+
   Mary did not remain perpetually virgin; bore other
   children
-- **Prayer to Mary**:
+
+- #### Prayer to Mary
+
   Attempting to pray to Mary or other departed saints is
   prohibited
-- **No Special Status**:
+
+- #### No Special Status
+
   Rejects Catholic Marian dogmas
 
 ### Biblical Translations
-- **Multiple Good Translations**:
+
+- #### Multiple Good Translations
+
   Many very good English translations exist
-- **Modern Advantages**:
+
+- #### Modern Advantages
+
   Modern translations have advantages due to Dead Sea
   Scrolls
-- **Warning**:
+
+- #### Warning
+
   "The Passion Translation" is dangerous and should be avoided
 
 ---
@@ -1399,7 +2007,9 @@ faith. Full affirmation of all articles:
 - Ascended into heaven, seated at the right hand of the Father.
 - Will come again to judge the living and the dead.
 - Belief in the Holy Spirit.
-- **The holy catholic Church**:
+
+- #### The holy catholic Church
+
   Affirmed - "catholic" meaning the one, universal
   Church of all true believers.
 - The communion of saints.
@@ -1449,11 +2059,15 @@ Full affirmation of all articles:
 
 #### On the Church and Sacraments
 
-- **One holy catholic and apostolic Church**:
+
+- #### One holy catholic and apostolic Church
+
   Affirmed - "catholic" meaning
   universal; the Church is one, holy, universal, and built on apostolic
   foundation.
-- **One baptism for the forgiveness of sins**:
+
+- #### One baptism for the forgiveness of sins
+
   Affirmed with nuance - "one
   baptism" meaning baptism into Christ is the only valid baptism regardless of
   particular mode; "for the forgiveness of sins" is affirmed in that baptism
@@ -1648,20 +2262,32 @@ charismatic evangelical churches 5. Some Vineyard churches
 - Eschatology (premillennial vs. amillennial)
 
 ### Theological Influences Drawing from multiple streams:
-- **Arminian Tradition**:
+
+- #### Arminian Tradition
+
   Arminius, Remonstrants, Free Will Baptists
-- **Baptist Tradition**:
+
+- #### Baptist Tradition
+
   Believers' church, regenerate membership, local
   autonomy
-- **Charismatic Movement**:
+
+- #### Charismatic Movement
+
   Pentecostalism, Third Wave, continuationism
-- **Reformed Tradition**:
+
+- #### Reformed Tradition
+
   High view of Scripture, emphasis on God's sovereignty
   (via Molinism)
-- **Wesleyan Tradition**:
+
+- #### Wesleyan Tradition
+
   Means of grace, social holiness, balance of
   authorities
-- **Philosophical Theology**:
+
+- #### Philosophical Theology
+
   Molinism (William Lane Craig, Thomas Flint)
 
 ### Distinctiveness This theological profile is **uncommon but internally
