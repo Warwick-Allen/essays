@@ -106,6 +106,94 @@ Fellowship](https://docs.google.com/spreadsheets/d/e/2PACX-1vQBiyT66UU2fBsoeNISX
 If you require more detail on how Allen handles a specific doctrine, you might
 find an answer there.
 
+### Topics to Complete
+
+The following topics need to be added or expanded for this document to be
+considered complete:
+
+1.  #### Bibliology
+
+    Missing:
+
+    - Explicit treatment of the doctrine of confluence or superintendence in the
+      writing of the Scriptures.
+
+2.  #### Angelology
+
+    Only briefly mentioned under "Creation". Missing:
+
+    - The nature and orders of angels.
+    - Their ministry and functions.
+    - The fall of Satan and demons (only briefly mentioned).
+    - Spiritual warfare beyond deliverance ministry.
+
+3.  #### Theodicy and the Problem of Evil
+
+    A significant omission given the Molinist framework. Missing:
+
+    - How God's goodness relates to the existence of evil.
+    - The nature and purpose of suffering.
+    - Natural evil vs. moral evil.
+
+4.  #### Covenant Theology
+
+    These discussion need to be expanded:
+
+    - The covenants (Abrahamic, Mosaic, Davidic, New).
+    - Continuity and discontinuity between Israel and the Church.
+    - The relationship between law and grace.
+
+5.  #### The Doctrine of Providence
+
+    Mentioned only tangentially. Missing:
+
+    - How God's middle knowledge relates to His providential care.
+    - Miracles and natural law.
+    - Divine concurrence with human actions.
+
+6.  #### Israel and the Church
+
+    Missing:
+
+    - The status of ethnic Israel.
+    - Relationship between Israel and the Church.
+    - Fulfilment of Old Testament promises to Israel.
+
+7.  #### Mission and Evangelism
+
+    Only briefly mentioned under "Church Mission". Missing:
+
+    - The Great Commission.
+    - Methods of evangelism.
+    - The unevangelised and those who've never heard.
+
+8.  #### Cultural Engagement
+
+    Missing:
+
+    - How Christians should engage with secular culture.
+    - Art, beauty, and aesthetics.
+    - The relationship between Christianity and other religions.
+
+9.  #### Civil Government and Political Theology
+
+    Christian's relationship to civil authority is discussed in terms of
+    political engagement, but needs to be fleshed-out.
+
+    Missing:
+
+    - Church-state relations.
+    - Just war theory or pacifism.
+    - Civil disobedience.
+
+10. #### Religious Liberty and Conscience
+
+    Missing explicit treatment of:
+
+    - Freedom of conscience.
+    - Religious pluralism.
+    - The limits of Christian liberty.
+
 ---
 
 ## Executive Summary
