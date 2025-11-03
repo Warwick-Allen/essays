@@ -465,34 +465,31 @@ sophistication through Molinism.
 
   Strong biblical evidence to depart from consensus must include:
 
-  1.  clear grammatical-historical analysis showing plain meaning
-  in context;
+  1.  a clear grammatical-historical analysis showing plain meaning in context;
 
-  2.  explicit theological reasoning within the text grounding the
+  2.  explicit theological reasoning within the text, grounding the
   command in transcultural realities;
 
-  3.  repetition across multiple biblical
-  books/authors;
+  3.  repetition across multiple biblical books/authors;
 
-  4.  coherence with broader canonical narrative and central
-  doctrines;
+  4.  coherence with broader canonical narrative and central doctrines;
 
-  5.  support preferably from didactic rather than merely narrative
-  passages;
+  5.  support preferably from didactic rather than merely narrative passages;
 
-  6.  accounting for all relevant texts, not selective use; (7)
-  identification of why historical consensus may have been influenced by
-  extra-biblical factors;
+  6.  an accounting for all relevant texts, not just a selective use;
 
-  8.  demonstration from Scripture why traditional
-  interpretation appears to be misreading;
+  7.  identification of why ithe historical consensus may have been influenced
+  by extra-biblical factors;
 
-  9.  evidence substantial enough that
-  other qualified interpreters could see the textual case even if disagreeing;
+  8.  a demonstration from Scripture why the traditional interpretation appears
+  to be a misreading;
 
-  10.  compelling enough to teach with intellectual integrity whilst fairly
-  acknowledging traditional view. Evidence must be so compelling that one cannot
-  in good conscience hold the consensus view.
+  9.  evidence substantial enough that other qualified interpreters could see
+  the textual case, even if disagreeing;
+
+  10. a case compelling enough to teach with intellectual integrity whilst
+  fairly acknowledging the traditional view, and evidence so compelling that
+  one cannot in good conscience hold the consensus view.
 
 - ##### High Threshold in Practice
 
