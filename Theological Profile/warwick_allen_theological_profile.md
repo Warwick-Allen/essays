@@ -6,34 +6,218 @@
 
 ### Table of Contents
 
-|     |                                                                                            |
-|-----|--------------------------------------------------------------------------------------------|
-|     | *Front Matter*                                                                             |
-|     |[Executive Summary                         ](#executive-summary                            )|
-|     |[About This Document                       ](#about-this-document                          )|
-|     |[Topics to Complete                        ](#topics-to-complete                           )|
-|     | *Doctrinal Sections*                                                                       |
-|I.   |[Theological Method and Authority          ](#i-theological-method-and-authority           )|
-|II.  |[Theology Proper (Doctrine of God)         ](#ii-theology-proper-doctrine-of-god           )|
-|III. |[Christology                               ](#iii-christology                              )|
-|IV.  |[Anthropology and Hamartiology             ](#iv-anthropology-and-hamartiology             )|
-|V.   |[Soteriology (Doctrine of Salvation)       ](#v-soteriology-doctrine-of-salvation          )|
-|VI.  |[Ecclesiology and Church Practice          ](#vi-ecclesiology-and-church-practice          )|
-|VII. |[Sacraments and Ordinances                 ](#vii-sacraments-and-ordinances                )|
-|VIII.|[Pneumatology (Doctrine of the Holy Spirit)](#viii-pneumatology-doctrine-of-the-holy-spirit)|
-|IX.  |[Means of Grace                            ](#ix-means-of-grace                            )|
-|X.   |[Christian Life and Ethics                 ](#x-christian-life-and-ethics                  )|
-|XI.  |[Eschatology (Last Things)                 ](#xi-eschatology-last-things                   )|
-|XII. |[Creation and Science                      ](#xii-creation-and-science                     )|
-|XIII.|[Other Doctrines                           ](#xiii-other-doctrines                         )|
-|XIV. |[Areas of Ongoing Study                    ](#xiv-areas-of-ongoing-study                   )|
-|XV.  |[Alignment with Historic Creeds            ](#xv-alignment-with-historic-creeds            )|
-|XVI. |[Theological Identity and Tradition        ](#xvi-theological-identity-and-tradition       )|
-|XVII.|[Practical Implications                    ](#xvii-practical-implications                  )|
-|     | *End Matter*                                                                               |
-|     |[Conclusion                                ](#conclusion                                   )|
-
----
+<table class="table-of-contents" width="100%">
+  <tbody>
+    <tr>
+      <td></td>
+      <td>
+        <a href="#executive-summary">
+          Executive Summary
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <a href="#about-this-document">
+          About This Document
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <a href="#topics-to-complete">
+          Topics to Complete
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th colspan=2>Doctrinal Sections</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="#i-theological-method-and-authority">I.</a>
+      </td>
+      <td>
+        <a href="#i-theological-method-and-authority">
+          Theological Method and Authority
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#ii-theology-proper-doctrine-of-god">II.</a>
+      </td>
+      <td>
+        <a href="#ii-theology-proper-doctrine-of-god">
+          Theology Proper (Doctrine of God)
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#iii-christology">III.</a>
+      </td>
+      <td>
+        <a href="#iii-christology">
+          Christology
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#iv-anthropology-and-hamartiology">IV.</a>
+      </td>
+      <td>
+        <a href="#iv-anthropology-and-hamartiology">
+          Anthropology and Hamartiology
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#v-soteriology-doctrine-of-salvation">V.</a>
+      </td>
+      <td>
+        <a href="#v-soteriology-doctrine-of-salvation">
+          Soteriology (Doctrine of Salvation)
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#vi-ecclesiology-and-church-practice">VI.</a>
+      </td>
+      <td>
+        <a href="#vi-ecclesiology-and-church-practice">
+          Ecclesiology and Church Practice
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#vii-sacraments-and-ordinances">VII.</a>
+      </td>
+      <td>
+        <a href="#vii-sacraments-and-ordinances">
+          Sacraments and Ordinances
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#viii-pneumatology-doctrine-of-the-holy-spirit">VIII.</a>
+      </td>
+      <td>
+        <a href="#viii-pneumatology-doctrine-of-the-holy-spirit">
+          Pneumatology (Doctrine of the Holy Spirit)
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#ix-means-of-grace">IX.</a>
+      </td>
+      <td>
+        <a href="#ix-means-of-grace">
+          Means of Grace
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#x-christian-life-and-ethics">X.</a>
+      </td>
+      <td>
+        <a href="#x-christian-life-and-ethics">
+          Christian Life and Ethics
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#xi-eschatology-last-things">XI.</a>
+      </td>
+      <td>
+        <a href="#xi-eschatology-last-things">
+          Eschatology (Last Things)
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#xii-creation-and-science">XII.</a>
+      </td>
+      <td>
+        <a href="#xii-creation-and-science">
+          Creation and Science
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#xiii-other-doctrines">XIII.</a>
+      </td>
+      <td>
+        <a href="#xiii-other-doctrines">
+          Other Doctrines
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#xiv-areas-of-ongoing-study">XIV.</a>
+      </td>
+      <td>
+        <a href="#xiv-areas-of-ongoing-study">
+          Areas of Ongoing Study
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#xv-alignment-with-historic-creeds">XV.</a>
+      </td>
+      <td>
+        <a href="#xv-alignment-with-historic-creeds">
+          Alignment with Historic Creeds
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#xvi-theological-identity-and-tradition">XVI.</a>
+      </td>
+      <td>
+        <a href="#xvi-theological-identity-and-tradition">
+          Theological Identity and Tradition
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#xvii-practical-implications">XVII.</a>
+      </td>
+      <td>
+        <a href="#xvii-practical-implications">
+          Practical Implications
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th colspan=2></th>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <a href="#conclusion">
+          Conclusion
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Executive Summary
 
