@@ -67,30 +67,50 @@ and **importance ratings**:
 
 The confidence levels use a scale of 1–6:
 
-- **6**: Maximum confidence - as certain as belief in the external world;
-  unlikely to ever be dissuaded.
-- **5**: Very strong confidence - would require overwhelmingly strong argument
-  to be dissuaded.
-- **4**: Strong confidence - could be dissuaded by very strong counter-argument.
-- **3**: Moderate confidence - could be dissuaded by good counter-argument.
-- **2**: Held lightly - could easily be dissuaded given new information or
-  argumentation.
-- **1**: Undecided on this matter.
+- **6: Maximum confidence**
+  &mdash;
+  As certain as belief in the external world; unlikely to ever be dissuaded.
+- **5: Very strong confidence**
+  &mdash;
+  Would require an overwhelmingly strong argument to be dissuaded.
+- **4: Strong confidence**
+  &mdash;
+  Could be dissuaded by a very strong counter-argument.
+- **3: Moderate confidence**
+  &mdash;
+  Could be dissuaded by a good counter-argument.
+- **2: Held lightly**
+  &mdash;
+  Could easily be dissuaded given new information or argumentation.
+- **1: Undecided**
+  &mdash;
+  Undecided on this matter.
 
 #### Importance Ratings
 
 The importance ratings use a scale of 1–6:
 
-- **6**: Fundamental doctrine of Christianity; denying this is heresy and might
-  put one's salvation in jeopardy.
-- **5**: Denying this is heterodox but not heresy; a serious error that will
-  severely impact one's Christian walk.
-- **4**: Important topic with room for disagreement within orthodox
+- **6: Fundamental**
+  &mdash;
+  This is a fundamental doctrine of Christianity;
+  denying this is heresy and might put one's salvation in jeopardy.
+- **5: Extreme Importance**
+  &mdash;
+  Denying this doctirne is heterodox but not heresy;
+  such denial is a serious error that will severely impact one's Christian walk.
+- **4: High Importance**
+  &mdash;
+  This is an important topic, but there is room for disagreement within orthodox
   Christianity.
-- **3**: Moderate importance; Christians within the same fellowship might
-  disagree.
-- **2**: Low importance; Christians should not spend much time debating this.
-- **1**: Mere curiosity of negligible importance.
+- **3: Moderate Importance**
+  &mdash;
+  Christians within the same fellowship might disagree on this topic.
+- **2: Low Importance**
+  &mdash;
+  Christians should not spend much time debating this.
+- **1: Negligible Importance**
+  &mdash;
+  This is a mere curiosity of negligible importance.
 
 #### Areas of Ongoing Study
 
@@ -2274,13 +2294,13 @@ qualification on its damnatory clauses.
 
 ### Summary of Creedal Alignment
 
-#### Full Affirmation
+***Full Affirmation***
 
 - Apostles' Creed (100%)
 - Niceno-Constantinopolitan Creed (100%, with acknowledged nuance on *filioque*)
 - Chalcedonian Definition (100%)
 
-#### Qualified Affirmation
+***Qualified Affirmation***
 
 - Athanasian Creed (theological content 100%; pastoral qualification on
   damnatory clauses)
@@ -2308,13 +2328,15 @@ The affirmation of these creeds demonstrates the commitment to:
 
 ### Closest Denominational Fit
 
-1. **Free Will Baptist** (primary fit) 2. Charismatic Baptist churches with
-Arminian theology 3. Churches of Christ (charismatic-leaning) 4. Independent
-charismatic evangelical churches 5. Some Vineyard churches
+1. **Free Will Baptist** (primary fit)
+2. Charismatic Baptist churches with Arminian theology
+3. Churches of Christ (charismatic-leaning)
+4. Independent charismatic evangelical churches
+5. Some Vineyard churches
 
 ### Alignment with Historic Wesleyanism
 
-**55-60% Strong Alignment**
+***55-60% Strong Alignment***
 
 #### Areas of Agreement
 
@@ -2336,7 +2358,9 @@ charismatic evangelical churches 5. Some Vineyard churches
 - Perseverance (uncertain vs. clear position)
 - Eschatology (premillennial vs. amillennial)
 
-### Theological Influences Drawing from multiple streams:
+### Theological Influences Drawing from Multiple Streams
+
+Influences include:
 
 - #### Arminian Tradition
 
@@ -2382,6 +2406,7 @@ representing a thoughtful synthesis that:
 ## XVII. Practical Implications
 
 ### Worship and Church Life
+
 - Expects regular communion (weekly or more)
 - Open to prophetic words and tongues with testing
 - Values expository preaching and Scripture
@@ -2390,6 +2415,7 @@ representing a thoughtful synthesis that:
 - Complementarian leadership structure
 
 ### Spiritual Formation
+
 - Disciplines of prayer, fasting, Scripture, fellowship
 - Progressive growth in holiness without perfectionism
 - Community accountability essential
@@ -2397,6 +2423,7 @@ representing a thoughtful synthesis that:
 - Openness to Spirit's leading with discernment
 
 ### Ethical Framework
+
 - Biblical commands are authoritative
 - Conscience guided by Scripture and Spirit
 - Generous stewardship of resources
@@ -2404,6 +2431,7 @@ representing a thoughtful synthesis that:
 - Social concern alongside personal holiness
 
 ### Intellectual Approach
+
 - High confidence on core Christian doctrines
 - Appropriate uncertainty on debated matters
 - Ongoing study where importance exceeds confidence
