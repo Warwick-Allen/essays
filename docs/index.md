@@ -1,52 +1,255 @@
 # Warwick Allen's Theological Profile
-## A Molinist Arminian Baptist Charismatic with High Sacramental Convictions
+
+***A Molinist Arminian Baptist Charismatic with High Sacramental Convictions***
 
 ---
 
-## Table of Contents
+### Table of Contents
 
-### Front Matter
-- [About This Document](#about-this-document)
-- [Executive Summary](#executive-summary)
+<table class="table-of-contents" width="100%">
+  <tbody>
+    <tr>
+      <td></td>
+      <td>
+        <a href="#executive-summary">
+          Executive Summary
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <a href="#about-this-document">
+          About This Document
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <a href="#topics-to-complete">
+          Topics to Complete
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th colspan=2>Doctrinal Sections</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="#i-theological-method-and-authority">I.</a>
+      </td>
+      <td>
+        <a href="#i-theological-method-and-authority">
+          Theological Method and Authority
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#ii-theology-proper-doctrine-of-god">II.</a>
+      </td>
+      <td>
+        <a href="#ii-theology-proper-doctrine-of-god">
+          Theology Proper (Doctrine of God)
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#iii-christology">III.</a>
+      </td>
+      <td>
+        <a href="#iii-christology">
+          Christology
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#iv-anthropology-and-hamartiology">IV.</a>
+      </td>
+      <td>
+        <a href="#iv-anthropology-and-hamartiology">
+          Anthropology and Hamartiology
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#v-soteriology-doctrine-of-salvation">V.</a>
+      </td>
+      <td>
+        <a href="#v-soteriology-doctrine-of-salvation">
+          Soteriology (Doctrine of Salvation)
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#vi-ecclesiology-and-church-practice">VI.</a>
+      </td>
+      <td>
+        <a href="#vi-ecclesiology-and-church-practice">
+          Ecclesiology and Church Practice
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#vii-sacraments-and-ordinances">VII.</a>
+      </td>
+      <td>
+        <a href="#vii-sacraments-and-ordinances">
+          Sacraments and Ordinances
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#viii-pneumatology-doctrine-of-the-holy-spirit">VIII.</a>
+      </td>
+      <td>
+        <a href="#viii-pneumatology-doctrine-of-the-holy-spirit">
+          Pneumatology (Doctrine of the Holy Spirit)
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#ix-means-of-grace">IX.</a>
+      </td>
+      <td>
+        <a href="#ix-means-of-grace">
+          Means of Grace
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#x-christian-life-and-ethics">X.</a>
+      </td>
+      <td>
+        <a href="#x-christian-life-and-ethics">
+          Christian Life and Ethics
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#xi-eschatology-last-things">XI.</a>
+      </td>
+      <td>
+        <a href="#xi-eschatology-last-things">
+          Eschatology (Last Things)
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#xii-creation-and-science">XII.</a>
+      </td>
+      <td>
+        <a href="#xii-creation-and-science">
+          Creation and Science
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#xiii-other-doctrines">XIII.</a>
+      </td>
+      <td>
+        <a href="#xiii-other-doctrines">
+          Other Doctrines
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#xiv-areas-of-ongoing-study">XIV.</a>
+      </td>
+      <td>
+        <a href="#xiv-areas-of-ongoing-study">
+          Areas of Ongoing Study
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#xv-alignment-with-historic-creeds">XV.</a>
+      </td>
+      <td>
+        <a href="#xv-alignment-with-historic-creeds">
+          Alignment with Historic Creeds
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#xvi-theological-identity-and-tradition">XVI.</a>
+      </td>
+      <td>
+        <a href="#xvi-theological-identity-and-tradition">
+          Theological Identity and Tradition
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#xvii-practical-implications">XVII.</a>
+      </td>
+      <td>
+        <a href="#xvii-practical-implications">
+          Practical Implications
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th colspan=2></th>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <a href="#conclusion">
+          Conclusion
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### Doctrinal Sections
-- [I.    Theological Method and Authority](
-         #i-theological-method-and-authority)
-- [II.   Theology Proper (Doctrine of God)](
-         #ii-theology-proper-doctrine-of-god)
-- [III.  Christology](
-         #iii-christology)
-- [IV.   Anthropology and Hamartiology](
-         #iv-anthropology-and-hamartiology)
-- [V.    Soteriology (Doctrine of Salvation)](
-         #v-soteriology-doctrine-of-salvation)
-- [VI.   Ecclesiology and Church Practice](
-         #vi-ecclesiology-and-church-practice)
-- [VII.  Sacraments and Ordinances](
-         #vii-sacraments-and-ordinances)
-- [VIII. Pneumatology (Doctrine of the Holy Spirit)](
-         #viii-pneumatology-doctrine-of-the-holy-spirit)
-- [IX.   Means of Grace](
-         #ix-means-of-grace)
-- [X.    Christian Life and Ethics](
-         #x-christian-life-and-ethics)
-- [XI.   Eschatology (Last Things)](
-         #xi-eschatology-last-things)
-- [XII.  Creation and Science](
-         #xii-creation-and-science)
-- [XIII. Other Doctrines](
-         #xiii-other-doctrines)
-- [XIV.  Areas of Ongoing Study](
-         #xiv-areas-of-ongoing-study)
-- [XV.   Alignment with Historic Creeds](
-         #xv-alignment-with-historic-creeds)
-- [XVI.  Theological Identity and Tradition](
-         #xvi-theological-identity-and-tradition)
-- [XVII. Practical Implications](
-         #xvii-practical-implications)
+## Executive Summary
 
-### Conclusion
-- [Conclusion](#conclusion)
+This theological profile represents a thoughtful and internally coherent
+synthesis of beliefs drawn from multiple Christian traditions. The core
+commitments are:
+
+1. #### Molinist Arminian Soteriology
+
+   Emphasising libertarian free will, universal atonement, and prevenient grace.
+
+2. #### Baptist Ecclesiology and Sacramentology
+
+   Believers' baptism, regenerate church membership, but with unusually high
+   sacramental theology.
+
+3. #### Charismatic Pneumatology
+
+   Normative continuationism with careful biblical testing.
+
+4. #### Progressive Sanctification
+
+   Rejecting entire sanctification as attainable in this life in favour of
+asymptotic growth towards holiness.
+
+5. #### Reformed Baptist Anthropology
+
+   Corrupted nature without inherited guilt before accountability.
+
+This combination places the holder within the **Free Will Baptist** theological
+stream, with significant charismatic convictions and philosophical
+sophistication through Molinism.
 
 ---
 
@@ -67,30 +270,50 @@ and **importance ratings**:
 
 The confidence levels use a scale of 1–6:
 
-- **6**: Maximum confidence - as certain as belief in the external world;
-  unlikely to ever be dissuaded.
-- **5**: Very strong confidence - would require overwhelmingly strong argument
-  to be dissuaded.
-- **4**: Strong confidence - could be dissuaded by very strong counter-argument.
-- **3**: Moderate confidence - could be dissuaded by good counter-argument.
-- **2**: Held lightly - could easily be dissuaded given new information or
-  argumentation.
-- **1**: Undecided on this matter.
+- **6: Maximum confidence**
+  &mdash;
+  As certain as belief in the external world; unlikely to ever be dissuaded.
+- **5: Very strong confidence**
+  &mdash;
+  Would require an overwhelmingly strong argument to be dissuaded.
+- **4: Strong confidence**
+  &mdash;
+  Could be dissuaded by a very strong counter-argument.
+- **3: Moderate confidence**
+  &mdash;
+  Could be dissuaded by a good counter-argument.
+- **2: Held lightly**
+  &mdash;
+  Could easily be dissuaded given new information or argumentation.
+- **1: Undecided**
+  &mdash;
+  Undecided on this matter.
 
 #### Importance Ratings
 
 The importance ratings use a scale of 1–6:
 
-- **6**: Fundamental doctrine of Christianity; denying this is heresy and might
-  put one's salvation in jeopardy.
-- **5**: Denying this is heterodox but not heresy; a serious error that will
-  severely impact one's Christian walk.
-- **4**: Important topic with room for disagreement within orthodox
+- **6: Fundamental**
+  &mdash;
+  This is a fundamental doctrine of Christianity;
+  denying this is heresy and might put one's salvation in jeopardy.
+- **5: Extreme Importance**
+  &mdash;
+  Denying this doctirne is heterodox but not heresy;
+  such denial is a serious error that will severely impact one's Christian walk.
+- **4: High Importance**
+  &mdash;
+  This is an important topic, but there is room for disagreement within orthodox
   Christianity.
-- **3**: Moderate importance; Christians within the same fellowship might
-  disagree.
-- **2**: Low importance; Christians should not spend much time debating this.
-- **1**: Mere curiosity of negligible importance.
+- **3: Moderate Importance**
+  &mdash;
+  Christians within the same fellowship might disagree on this topic.
+- **2: Low Importance**
+  &mdash;
+  Christians should not spend much time debating this.
+- **1: Negligible Importance**
+  &mdash;
+  This is a mere curiosity of negligible importance.
 
 #### Areas of Ongoing Study
 
@@ -106,7 +329,7 @@ Fellowship](https://docs.google.com/spreadsheets/d/e/2PACX-1vQBiyT66UU2fBsoeNISX
 If you require more detail on how Allen handles a specific doctrine, you might
 find an answer there.
 
-### Topics to Complete
+## Topics to Complete
 
 The following topics need to be added or expanded for this document to be
 considered complete:
@@ -193,40 +416,6 @@ considered complete:
     - Freedom of conscience.
     - Religious pluralism.
     - The limits of Christian liberty.
-
----
-
-## Executive Summary
-
-This theological profile represents a thoughtful and internally coherent
-synthesis of beliefs drawn from multiple Christian traditions. The core
-commitments are:
-
-1. #### Molinist Arminian Soteriology
-
-   Emphasising libertarian free will, universal atonement, and prevenient grace.
-
-2. #### Baptist Ecclesiology and Sacramentology
-
-   Believers' baptism, regenerate church membership, but with unusually high
-   sacramental theology.
-
-3. #### Charismatic Pneumatology
-
-   Normative continuationism with careful biblical testing.
-
-4. #### Progressive Sanctification
-
-   Rejecting entire sanctification as attainable in this life in favour of
-asymptotic growth towards holiness.
-
-5. #### Reformed Baptist Anthropology
-
-   Corrupted nature without inherited guilt before accountability.
-
-This combination places the holder within the **Free Will Baptist** theological
-stream, with significant charismatic convictions and philosophical
-sophistication through Molinism.
 
 ---
 
@@ -1457,9 +1646,6 @@ Rejects entire sanctification/Christian perfection as attainable in this life
 
   - Prophets and apostles (missionaries) are subject to elder authority.
 
-  - A variety of forms of ecclesiastical polity are allowable;
-    different structures may be optimal in different contexts.
-
 ### Church Mission
 
 - #### Evangelism
@@ -2277,13 +2463,13 @@ qualification on its damnatory clauses.
 
 ### Summary of Creedal Alignment
 
-#### Full Affirmation
+***Full Affirmation***
 
 - Apostles' Creed (100%)
 - Niceno-Constantinopolitan Creed (100%, with acknowledged nuance on *filioque*)
 - Chalcedonian Definition (100%)
 
-#### Qualified Affirmation
+***Qualified Affirmation***
 
 - Athanasian Creed (theological content 100%; pastoral qualification on
   damnatory clauses)
@@ -2311,13 +2497,15 @@ The affirmation of these creeds demonstrates the commitment to:
 
 ### Closest Denominational Fit
 
-1. **Free Will Baptist** (primary fit) 2. Charismatic Baptist churches with
-Arminian theology 3. Churches of Christ (charismatic-leaning) 4. Independent
-charismatic evangelical churches 5. Some Vineyard churches
+1. **Free Will Baptist** (primary fit)
+2. Charismatic Baptist churches with Arminian theology
+3. Churches of Christ (charismatic-leaning)
+4. Independent charismatic evangelical churches
+5. Some Vineyard churches
 
 ### Alignment with Historic Wesleyanism
 
-**55-60% Strong Alignment**
+***55-60% Strong Alignment***
 
 #### Areas of Agreement
 
@@ -2339,7 +2527,9 @@ charismatic evangelical churches 5. Some Vineyard churches
 - Perseverance (uncertain vs. clear position)
 - Eschatology (premillennial vs. amillennial)
 
-### Theological Influences Drawing from multiple streams:
+### Theological Influences Drawing from Multiple Streams
+
+Influences include:
 
 - #### Arminian Tradition
 
@@ -2368,9 +2558,12 @@ charismatic evangelical churches 5. Some Vineyard churches
 
   Molinism (William Lane Craig, Thomas Flint)
 
-### Distinctiveness This theological profile is **uncommon but internally
-coherent**, representing a thoughtful synthesis that:
-- Maintains Baptist convictions on baptism and church polarity
+### Distinctiveness
+
+This theological profile is ***uncommon but internally coherent***,
+representing a thoughtful synthesis that:
+
+- Maintains Baptist convictions on baptism and church polity
 - Embraces Arminian soteriology through Molinist framework
 - Incorporates charismatic pneumatology with biblical safeguards
 - Elevates means of grace beyond typical Baptist practice
@@ -2382,6 +2575,7 @@ coherent**, representing a thoughtful synthesis that:
 ## XVII. Practical Implications
 
 ### Worship and Church Life
+
 - Expects regular communion (weekly or more)
 - Open to prophetic words and tongues with testing
 - Values expository preaching and Scripture
@@ -2390,6 +2584,7 @@ coherent**, representing a thoughtful synthesis that:
 - Complementarian leadership structure
 
 ### Spiritual Formation
+
 - Disciplines of prayer, fasting, Scripture, fellowship
 - Progressive growth in holiness without perfectionism
 - Community accountability essential
@@ -2397,6 +2592,7 @@ coherent**, representing a thoughtful synthesis that:
 - Openness to Spirit's leading with discernment
 
 ### Ethical Framework
+
 - Biblical commands are authoritative
 - Conscience guided by Scripture and Spirit
 - Generous stewardship of resources
@@ -2404,6 +2600,7 @@ coherent**, representing a thoughtful synthesis that:
 - Social concern alongside personal holiness
 
 ### Intellectual Approach
+
 - High confidence on core Christian doctrines
 - Appropriate uncertainty on debated matters
 - Ongoing study where importance exceeds confidence
