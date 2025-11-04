@@ -1,52 +1,71 @@
 # Warwick Allen's Theological Profile
-## A Molinist Arminian Baptist Charismatic with High Sacramental Convictions
+
+***A Molinist Arminian Baptist Charismatic with High Sacramental Convictions***
 
 ---
 
-## Table of Contents
+### Table of Contents
 
-### Front Matter
-- [About This Document](#about-this-document)
-- [Executive Summary](#executive-summary)
+|     |                                                                                            |
+|-----|--------------------------------------------------------------------------------------------|
+|     | *Front Matter*                                                                             |
+|     |[Executive Summary                         ](#executive-summary                            )|
+|     |[About This Document                       ](#about-this-document                          )|
+|     |[Topics to Complete                        ](#topics-to-complete                           )|
+|     | *Doctrinal Sections*                                                                       |
+|I.   |[Theological Method and Authority          ](#i-theological-method-and-authority           )|
+|II.  |[Theology Proper (Doctrine of God)         ](#ii-theology-proper-doctrine-of-god           )|
+|III. |[Christology                               ](#iii-christology                              )|
+|IV.  |[Anthropology and Hamartiology             ](#iv-anthropology-and-hamartiology             )|
+|V.   |[Soteriology (Doctrine of Salvation)       ](#v-soteriology-doctrine-of-salvation          )|
+|VI.  |[Ecclesiology and Church Practice          ](#vi-ecclesiology-and-church-practice          )|
+|VII. |[Sacraments and Ordinances                 ](#vii-sacraments-and-ordinances                )|
+|VIII.|[Pneumatology (Doctrine of the Holy Spirit)](#viii-pneumatology-doctrine-of-the-holy-spirit)|
+|IX.  |[Means of Grace                            ](#ix-means-of-grace                            )|
+|X.   |[Christian Life and Ethics                 ](#x-christian-life-and-ethics                  )|
+|XI.  |[Eschatology (Last Things)                 ](#xi-eschatology-last-things                   )|
+|XII. |[Creation and Science                      ](#xii-creation-and-science                     )|
+|XIII.|[Other Doctrines                           ](#xiii-other-doctrines                         )|
+|XIV. |[Areas of Ongoing Study                    ](#xiv-areas-of-ongoing-study                   )|
+|XV.  |[Alignment with Historic Creeds            ](#xv-alignment-with-historic-creeds            )|
+|XVI. |[Theological Identity and Tradition        ](#xvi-theological-identity-and-tradition       )|
+|XVII.|[Practical Implications                    ](#xvii-practical-implications                  )|
+|     | *End Matter*                                                                               |
+|     |[Conclusion                                ](#conclusion                                   )|
 
-### Doctrinal Sections
-- [I.    Theological Method and Authority](
-         #i-theological-method-and-authority)
-- [II.   Theology Proper (Doctrine of God)](
-         #ii-theology-proper-doctrine-of-god)
-- [III.  Christology](
-         #iii-christology)
-- [IV.   Anthropology and Hamartiology](
-         #iv-anthropology-and-hamartiology)
-- [V.    Soteriology (Doctrine of Salvation)](
-         #v-soteriology-doctrine-of-salvation)
-- [VI.   Ecclesiology and Church Practice](
-         #vi-ecclesiology-and-church-practice)
-- [VII.  Sacraments and Ordinances](
-         #vii-sacraments-and-ordinances)
-- [VIII. Pneumatology (Doctrine of the Holy Spirit)](
-         #viii-pneumatology-doctrine-of-the-holy-spirit)
-- [IX.   Means of Grace](
-         #ix-means-of-grace)
-- [X.    Christian Life and Ethics](
-         #x-christian-life-and-ethics)
-- [XI.   Eschatology (Last Things)](
-         #xi-eschatology-last-things)
-- [XII.  Creation and Science](
-         #xii-creation-and-science)
-- [XIII. Other Doctrines](
-         #xiii-other-doctrines)
-- [XIV.  Areas of Ongoing Study](
-         #xiv-areas-of-ongoing-study)
-- [XV.   Alignment with Historic Creeds](
-         #xv-alignment-with-historic-creeds)
-- [XVI.  Theological Identity and Tradition](
-         #xvi-theological-identity-and-tradition)
-- [XVII. Practical Implications](
-         #xvii-practical-implications)
+---
 
-### Conclusion
-- [Conclusion](#conclusion)
+## Executive Summary
+
+This theological profile represents a thoughtful and internally coherent
+synthesis of beliefs drawn from multiple Christian traditions. The core
+commitments are:
+
+1. #### Molinist Arminian Soteriology
+
+   Emphasising libertarian free will, universal atonement, and prevenient grace.
+
+2. #### Baptist Ecclesiology and Sacramentology
+
+   Believers' baptism, regenerate church membership, but with unusually high
+   sacramental theology.
+
+3. #### Charismatic Pneumatology
+
+   Normative continuationism with careful biblical testing.
+
+4. #### Progressive Sanctification
+
+   Rejecting entire sanctification as attainable in this life in favour of
+asymptotic growth towards holiness.
+
+5. #### Reformed Baptist Anthropology
+
+   Corrupted nature without inherited guilt before accountability.
+
+This combination places the holder within the **Free Will Baptist** theological
+stream, with significant charismatic convictions and philosophical
+sophistication through Molinism.
 
 ---
 
@@ -126,7 +145,7 @@ Fellowship](https://docs.google.com/spreadsheets/d/e/2PACX-1vQBiyT66UU2fBsoeNISX
 If you require more detail on how Allen handles a specific doctrine, you might
 find an answer there.
 
-### Topics to Complete
+## Topics to Complete
 
 The following topics need to be added or expanded for this document to be
 considered complete:
@@ -213,40 +232,6 @@ considered complete:
     - Freedom of conscience.
     - Religious pluralism.
     - The limits of Christian liberty.
-
----
-
-## Executive Summary
-
-This theological profile represents a thoughtful and internally coherent
-synthesis of beliefs drawn from multiple Christian traditions. The core
-commitments are:
-
-1. #### Molinist Arminian Soteriology
-
-   Emphasising libertarian free will, universal atonement, and prevenient grace.
-
-2. #### Baptist Ecclesiology and Sacramentology
-
-   Believers' baptism, regenerate church membership, but with unusually high
-   sacramental theology.
-
-3. #### Charismatic Pneumatology
-
-   Normative continuationism with careful biblical testing.
-
-4. #### Progressive Sanctification
-
-   Rejecting entire sanctification as attainable in this life in favour of
-asymptotic growth towards holiness.
-
-5. #### Reformed Baptist Anthropology
-
-   Corrupted nature without inherited guilt before accountability.
-
-This combination places the holder within the **Free Will Baptist** theological
-stream, with significant charismatic convictions and philosophical
-sophistication through Molinism.
 
 ---
 
