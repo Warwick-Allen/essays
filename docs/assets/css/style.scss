@@ -106,13 +106,20 @@ a:hover {
 }
 
 /* Table of contents styling */
-#table-of-contents + ul {
-  background-color: #161b22;
-  border: 1px solid #30363d;
-  border-radius: 5px;
-  padding: 1.5em;
-  margin-bottom: 2em;
+table.table-of-contents td {
+  border: 0;
+  padding: 0.2ex 0.2em;
 }
+table.table-of-contents td:first-child {
+  padding-left: 0.5em;
+}
+table.table-of-contents td:last-child {
+  padding-right: 0.5em;
+}
+table.table-of-contents tr:hover {
+  background-color: #161b22;
+}
+
 
 /* Horizontal rule styling */
 hr {
@@ -353,4 +360,3 @@ td {
     font-size: 1.5em;
   }
 }
-
