@@ -250,7 +250,23 @@ HERE
     die "Error: Block file does not exist or is not readable: $_\n";
   }
   open BLK, $_ or die "Cannot open $_: $!";
-  while (<BLK>) {print}  # Print all lines from the block file
+
+  # Process each line to append language suffix to all IDs and internal links
+  while (<BLK>) {
+    # Append language suffix to ALL id attributes
+    # Match: id="X" or id='X' where X is any identifier
+    # Replace with: id="X-lang" or id='X-lang'
+    # This ensures no duplicate IDs exist between Greek and Hebrew sections
+    s/(id=["'])([^"']+)(["'])/$1$2-$lang$3/g;
+
+    # Append language suffix to ALL internal links (href attributes pointing to anchors)
+    # Match: href='#X' or href="#X" where X is any identifier
+    # Replace with: href='#X-lang' or href="#X-lang"
+    # This ensures links point to the correct language-specific IDs
+    s/(href=["']#)([^"']+)(["'])/$1$2-$lang$3/g;
+
+    print;  # Print the processed line
+  }
   close BLK;
 
   # Print the closing section tag
@@ -278,6 +294,9 @@ open IN, $_ or die "Cannot open $_: $!";
 # This includes: <!DOCTYPE>, <html>, <head>, <style>, etc.
 # Stop when we encounter the opening <div class="block"> tag
 while (<IN>) {
+  # Update CSS selectors for bibliography to target both language versions
+  # Replace #bibliography with #bibliography-greek, #bibliography-hebrew
+  s/#bibliography(?!-greek|-hebrew)/#bibliography-greek, #bibliography-hebrew/g;
   print;  # Print each line as we read it
   /<div class="block">/ and last;  # Stop reading when we hit the content div
 }
