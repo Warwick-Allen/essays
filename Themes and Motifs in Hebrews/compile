@@ -1,20 +1,20 @@
 #!/usr/bin/bash -x
 
 t=themes_and_motifs_in_hebrews
-#for language in greek hebrew
-#do
-#  x=$t.$language
-#  <$t.tex perl -pe "
-#    s/(?<=\\\\usehebrew)\\w*/'$language' eq 'hebrew' ? 'true' : 'false'/e
-#  " >$x.tex
-#  xelatex $x.tex
-#  biber $x
-#  xelatex $x.tex
-#  xelatex $x.tex
-#  ./tex2html.pl $x.tex
-#  awk '
-#    /class="block"/ {class += 1; next}
-#    /\S/ && class == 1 {print}
-#  ' $x.html >$x.block.html
-#done
+for language in greek hebrew
+do
+  x=$t.$language
+  <$t.tex perl -pe "
+    s/(?<=\\\\usehebrew)\\w*/'$language' eq 'hebrew' ? 'true' : 'false'/e
+  " >$x.tex
+  xelatex $x.tex
+  biber $x
+  xelatex $x.tex
+  xelatex $x.tex
+  ./tex2html.pl $x.tex
+  awk '
+    /class="block"/ {class += 1; next}
+    /\S/ && class == 1 {print}
+  ' $x.html >$x.block.html
+done
 ./combine_greek_hebrew_html.pl $t
