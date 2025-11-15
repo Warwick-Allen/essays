@@ -21,6 +21,9 @@ use strict;
 use warnings;
 use File::Spec;
 
+# Hash to store formatted footnote text for each citation key
+our %footnote_text;
+
 # ============================================================================
 # VALIDATION FUNCTIONS
 # ============================================================================
@@ -252,7 +255,30 @@ HERE
   open BLK, $_ or die "Cannot open $_: $!";
 
   # Process each line to append language suffix to all IDs and internal links
+  # Also update citation link titles with formatted footnote text
   while (<BLK>) {
+    # First, update citation link titles with formatted footnote text
+    # This must happen before we modify the href attribute
+    # Match: <a href='#X' title='X'> or <a href="#X" title="X">
+    # Extract the citation key (X) and replace title with formatted footnote
+    # Handle multiple citations on the same line
+    s{(<a\s+href=['"]#)([A-Za-z0-9]+)(['"]\s+title=['"])([^'"]+)(['"])}{
+      my $href_prefix = $1;
+      my $key = $2;
+      my $title_prefix = $3;
+      my $old_title = $4;
+      my $title_suffix = $5;
+      # Get formatted footnote text
+      my $footnote = $footnote_text{$key} || $old_title;
+      # Escape HTML entities in footnote text for title attribute
+      $footnote =~ s/&/&amp;/g;
+      $footnote =~ s/</&lt;/g;
+      $footnote =~ s/>/&gt;/g;
+      $footnote =~ s/"/&quot;/g;
+      $footnote =~ s/'/&#39;/g;
+      $href_prefix . $key . $title_prefix . $footnote . $title_suffix;
+    }ge;
+
     # Append language suffix to ALL id attributes
     # Match: id="X" or id='X' where X is any identifier
     # Replace with: id="X-lang" or id='X-lang'
@@ -301,6 +327,9 @@ while (<IN>) {
   /<div class="block">/ and last;  # Stop reading when we hit the content div
 }
 
+# Initialize footnote text from bibliography and LaTeX source
+initialize_footnotes();
+
 # Insert the toggle button for switching between Greek and Hebrew versions
 print <<HERE;
   <button id="btn_chgName">Use Greek-based names</button>
@@ -336,6 +365,115 @@ print <<HERE;
     });
   </script>
 HERE
+
+# ============================================================================
+# FOOTNOTE TEXT EXTRACTION AND FORMATTING
+# ============================================================================
+
+# Extract footnotes from PDF using pdftotext
+sub extract_footnotes_from_pdf {
+  my ($pdf_file) = @_;
+  my %footnotes;
+  
+  unless (-e $pdf_file && -r $pdf_file) {
+    warn "Warning: Cannot read PDF file: $pdf_file\n";
+    return %footnotes;
+  }
+  
+  # Use pdftotext to extract text from PDF
+  my $txt_file = $pdf_file;
+  $txt_file =~ s/\.pdf$/.txt/;
+  
+  # Run pdftotext
+  system("pdftotext -layout '$pdf_file' '$txt_file' 2>/dev/null");
+  
+  unless (-e $txt_file && -r $txt_file) {
+    warn "Warning: Failed to extract text from PDF: $pdf_file\n";
+    return %footnotes;
+  }
+  
+  # Read the extracted text
+  open my $fh, '<', $txt_file or do {
+    warn "Warning: Cannot open extracted text file: $txt_file\n";
+    return %footnotes;
+  };
+  local $/ = undef;
+  my $text = <$fh>;
+  close $fh;
+  
+  # Extract footnotes - they appear at the bottom of pages
+  # Pattern: spaces + number. text (may span multiple lines)
+  # Match: "  1. John Calvin, ..." where text continues until next footnote or section
+  # Use a more greedy match to capture multi-line footnotes
+  while ($text =~ /^\s+(\d+)\.\s+((?:[^\n]|\n(?!\s+\d+\.\s+))+(?=\n\s+\d+\.\s+|\n[A-Z]|\nBibliography|$))/gms) {
+    my $num = $1;
+    my $footnote = $2;
+    # Clean up the footnote text
+    $footnote =~ s/\n/ /g;  # Replace newlines with spaces
+    $footnote =~ s/\s+/ /g;  # Normalize whitespace
+    $footnote =~ s/^\s+|\s+$//g;  # Trim
+    if (length($footnote) > 10) {  # Only store substantial footnotes
+      $footnotes{$num} = $footnote;
+    }
+  }
+  
+  # Clean up temporary text file
+  unlink $txt_file if -e $txt_file;
+  
+  return %footnotes;
+}
+
+# Parse HTML block file to map footnote numbers to citation keys
+sub map_footnote_numbers_to_keys {
+  my ($html_file) = @_;
+  my %footnote_map;  # Maps footnote number to citation key
+  
+  unless (-e $html_file && -r $html_file) {
+    warn "Warning: Cannot read HTML file: $html_file\n";
+    return %footnote_map;
+  }
+  
+  open my $fh, '<', $html_file or do {
+    warn "Warning: Cannot open HTML file: $html_file\n";
+    return %footnote_map;
+  };
+  
+  while (my $line = <$fh>) {
+    # Match: <a href='#CitationKey' ...><sup class='textsuperscript'>N</sup></a>
+    while ($line =~ /<a\s+href=['"]#([A-Za-z0-9]+)['"].*?<sup\s+class=['"]textsuperscript['"]>(\d+)<\/sup><\/a>/g) {
+      my $key = $1;
+      my $num = $2;
+      # Store the lowest footnote number for each key (first occurrence is usually most complete)
+      if (!exists $footnote_map{$key} || $num < $footnote_map{$key}) {
+        $footnote_map{$key} = $num;
+      }
+    }
+  }
+  
+  close $fh;
+  return %footnote_map;
+}
+
+# Initialize footnote text hash from PDF
+sub initialize_footnotes {
+  our $t;
+  my $pdf_file = "$t.greek.pdf";
+  my $html_file = "$t.greek.block.html";
+  
+  # Extract footnotes from PDF
+  my %pdf_footnotes = extract_footnotes_from_pdf($pdf_file);
+  
+  # Map footnote numbers to citation keys from HTML
+  my %footnote_map = map_footnote_numbers_to_keys($html_file);
+  
+  # Combine: map citation keys to footnote text
+  foreach my $key (keys %footnote_map) {
+    my $num = $footnote_map{$key};
+    if (exists $pdf_footnotes{$num}) {
+      $footnote_text{$key} = $pdf_footnotes{$num};
+    }
+  }
+}
 
 # ============================================================================
 # BIBLIOGRAPHY LOOKUP TABLE
@@ -439,3 +577,4 @@ while (defined(my $line = <IN>)) {
 close IN;
 
 # The output file handle OUT will be automatically closed when the script exits
+
