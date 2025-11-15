@@ -29,13 +29,13 @@ my $current_entry = [];
 
 foreach my $line (@lines) {
     chomp $line;
-    
+
     # Check if this is a new entry (starts with "- -")
     if ($line =~ /^- - (.+)$/) {
-        # Save previous entry if it exists (with at least 3 fields: source, access, url)
-        if (@$current_entry >= 3) {
+        # Save previous entry if it exists (with at least 2 fields: source, url)
+        if (@$current_entry >= 2) {
             # Pad with empty notes if missing
-            push @$current_entry, '' if @$current_entry == 3;
+            push @$current_entry, '' if @$current_entry == 2;
             push @entries, $current_entry;
         }
         # Start new entry
@@ -48,7 +48,7 @@ foreach my $line (@lines) {
 }
 
 # Don't forget the last entry
-if (@$current_entry >= 3) {
+if (@$current_entry >= 2) {
     # Pad with empty notes if missing
     push @$current_entry, '' if @$current_entry == 3;
     push @entries, $current_entry;
@@ -61,27 +61,27 @@ print $out_fh "<h3>Bibliography Look-Up Table</h3>\n";
 print $out_fh "<table border=\"1\" class=\"dataframe\">\n";
 print $out_fh "  <thead>\n";
 print $out_fh "    <tr>\n";
-print $out_fh "      <th>Source</th>\n";
-print $out_fh "      <th>Access Type</th>\n";
-print $out_fh "      <th>Platform/Link</th>\n";
-print $out_fh "      <th>Notes</th>\n";
+print $out_fh "      <th style=\"width:33.33%\">Source</th>\n";
+print $out_fh "      <th style=\"width:33.33%\">Link</th>\n";
+print $out_fh "      <th style=\"width:33.33%\">Notes</th>\n";
 print $out_fh "    </tr>\n";
 print $out_fh "  </thead>\n";
 print $out_fh "  <tbody style=\"text-align:left; font-size:80%\">\n";
 
 foreach my $entry (@entries) {
-    my ($source, $access_type, $url, $notes) = @$entry;
-    
+    my ($source, $url, $notes) = @$entry;
+
     # Escape only dangerous HTML characters
     $source = escape_html($source);
-    $access_type = escape_html($access_type);
     $url = escape_html($url);
+    my $link_name = $url;
+    $link_name =~ s,^\w+:/*,,;
+    $link_name =~ s/%(\d+)/chr hex $1/eg;
     $notes = escape_html($notes);
-    
+
     print $out_fh "    <tr>\n";
     print $out_fh "      <td>$source</td>\n";
-    print $out_fh "      <td>$access_type</td>\n";
-    print $out_fh "      <td>$url</td>\n";
+    print $out_fh "      <td><a href=\"$url\">$link_name</a></td>\n";
     print $out_fh "      <td>$notes</td>\n";
     print $out_fh "    </tr>\n";
 }
@@ -93,4 +93,3 @@ close($out_fh);
 
 print "Successfully converted $input_file to $output_file\n";
 print "Processed " . scalar(@entries) . " entries\n";
-
