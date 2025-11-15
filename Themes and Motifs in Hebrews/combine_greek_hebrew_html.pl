@@ -11,7 +11,8 @@
 #   * <base_name>.greek.html (main input file)
 #   * <base_name>.greek.block.html (Greek block content)
 #   * <base_name>.hebrew.block.html (Hebrew block content)
-#   * bibliography-lookup-table.html (bibliography lookup table)
+#   * bibliography-lookup-table.yaml (bibliography lookup table YAML source)
+#   * bibliography-lookup-table-yaml-to-html.pl (conversion script)
 # - Validates that input file contains required HTML markers
 # - Validates that output directory is writable
 # - Exits with error messages if validation fails
@@ -112,14 +113,18 @@ sub validate_input_content {
   close $fh;
 
   unless ($found_opening) {
-    print STDERR "Error: Input file does not contain required opening tag: <div class=\"block\">\n";
-    print STDERR "  File: $file\n";
+    local ($\, $,) = ("\n", "  ");
+    print STDERR 'Error: Input file does not contain required opening tag:',
+      '<div class="block">';
+    print STDERR '  File:', $file;
     return 0;
   }
 
   unless ($found_closing) {
-    print STDERR "Error: Input file does not contain required closing comment: <!-- class=\"block\" -->\n";
-    print STDERR "  File: $file\n";
+    local ($\, $,) = ("\n", "  ");
+    print STDERR 'Error: Input file does not contain required closing comment:',
+      '<!-- class="block" -->';
+    print STDERR '  File:', $file;
     return 0;
   }
 
@@ -140,13 +145,15 @@ sub validate_base_filename {
 
   # Check for invalid characters in filename
   if ($filename =~ /[<>:"|?*\x00-\x1f]/) {
-    print STDERR "Error: Base filename contains invalid characters: $filename\n";
+    print STDERR "Error: Base filename contains invalid characters: ",
+      "$filename\n";
     return 0;
   }
 
   # Check for path separators (should be just a base name, not a path)
   if ($filename =~ /[\/\\]/) {
-    print STDERR "Error: Base filename should not contain path separators: $filename\n";
+    print STDERR "Error: Base filename should not contain path separators: ",
+      "$filename\n";
     return 0;
   }
 
@@ -169,7 +176,8 @@ unless (validate_base_filename($t)) {
 my $greek_html = "$t.greek.html";
 my $greek_block = "$t.greek.block.html";
 my $hebrew_block = "$t.hebrew.block.html";
-my $lookup_table = 'bibliography-lookup-table.html';
+my $lookup_table_yaml = 'bibliography-lookup-table.yaml';
+my $lookup_table_script = 'bibliography-lookup-table-yaml-to-html.pl';
 my $output_file = "$t.html";
 
 # Validate all required input files
@@ -187,7 +195,11 @@ unless (validate_file($hebrew_block, "Hebrew block")) {
   $validation_failed = 1;
 }
 
-unless (validate_file($lookup_table, "Bibliography lookup table")) {
+unless (validate_file($lookup_table_yaml, "Bibliography lookup table YAML")) {
+  $validation_failed = 1;
+}
+
+unless (validate_file($lookup_table_script, "Bibliography lookup table conversion script")) {
   $validation_failed = 1;
 }
 
@@ -310,9 +322,11 @@ HERE
 # BIBLIOGRAPHY LOOKUP TABLE
 # ============================================================================
 
-# Read and insert the bibliography lookup table HTML file
+# Generate the bibliography lookup table HTML from YAML source
+# The YAML file and conversion script have already been validated
 # This table provides links and access information for bibliography sources
-# Note: File existence has already been validated, but check again for safety
+system qq{perl bibliography-lookup-table-yaml-to-html.pl} and
+  die "Error: Failed to generate bibliography lookup table HTML: $!";
 {
   my $lookup_file = 'bibliography-lookup-table.html';
 
