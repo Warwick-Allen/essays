@@ -74,7 +74,7 @@ my $style = <<HERE;
  .block {
   margin-left: auto;
   margin-right: auto;
-  width: 40em;
+  max-width: 40em;
   text-align: justify;
   line-height: 3.5ex;
  }
@@ -91,7 +91,7 @@ my $style = <<HERE;
   font-size: 3ex;
  }
  .abstract {
-  width: 36em;
+  max-width: 36em;
   margin-left: auto;
   margin-right: auto;
  }
