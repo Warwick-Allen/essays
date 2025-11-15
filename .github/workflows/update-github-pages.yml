@@ -5,7 +5,8 @@ on:
     branches:
       - main
     paths:
-      - 'Theological Profile/warwick_allen_theological_profile.md'
+      - 'Theological Profile/**'
+      - 'Themes and Motifs in Hebrews/**'
       - 'docs/**'
       - '.github/workflows/update-github-pages.yml'
 
@@ -15,48 +16,84 @@ permissions:
   contents: write
 
 jobs:
-  update-pages:
+  update-theological-profile:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-      
+          fetch-depth: 2
+
+      - name: Check for changes in Theological Profile
+        id: check_theological
+        run: |
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          elif git diff --name-only HEAD~1 HEAD | grep -q "^Theological Profile/"; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
       - name: Copy theological profile to docs
+        if: steps.check_theological.outputs.changed == 'true'
         run: |
           # Create the theological-profile directory if it doesn't exist
           mkdir -p docs/theological-profile
-          
-          # Copy to main index
-          cp "Theological Profile/warwick_allen_theological_profile.md" docs/index.md
-          
+
           # Copy to theological-profile endpoint
           cp "Theological Profile/warwick_allen_theological_profile.md" docs/theological-profile/index.md
-          
-          # Add GitHub link to both files
-          echo "" >> docs/index.md
-          echo "---" >> docs/index.md
-          echo "" >> docs/index.md
-          echo '<a href="https://github.com/Warwick-Allen/essays" class="github-link">View Source on GitHub</a>' >> docs/index.md
-          
+
+          # Add GitHub link
           echo "" >> docs/theological-profile/index.md
           echo "---" >> docs/theological-profile/index.md
           echo "" >> docs/theological-profile/index.md
           echo '<a href="https://github.com/Warwick-Allen/essays" class="github-link">View Source on GitHub</a>' >> docs/theological-profile/index.md
-      
-      - name: Check for changes
-        id: check_changes
-        run: |
-          git diff --quiet docs/index.md docs/theological-profile/index.md || echo "changed=true" >> $GITHUB_OUTPUT
-      
-      - name: Commit and push if changed
-        if: steps.check_changes.outputs.changed == 'true'
+
+      - name: Commit and push theological profile changes
+        if: steps.check_theological.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/index.md docs/theological-profile/index.md
-          git commit -m "Auto-update GitHub Pages from theological profile"
-          git push
+          git add docs/theological-profile/index.md
+          git commit -m "Auto-update theological profile on GitHub Pages" || exit 0
+          git push || exit 0
+
+  update-hebrews-essay:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 2
+
+      - name: Check for changes in Themes and Motifs in Hebrews
+        id: check_hebrews
+        run: |
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          elif git diff --name-only HEAD~1 HEAD | grep -q "^Themes and Motifs in Hebrews/"; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Copy Hebrews essay HTML to docs
+        if: steps.check_hebrews.outputs.changed == 'true'
+        run: |
+          # Copy the HTML file to docs
+          cp "Themes and Motifs in Hebrews/themes_and_motifs_in_hebrews.html" docs/themes-and-motifs-in-hebrews.html
+
+      - name: Commit and push Hebrews essay changes
+        if: steps.check_hebrews.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/themes-and-motifs-in-hebrews.html
+          git commit -m "Auto-update Themes and Motifs in Hebrews essay on GitHub Pages" || exit 0
+          git push || exit 0
 
