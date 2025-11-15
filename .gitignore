@@ -19,6 +19,8 @@
 *-converted-to.*
 # these rules might exclude image files for figures etc.
 *.html
+# Exception: track the compiled HTML file for the Hebrews essay
+!Themes and Motifs in Hebrews/themes_and_motifs_in_hebrews.html
 *.css
 # *.ps
 # *.eps

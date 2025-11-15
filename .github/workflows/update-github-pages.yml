@@ -87,7 +87,7 @@ jobs:
         run: |
           # Copy the HTML file to docs
           cp "Themes and Motifs in Hebrews/themes_and_motifs_in_hebrews.html" docs/themes-and-motifs-in-hebrews.html
-
+      
       - name: Commit and push Hebrews essay changes
         if: steps.check_hebrews.outputs.changed == 'true'
         run: |
