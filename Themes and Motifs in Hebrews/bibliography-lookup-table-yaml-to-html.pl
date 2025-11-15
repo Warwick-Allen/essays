@@ -57,16 +57,17 @@ if (@$current_entry >= 2) {
 # Generate HTML
 open(my $out_fh, '>:utf8', $output_file) or die "Cannot open $output_file for writing: $!\n";
 
-print $out_fh "<h3>Bibliography Look-Up Table</h3>\n";
-print $out_fh "<table border=\"1\" class=\"dataframe\">\n";
-print $out_fh "  <thead>\n";
-print $out_fh "    <tr>\n";
-print $out_fh "      <th style=\"width:33.33%\">Source</th>\n";
-print $out_fh "      <th style=\"width:33.33%\">Link</th>\n";
-print $out_fh "      <th style=\"width:33.33%\">Notes</th>\n";
-print $out_fh "    </tr>\n";
-print $out_fh "  </thead>\n";
-print $out_fh "  <tbody style=\"text-align:left; font-size:80%\">\n";
+print $out_fh <<HTML;
+<h3>Bibliography Links</h3>
+<table border="1" class="dataframe">
+  <thead>
+    <tr>
+      <th>Source</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody style="text-align:left; font-size:80%">
+HTML
 
 foreach my $entry (@entries) {
     my ($source, $url, $notes) = @$entry;
@@ -74,20 +75,20 @@ foreach my $entry (@entries) {
     # Escape only dangerous HTML characters
     $source = escape_html($source);
     $url = escape_html($url);
-    my $link_name = $url;
-    $link_name =~ s,^\w+:/*,,;
-    $link_name =~ s/%(\d+)/chr hex $1/eg;
     $notes = escape_html($notes);
 
-    print $out_fh "    <tr>\n";
-    print $out_fh "      <td>$source</td>\n";
-    print $out_fh "      <td><a href=\"$url\">$link_name</a></td>\n";
-    print $out_fh "      <td>$notes</td>\n";
-    print $out_fh "    </tr>\n";
+    print $out_fh <<HTML;
+    <tr>
+      <td><a href="$url" target="_blank">$source</a></td>
+      <td>$notes</td>
+    </tr>
+HTML
 }
 
-print $out_fh "  </tbody>\n";
-print $out_fh "</table>\n";
+print $out_fh <<HTML;
+  </tbody>
+</table>
+HTML
 
 close($out_fh);
 
