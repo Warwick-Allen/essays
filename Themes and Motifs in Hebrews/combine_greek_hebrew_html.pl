@@ -289,11 +289,11 @@ HERE
 
 # Insert the Greek version block (initially hidden)
 # The PDF link is for the Greek version
-printBlock 'greek' , 'none' , 'd2oEzaYR#6DuUJBkujzIgZfxwGTUv5R7_km_sE4cx9eEHpybv1v0';
+printBlock 'greek' , 'none' , '9qAVwAKL#GGiosqyC0WU0C4rLFtHtQlHk1rLuPEq2UmSiB7JUY_w';
 
 # Insert the Hebrew version block (initially visible)
 # The PDF link is for the Hebrew version
-printBlock 'hebrew', 'block', 'RrgzESRR#nsaPWvddLt3aJCvP3Y2hWTjXLTigFZuNywfTF1O_qwU';
+printBlock 'hebrew', 'block', 'F7oRlYKa#3WjuxyjfhlQMrRqPhAH_oGcvfLLFXAXgKhmp7tRvgeg';
 
 # Insert JavaScript to handle the toggle button functionality
 # When clicked, it switches the display style of the Greek and Hebrew sections
