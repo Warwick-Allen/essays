@@ -1,0 +1,123 @@
+---
+layout: null
+title: Warwick Allen's Essays
+---
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 2rem;
+      background-color: #1a1a1a;
+      color: #e0e0e0;
+    }
+    .container {
+      background: #2d2d2d;
+      padding: 3rem;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+    }
+    h1 {
+      color: #ffffff;
+      border-bottom: 3px solid #4CAF50;
+      padding-bottom: 1rem;
+      margin-bottom: 2rem;
+    }
+    .essay-list {
+      list-style: none;
+      padding: 0;
+    }
+    .essay-item {
+      margin: 2rem 0;
+      padding: 1.5rem;
+      background: #3a3a3a;
+      border-left: 4px solid #4CAF50;
+      border-radius: 4px;
+      transition: transform 0.2s, box-shadow 0.2s, background 0.2s;
+    }
+    .essay-item:hover {
+      transform: translateX(5px);
+      box-shadow: 0 6px 16px rgba(76, 175, 80, 0.3);
+      background: #424242;
+    }
+    .essay-title {
+      font-size: 1.5rem;
+      margin: 0 0 0.5rem 0;
+      color: #ffffff;
+    }
+    .essay-link {
+      color: #66bb6a;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .essay-link:hover {
+      color: #4CAF50;
+      text-decoration: underline;
+    }
+    .essay-description {
+      color: #b0b0b0;
+      margin-top: 0.5rem;
+    }
+    footer {
+      margin-top: 3rem;
+      padding-top: 2rem;
+      border-top: 1px solid #444;
+      text-align: center;
+      color: #888;
+      font-size: 0.9rem;
+    }
+    .github-link {
+      color: #66bb6a;
+      text-decoration: none;
+    }
+    .github-link:hover {
+      color: #4CAF50;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Warwick Allen's Essays</h1>
+    
+    <ul class="essay-list">
+      <li class="essay-item">
+        <h2 class="essay-title">
+          <a href="{{ '/theological-profile/' | relative_url }}" class="essay-link">
+            Theological Profile
+          </a>
+        </h2>
+        <p class="essay-description">
+          A comprehensive theological profile presenting a Molinist Arminian Baptist Charismatic perspective with high sacramental convictions. This document provides a systematic overview of theological convictions organised by major doctrinal categories.
+        </p>
+      </li>
+      
+      <li class="essay-item">
+        <h2 class="essay-title">
+          <a href="{{ '/themes-and-motifs-in-hebrews.html' | relative_url }}" class="essay-link">
+            The Dominant Themes and Intersecting Motifs in the Book of Hebrews
+          </a>
+        </h2>
+        <p class="essay-description">
+          An exploration of the six dominant themes in Hebrews—Christ's supremacy, the new covenant, Christ's priesthood, faith and perseverance, the call to holiness and worship, and the warning against rejecting Christ's sufficient atonement—unified by four interwoven motifs: rest, covenant fulfilment, access to God's presence, and perfection.
+        </p>
+      </li>
+    </ul>
+    
+    <footer>
+      <p>
+        <a href="https://github.com/Warwick-Allen/essays" class="github-link">View Source on GitHub</a>
+      </p>
+    </footer>
+  </div>
+</body>
+</html>
+
