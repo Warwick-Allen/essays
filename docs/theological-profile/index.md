@@ -2655,6 +2655,7 @@ allows for diverse understandings.
 theology continues to develop through study, experience, and the Spirit's
 illumination of Scripture.*
 
+
 ---
 
 <a href="https://github.com/Warwick-Allen/essays" class="github-link">View Source on GitHub</a>
