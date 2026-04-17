@@ -324,10 +324,12 @@ ongoing study and theological development.
 
 This document is partly based on a table outline Allen's commitment to various
 doctrines. This table is available for viewing in the Google Sheets document
-[Personal Statements of Faith for Waiheke
-Fellowship](https://docs.google.com/spreadsheets/d/e/2PACX-1vQBiyT66UU2fBsoeNISXCSm3z0lVILNau5el5UomFN4qEB0zIyLrRgXB-CdFZhFkMeI3blx0VqJd3Nd/pubhtml#gid=0).
+[Personal Statements of Faith for Waiheke Fellowship].
 If you require more detail on how Allen handles a specific doctrine, you might
 find an answer there.
+
+[Personal Statements of Faith for Waiheke Fellowship]:
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQBiyT66UU2fBsoeNISXCSm3z0lVILNau5el5UomFN4qEB0zIyLrRgXB-CdFZhFkMeI3blx0VqJd3Nd/pubhtml#gid=0
 
 ## Topics to Complete
 
@@ -336,10 +338,10 @@ considered complete:
 
 1.  #### Bibliology
 
-    Missing:
-
-    - Explicit treatment of the doctrine of confluence or superintendence in the
-      writing of the Scriptures.
+    Addressed in Section I: The authority, divine origin, inerrancy,
+    infallibility, and confluence of Scripture. These treatments are relatively
+    brief and could be expanded into a dedicated, standalone Bibliology section
+    at a later stage.
 
 2.  #### Angelology
 
@@ -990,6 +992,22 @@ considered complete:
   A writing is canonical Scripture if, and only if, it was
   breathed out by God (2 Timothy 3:16).
 
+- #### Inerrancy
+
+  Scripture, being breathed out by God, is without error in the original
+  manuscripts in all that it affirms.
+
+- #### Infallibility
+
+  Scripture is wholly trustworthy and reliable as a guide to salvation, faith,
+  and godliness&mdash;it will not fail in its intended purpose
+  (2 Timothy 3:15–17).
+
+- #### Confluence
+
+  The divine and human authors cooperated in the writing of Scripture,
+  such that the words are genuinely both God's and the human authors'.
+
 - ##### Church Recognition
 
   The Church recognised books that already possessed divine
@@ -1009,7 +1027,13 @@ considered complete:
 
 - ##### Confidence Level
 
-  High (5).
+  Very strong (5), except for the mechanism of inspiration (the doctrine of
+  confluence), which is held lightly (2).
+
+- #### Importance Rating
+
+  High importance (4), except for the mechanism of inspiration,
+  which is of low importance (2).
 
 ### Closure of the Canon
 
