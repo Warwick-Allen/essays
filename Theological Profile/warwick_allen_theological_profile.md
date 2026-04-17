@@ -2588,7 +2588,7 @@ This theological profile is ***uncommon but internally coherent***,
 representing a thoughtful synthesis that:
 
 - Maintains Baptist convictions on baptism and church polity
-- Embraces Arminian soteriology through Molinist framework
+- Embraces Arminian soteriology through a Molinist framework
 - Incorporates charismatic pneumatology with biblical safeguards
 - Elevates means of grace beyond typical Baptist practice
 - Distinguishes between corruption and guilt in anthropology
