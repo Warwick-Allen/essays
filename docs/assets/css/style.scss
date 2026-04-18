@@ -105,6 +105,52 @@ a:hover {
   color: #79c0ff;
 }
 
+/* Breadcrumbs (_layouts/default.html + _includes/breadcrumbs.html) */
+.breadcrumb-nav {
+  margin: 0 0 1.25rem 0;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid #30363d;
+}
+
+.breadcrumb-list {
+  list-style: none !important;
+  padding-left: 0 !important;
+  margin: 0 !important;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  font-size: 0.92rem;
+  color: #8b949e;
+}
+
+.breadcrumb-item {
+  margin-bottom: 0 !important;
+  display: inline-flex;
+  align-items: center;
+}
+
+.breadcrumb-item:not(.breadcrumb-current) a {
+  color: #58a6ff;
+}
+
+.breadcrumb-item:not(.breadcrumb-current) a:hover {
+  color: #79c0ff;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+  content: "/";
+  display: inline-block;
+  margin: 0 0.5rem;
+  color: #484f58;
+  text-decoration: none;
+  pointer-events: none;
+}
+
+.breadcrumb-current {
+  color: #c9d1d9 !important;
+  font-weight: 500;
+}
+
 /* Table of contents styling */
 table.table-of-contents td {
   border: 0;
