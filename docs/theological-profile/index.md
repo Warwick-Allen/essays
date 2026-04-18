@@ -328,8 +328,7 @@ doctrines. This table is available for viewing in the Google Sheets document
 If you require more detail on how Allen handles a specific doctrine, you might
 find an answer there.
 
-[Personal Statements of Faith for Waiheke Fellowship]:
-https://docs.google.com/spreadsheets/d/e/2PACX-1vQBiyT66UU2fBsoeNISXCSm3z0lVILNau5el5UomFN4qEB0zIyLrRgXB-CdFZhFkMeI3blx0VqJd3Nd/pubhtml#gid=0
+[Personal Statements of Faith for Waiheke Fellowship]: https://docs.google.com/spreadsheets/d/e/2PACX-1vQBiyT66UU2fBsoeNISXCSm3z0lVILNau5el5UomFN4qEB0zIyLrRgXB-CdFZhFkMeI3blx0VqJd3Nd/pubhtml#gid=0
 
 ## Topics to Complete
 
