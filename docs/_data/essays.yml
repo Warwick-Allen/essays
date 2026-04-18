@@ -17,6 +17,17 @@
   source: "Theological Profile/warwick_allen_theological_profile.md"
   type: "markdown"
 
+- title: "The Dominant Themes and Intersecting Motifs in the Book of Hebrews"
+  description: >-
+    An exploration of the six dominant themes in Hebrews—Christ's supremacy, the
+    new covenant, Christ's priesthood, faith and perseverance, the call to
+    holiness and worship, and the warning against rejecting Christ's sufficient
+    atonement—unified by four interwoven motifs: rest, covenant fulfilment,
+    access to God's presence, and perfection.
+  slug: "themes-and-motifs-in-hebrews"
+  source: "Themes and Motifs in Hebrews/themes_and_motifs_in_hebrews.html"
+  type: "html"
+
 - title: "The Sunday Obligation and Eternal Consequences"
   description: >-
     A Catholic–Protestant exchange on the spiritual weight of the Sunday
@@ -34,13 +45,22 @@
   source: "The Sunday Obligation and Eternal Consequences/The Sunday Obligation and Eternal Consequences: A Further Protestant Response to the Catholic Reply.md"
   type: "markdown"
 
-- title: "The Dominant Themes and Intersecting Motifs in the Book of Hebrews"
+- title: "The Sunday Obligation and Eternal Consequences"
   description: >-
-    An exploration of the six dominant themes in Hebrews—Christ's supremacy, the
-    new covenant, Christ's priesthood, faith and perseverance, the call to
-    holiness and worship, and the warning against rejecting Christ's sufficient
-    atonement—unified by four interwoven motifs: rest, covenant fulfilment,
-    access to God's presence, and perfection.
-  slug: "themes-and-motifs-in-hebrews"
-  source: "Themes and Motifs in Hebrews/themes_and_motifs_in_hebrews.html"
-  type: "html"
+    A Catholic–Protestant exchange on the spiritual weight of the Sunday
+    obligation and the doctrine of eternal consequences, featuring a Catholic
+    essay, a Protestant reflection, and a Catholic reply.
+  slug: "the-sunday-obligation-and-eternal-consequences"
+  source: "The Sunday Obligation and Eternal Consequences/The Sunday Obligation and Eternal Consequences.md"
+  type: "markdown"
+
+- title: "Dishonouring Christ: A Facebook Conversation"
+  description: >-
+    A reproduced Facebook discussion prompted by an online debate over authority
+    and conscience, unfolding into an exchange on what it means to dishonour
+    Christ—drawing especially on Hebrews 10 and Protestant–Catholic differences
+    over the Mass, mediation, and the sufficiency of Christ’s once-for-all work.
+  slug: "dishonouring-christ-a-facebook-conversation"
+  source: "Dishonouring Christ/Dishonouring Christ.md"
+  type: "markdown"
+
