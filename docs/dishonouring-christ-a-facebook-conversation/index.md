@@ -1,8 +1,28 @@
 # Dishonouring Christ
 
-*This is a reproduction of [a Facebook conversation](https://www.facebook.com/mark.laurent/posts/pfbid0TdSLADS53GQZh76GaGrSnbb3zaY17M4XZ4YJgGionv9BBNUMAJoUQWAWYCPxfgVRl) from April 2026.*
+*This is a reproduction of [a Facebook conversation] from April 2026.*
 
-## 1. Opening Post
+[a Facebook conversation]: https://www.facebook.com/mark.laurent/posts/pfbid0TdSLADS53GQZh76GaGrSnbb3zaY17M4XZ4YJgGionv9BBNUMAJoUQWAWYCPxfgVRl
+
+## Synopsis
+
+This piece reproduces a Facebook exchange from April 2026.  It opens with a viral-style post contrasting Donald Trump’s remarks about Pope Leo XIV with a
+lengthy moral response attributed to the Pope; a hostile comment quickly reframes the debate as one about genuine faith versus mere rhetoric.
+
+The first substantive reply argues from Hebrews 10—especially verse 29—that Scripture itself defines what it means to dishonour Christ.  Working from a
+Protestant vantage point, it contends that teaching the Mass as a repeating propitiatory sacrifice, alongside certain Catholic emphases on mediation through
+priesthood, Mary, and the saints, risks the very “profaning” of Christ’s finished work that Hebrews warns against.
+
+The Catholic-sympathetic respondent urges a fair hearing for shared Eucharistic faith and for prayer to the saints as parallel to asking fellow believers on
+earth for prayer, cautioning against dismissing Leo’s biblical appeal merely because his tradition differs—and recalling that the canon Protestants read took
+shape within the ancient Western church.
+
+The final reply offers a systematic, warmly qualified comparison of official Roman Catholic Eucharistic doctrine with sacramental Protestant views (presence,
+sacrifice, ordained ministry, efficacy, adoration), explains why petitioning the saints is not simply like asking a friend to pray, and insists that every
+teacher—pope included—must be tested against Scripture.  It closes where the thread began: arguments about who “insults Jesus” must finally be judged by what
+God’s Word says is insulting to him.
+
+## Opening Post
 
 *Interlocutor 1*
 
@@ -53,7 +73,7 @@ A friend has suggested that this may not be a true quote, but even if it isn't i
 >
 > IF THIS PAGAN CRIMINAL TRULY KNEW JESUS HE WOULDN'T BE SAYING ANYTHING LIKE THIS TO ANYONE.
 
-## 2. First Reply
+## First Reply
 
 *Interlocutor 2*
 
@@ -81,17 +101,17 @@ The Bible calls every believer to test all teachings against Scripture and honou
 Son of God without adding to or re-offering what he has already perfected forever.  In a world quick to trade insults, the deeper question Scripture presses is
 whether our doctrines and practices truly exalt Christ as the all-sufficient Saviour or subtly diminish him.
 
-## 3. Second Reply
+## Second Reply
 
 *Interlocutor 1*
 
-Catholics in the mass remember Jesus in the same way protestants do - they simply believe that the eucharist is far more powerful than protestants usually do.
+Catholics in the Mass remember Jesus in the same way Protestants do — they simply believe that the Eucharist is far more powerful than Protestants usually do.
 Re Mary etc, Catholics believe (I'm not saying if they're right or wrong) that when we die we go to be with Jesus, and are alive in heaven, so they can pray for
 us in exactly the same way we ask our friends at church to pray for us.  Are you saying that we should ignore Leo's use of scripture simply because he doesn't
-practice his faith in exactly the same way protestants do.  Remember, it wss the Catholic church which gave us the bible that protestants now read - maybe God
+practice his faith in exactly the same way Protestants do.  Remember, it was the Catholic church which gave us the Bible that Protestants now read — maybe God
 has a bigger perspective on all of this than we do?
 
-## 4. Third Reply
+## Third Reply
 
 *Interlocutor 2*
 
@@ -241,7 +261,6 @@ We need to consult the Scriptures, with the guidance of the Spirit, to align our
 
 So, bringing this back around to the original discussion, what I'm really trying to say—and what I didn't make clear enough in my first response—is that any
 discussion about what (or who) might be “an insult to Jesus” ought to be framed against a background of what the Scriptures say is insulting to God.
-
 
 
 ---
