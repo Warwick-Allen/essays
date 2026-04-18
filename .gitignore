@@ -21,6 +21,9 @@
 *.html
 # Exception: track the compiled HTML file for the Hebrews essay
 !Themes and Motifs in Hebrews/themes_and_motifs_in_hebrews.html
+# Jekyll layouts/includes (still *.html but must be versioned)
+!docs/_layouts/default.html
+!docs/_includes/breadcrumbs.html
 *.css
 # *.ps
 # *.eps
