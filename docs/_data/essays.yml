@@ -2,12 +2,14 @@
 #
 # Fields:
 #   title       — display title on the index page
+#   collection  — source folder name; essays with the same value are grouped on the index
 #   description — short blurb shown beneath the title
 #   slug        — URL path segment (markdown → /slug/, html → /slug.html)
 #   source      — path to the source file, relative to the repo root
 #   type        — "markdown" (Jekyll-rendered) or "html" (pre-built, copied verbatim)
 
 - title: "Theological Profile"
+  collection: "Theological Profile"
   description: >-
     A comprehensive theological profile presenting a Molinist Arminian Baptist
     Charismatic perspective with high sacramental convictions. This document
@@ -18,6 +20,7 @@
   type: "markdown"
 
 - title: "The Dominant Themes and Intersecting Motifs in the Book of Hebrews"
+  collection: "Themes and Motifs in Hebrews"
   description: >-
     An exploration of the six dominant themes in Hebrews—Christ's supremacy, the
     new covenant, Christ's priesthood, faith and perseverance, the call to
@@ -29,6 +32,7 @@
   type: "html"
 
 - title: "The Sunday Obligation and Eternal Consequences"
+  collection: "The Sunday Obligation and Eternal Consequences"
   description: >-
     A Catholic–Protestant exchange on the spiritual weight of the Sunday
     obligation and the doctrine of eternal consequences, featuring a Catholic
@@ -38,6 +42,7 @@
   type: "markdown"
 
 - title: "The Sunday Obligation and Eternal Consequences: A Further Protestant Response to the Catholic Reply"
+  collection: "The Sunday Obligation and Eternal Consequences"
   description: >-
     An investigation of the claim that "the Church does not teach that
     salvation depends on 'meticulous attendance' or human performance."
@@ -46,6 +51,7 @@
   type: "markdown"
 
 - title: "Dishonouring Christ: A Facebook Conversation"
+  collection: "Dishonouring Christ"
   description: >-
     A reproduced Facebook discussion prompted by an online debate over authority
     and conscience, unfolding into an exchange on what it means to dishonour
@@ -56,6 +62,7 @@
   type: "markdown"
 
 - title: "Mission as it Relates to Stewardship of Creation"
+  collection: "The Mission of God"
   description: >-
     From Carey’s MM581 course *The Mission of God*: an essay on Wright’s case
     that Christians are mandated to care for creation, with critique and personal
@@ -65,6 +72,7 @@
   type: "markdown"
 
 - title: "The Bible’s Story of God’s Mission as Revealed in Deuteronomy, and the Practice of Mission Today"
+  collection: "The Mission of God"
   description: >-
     MM581 coursework tracing the mission of God through Deuteronomy within the
     wider biblical narrative, then considering how those insights inform mission
@@ -74,6 +82,7 @@
   type: "markdown"
 
 - title: "Theology and Practice of Mission Participation"
+  collection: "The Mission of God"
   description: >-
     MM581 integrative assessment defining the mission of God and faithful
     participation—including identity, Word, deed, creation care, justice, and a
@@ -81,4 +90,3 @@
   slug: "mission-of-god-theology-and-practice-of-participation"
   source: "The Mission of God/Assessment 3 - Theology and Practise of Mission Participation.md"
   type: "markdown"
-
