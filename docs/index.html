@@ -31,17 +31,43 @@ title: Warwick Allen's Essays
       padding-bottom: 1rem;
       margin-bottom: 2rem;
     }
+    .essay-collection {
+      margin-bottom: 2.5rem;
+    }
+    .essay-collection:last-of-type {
+      margin-bottom: 0;
+    }
+    .collection-heading {
+      font-size: 1.15rem;
+      font-weight: 600;
+      color: #9e9e9e;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      margin: 0 0 1rem 0;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid #444;
+    }
+    .essay-collection:first-of-type .collection-heading {
+      margin-top: 0;
+    }
     .essay-list {
       list-style: none;
       padding: 0;
+      margin: 0;
     }
     .essay-item {
-      margin: 2rem 0;
+      margin: 1.25rem 0;
       padding: 1.5rem;
       background: #3a3a3a;
       border-left: 4px solid #4CAF50;
       border-radius: 4px;
       transition: transform 0.2s, box-shadow 0.2s, background 0.2s;
+    }
+    .essay-item:first-child {
+      margin-top: 0;
+    }
+    .essay-item:last-child {
+      margin-bottom: 0;
     }
     .essay-item:hover {
       transform: translateX(5px);
@@ -88,22 +114,33 @@ title: Warwick Allen's Essays
   <div class="container">
     <h1>Warwick Allen's Essays</h1>
 
-    <ul class="essay-list">
-      {% for essay in site.data.essays %}
-      <li class="essay-item">
-        <h2 class="essay-title">
-          {% if essay.type == 'html' %}
-          <a href="{{ '/' | append: essay.slug | append: '.html' | relative_url }}" class="essay-link">
-          {% else %}
-          <a href="{{ '/' | append: essay.slug | append: '/' | relative_url }}" class="essay-link">
-          {% endif %}
-            {{ essay.title }}
-          </a>
-        </h2>
-        <p class="essay-description">{{ essay.description }}</p>
-      </li>
-      {% endfor %}
+    {% assign current_collection = '' %}
+    {% for essay in site.data.essays %}
+      {% if essay.collection != current_collection %}
+        {% unless forloop.first %}
     </ul>
+    </section>
+        {% endunless %}
+    <section class="essay-collection" aria-labelledby="collection-{{ essay.collection | slugify }}">
+      <h2 class="collection-heading" id="collection-{{ essay.collection | slugify }}">{{ essay.collection }}</h2>
+      <ul class="essay-list">
+        {% assign current_collection = essay.collection %}
+      {% endif %}
+        <li class="essay-item">
+          <h3 class="essay-title">
+            {% if essay.type == 'html' %}
+            <a href="{{ '/' | append: essay.slug | append: '.html' | relative_url }}" class="essay-link">
+            {% else %}
+            <a href="{{ '/' | append: essay.slug | append: '/' | relative_url }}" class="essay-link">
+            {% endif %}
+              {{ essay.title }}
+            </a>
+          </h3>
+          <p class="essay-description">{{ essay.description }}</p>
+        </li>
+    {% endfor %}
+    </ul>
+    </section>
 
     <footer>
       <p>
