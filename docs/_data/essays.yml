@@ -55,3 +55,30 @@
   source: "Dishonouring Christ/Dishonouring Christ.md"
   type: "markdown"
 
+- title: "Mission as it Relates to Stewardship of Creation"
+  description: >-
+    From Carey’s MM581 course *The Mission of God*: an essay on Wright’s case
+    that Christians are mandated to care for creation, with critique and personal
+    reflection on how ecological stewardship bears on mission.
+  slug: "mission-of-god-stewardship-of-creation"
+  source: "The Mission of God/Assessment 1 - Mission as it Relates to Stewardship of Creation.md"
+  type: "markdown"
+
+- title: "The Bible’s Story of God’s Mission as Revealed in Deuteronomy, and the Practice of Mission Today"
+  description: >-
+    MM581 coursework tracing the mission of God through Deuteronomy within the
+    wider biblical narrative, then considering how those insights inform mission
+    practice today.
+  slug: "mission-of-god-deuteronomy-and-mission-today"
+  source: "The Mission of God/Assessment 2 - The Bible's Story of God's Mission and Mission Today.md"
+  type: "markdown"
+
+- title: "Theology and Practice of Mission Participation"
+  description: >-
+    MM581 integrative assessment defining the mission of God and faithful
+    participation—including identity, Word, deed, creation care, justice, and a
+    worked reflection on the author’s own missional involvement.
+  slug: "mission-of-god-theology-and-practice-of-participation"
+  source: "The Mission of God/Assessment 3 - Theology and Practise of Mission Participation.md"
+  type: "markdown"
+
