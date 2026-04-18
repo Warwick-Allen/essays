@@ -1,0 +1,41 @@
+{% comment %}Essays › current page; skip on site home. Title from essays.yml when URL matches.{% endcomment %}
+{% assign normalized = page.url %}
+
+{% if normalized contains '/index.html' %}
+  {% assign normalized = normalized | replace: '/index.html', '/' %}
+{% endif %}
+
+{% assign is_site_home = false %}
+{% if normalized == '/' or normalized == '/index.html' %}
+  {% assign is_site_home = true %}
+{% endif %}
+
+{% unless is_site_home %}
+  {% assign crumb_current = '' %}
+
+  {% for essay in site.data.essays %}
+    {% assign md_path = '/' | append: essay.slug | append: '/' %}
+    {% assign html_path = '/' | append: essay.slug | append: '.html' %}
+    {% if essay.type == 'markdown' and normalized == md_path %}
+      {% assign crumb_current = essay.title %}
+    {% elsif essay.type == 'html' and normalized == html_path %}
+      {% assign crumb_current = essay.title %}
+    {% endif %}
+  {% endfor %}
+
+  {% unless crumb_current %}
+    {% assign crumb_current = page.title %}
+  {% endunless %}
+  {% unless crumb_current %}
+    {% assign crumb_current = 'Page' %}
+  {% endunless %}
+
+  <nav class="breadcrumb-nav" aria-label="Breadcrumb">
+    <ol class="breadcrumb-list">
+      <li class="breadcrumb-item">
+        <a href="{{ '/' | relative_url }}">Essays</a>
+      </li>
+      <li class="breadcrumb-item breadcrumb-current" aria-current="page">{{ crumb_current }}</li>
+    </ol>
+  </nav>
+{% endunless %}
