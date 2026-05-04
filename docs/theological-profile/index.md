@@ -540,10 +540,11 @@ considered complete:
 
 - ##### Helps Prevent Misinterpretation
 
-  Without the Spirit's help, people are more
-  likely to misinterpret Scripture through both (a) working on the interpreter's
-  heart/humility, and (b) more directly guiding to correct understanding. It is
-  unclear which is more common or fundamental in Scripture interpretation.
+  Without the Spirit's help, people are more likely to misinterpret Scripture.
+  The Spirit helps through both
+  (a) working on the interpreter's heart/humility, and
+  (b) more directly guiding to correct understanding.
+  It is unclear which is more common or fundamental in Scripture interpretation.
 
 - ##### Personal Transformation
 
