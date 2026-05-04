@@ -24,6 +24,7 @@
 # Jekyll layouts/includes (still *.html but must be versioned)
 !docs/_layouts/default.html
 !docs/_includes/breadcrumbs.html
+!docs/_includes/head-custom.html
 *.css
 # *.ps
 # *.eps

@@ -280,6 +280,9 @@ body {
 /* Import Elizabethan-style font */
 @import url('https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy:ital@0;1&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 
+/* OpenDyslexic (reader preference) — Fontsource via jsDelivr */
+@import url('https://cdn.jsdelivr.net/npm/@fontsource/opendyslexic@5.2.5/index.css');
+
 /* Hide the prominent GitHub ribbon with aggressive overrides */
 .fork-me-on-github,
 .github-corner,
@@ -376,6 +379,10 @@ td {
     background-color: white;
     color: black;
   }
+
+  .reader-controls {
+    display: none !important;
+  }
   
   .page-header {
     display: none;
@@ -404,4 +411,230 @@ td {
   h2 {
     font-size: 1.5em;
   }
+}
+
+/* -------------------------------------------------------------------------- */
+/* Reader controls — font family + size (Markdown essays, .essay-body)        */
+/* -------------------------------------------------------------------------- */
+
+$essay-sans-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$essay-serif-stack: "Sorts Mill Goudy", Garamond, "Libre Baskerville", Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+$essay-opendyslexic-stack: "OpenDyslexic", $essay-sans-stack;
+
+.essay-body {
+  font-size: var(--reader-font-size, 100%);
+}
+
+/*
+ * Paragraph and block spacing must use em (relative to this element’s font size),
+ * not rem, so gaps grow with the reader text-size control. The Slate theme often
+ * sets paragraph margins in rem, which stays fixed while body text scales up.
+ */
+#main_content .essay-body p {
+  margin-top: 0;
+  margin-bottom: 1.15em;
+}
+
+#main_content .essay-body p:last-child {
+  margin-bottom: 0;
+}
+
+#main_content .essay-body ul,
+#main_content .essay-body ol {
+  margin-top: 0.75em;
+  margin-bottom: 1em;
+}
+
+#main_content .essay-body blockquote {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+#main_content .essay-body hr {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+/* Control strip */
+.reader-controls {
+  margin: 0 0 1.25rem 0;
+  padding: 0.75rem 1rem;
+  border: 1px solid #30363d;
+  border-radius: 6px;
+  background-color: #161b22;
+}
+
+.reader-controls-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.75rem;
+}
+
+.reader-controls--collapsed .reader-controls-header {
+  margin-bottom: 0;
+}
+
+.reader-controls-heading {
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #8b949e;
+}
+
+.reader-controls-toggle {
+  display: none;
+  font: inherit;
+  cursor: pointer;
+  flex-shrink: 0;
+  padding: 0.35rem 0.65rem;
+  border-radius: 4px;
+  border: 1px solid #30363d;
+  background-color: #21262d;
+  color: #c9d1d9;
+  font-size: 0.8125rem;
+}
+
+html.js .reader-controls-toggle {
+  display: inline-block;
+}
+
+.reader-controls-toggle:hover {
+  border-color: #58a6ff;
+  color: #79c0ff;
+}
+
+.reader-controls--collapsed .reader-controls-inner {
+  display: none !important;
+}
+
+.reader-controls-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 1rem 1.25rem;
+}
+
+.reader-control-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  min-width: 0;
+}
+
+.reader-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #8b949e;
+}
+
+.reader-controls select,
+.reader-controls input[type="range"] {
+  font: inherit;
+  color: #e6edf3;
+  background-color: #0d1117;
+  border: 1px solid #30363d;
+  border-radius: 4px;
+}
+
+.reader-controls select {
+  padding: 0.35rem 0.5rem;
+  min-width: 12rem;
+  max-width: 100%;
+}
+
+.reader-controls input[type="range"] {
+  width: 11rem;
+  max-width: 100%;
+  accent-color: #58a6ff;
+  padding: 0;
+  border: none;
+  background: transparent;
+}
+
+.reader-font-size-value {
+  font-size: 0.875rem;
+  font-variant-numeric: tabular-nums;
+  color: #c9d1d9;
+  min-width: 3.25rem;
+}
+
+.reader-reset {
+  font: inherit;
+  cursor: pointer;
+  padding: 0.4rem 0.75rem;
+  border-radius: 4px;
+  border: 1px solid #30363d;
+  background-color: #21262d;
+  color: #c9d1d9;
+}
+
+.reader-reset:hover {
+  border-color: #58a6ff;
+  color: #79c0ff;
+}
+
+.reader-reset:focus-visible,
+.reader-controls-toggle:focus-visible,
+.reader-controls select:focus-visible,
+.reader-controls input[type="range"]:focus-visible {
+  outline: 2px solid #58a6ff;
+  outline-offset: 2px;
+}
+
+@media screen and (max-width: 768px) {
+  .reader-control-group-size {
+    flex: 1 1 100%;
+  }
+
+  .reader-controls input[type="range"] {
+    width: 100%;
+  }
+}
+
+/* Sans-serif: body copy and headings use the system sans stack */
+html[data-reader-font="sans"] .essay-body {
+  font-family: $essay-sans-stack;
+}
+
+html[data-reader-font="sans"] .essay-body h1,
+html[data-reader-font="sans"] .essay-body h2,
+html[data-reader-font="sans"] .essay-body h3,
+html[data-reader-font="sans"] .essay-body h4,
+html[data-reader-font="sans"] .essay-body h5,
+html[data-reader-font="sans"] .essay-body h6 {
+  font-family: $essay-sans-stack;
+}
+
+/* Serif: match classic essay typography (aligned with default heading stack) */
+html[data-reader-font="serif"] .essay-body {
+  font-family: $essay-serif-stack;
+}
+
+html[data-reader-font="serif"] .essay-body h1,
+html[data-reader-font="serif"] .essay-body h2,
+html[data-reader-font="serif"] .essay-body h3,
+html[data-reader-font="serif"] .essay-body h4,
+html[data-reader-font="serif"] .essay-body h5,
+html[data-reader-font="serif"] .essay-body h6 {
+  font-family: $essay-serif-stack;
+}
+
+/* OpenDyslexic for essay text and headings */
+html[data-reader-font="opendyslexic"] .essay-body {
+  font-family: $essay-opendyslexic-stack;
+}
+
+html[data-reader-font="opendyslexic"] .essay-body h1,
+html[data-reader-font="opendyslexic"] .essay-body h2,
+html[data-reader-font="opendyslexic"] .essay-body h3,
+html[data-reader-font="opendyslexic"] .essay-body h4,
+html[data-reader-font="opendyslexic"] .essay-body h5,
+html[data-reader-font="opendyslexic"] .essay-body h6 {
+  font-family: $essay-opendyslexic-stack;
 }

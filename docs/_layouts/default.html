@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }}" data-reader-font="serif">
 
   <head>
     <meta charset='utf-8'>
@@ -36,7 +36,35 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {% include breadcrumbs.html %}
-        {{ content }}
+        <div class="reader-controls" id="reader-controls" role="region" aria-labelledby="reader-controls-heading">
+          <div class="reader-controls-header">
+            <span class="reader-controls-heading" id="reader-controls-heading">Reading preferences</span>
+            <button type="button" class="reader-controls-toggle" id="reader-controls-toggle" aria-expanded="true" aria-controls="reader-controls-panel-body" aria-labelledby="reader-controls-heading">
+              Collapse
+            </button>
+          </div>
+          <div class="reader-controls-inner" id="reader-controls-panel-body">
+            <div class="reader-control-group">
+              <label class="reader-label" for="reader-font">Font</label>
+              <select id="reader-font" name="reader-font" autocomplete="off">
+                <option value="serif" selected>Serif</option>
+                <option value="sans">Sans-serif</option>
+                <option value="opendyslexic">OpenDyslexic</option>
+              </select>
+            </div>
+            <div class="reader-control-group reader-control-group-size">
+              <label class="reader-label" for="reader-font-size">Text size</label>
+              <input type="range" id="reader-font-size" name="reader-font-size" min="90" max="150" step="5" value="100" aria-valuemin="90" aria-valuemax="150" aria-valuenow="100" aria-describedby="reader-font-size-value">
+              <span class="reader-font-size-value" id="reader-font-size-value" aria-live="polite">100%</span>
+            </div>
+            <div class="reader-control-group reader-control-actions">
+              <button type="button" class="reader-reset" id="reader-reset">Reset</button>
+            </div>
+          </div>
+        </div>
+        <div class="essay-body" id="essay-body">
+          {{ content }}
+        </div>
       </section>
     </div>
 
@@ -49,5 +77,124 @@
         <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
+    <script>
+(function () {
+  document.documentElement.classList.add('js');
+
+  var STORAGE_FONT = 'essayReaderFont';
+  var STORAGE_SIZE = 'essayReaderFontSizePct';
+  var STORAGE_COLLAPSED = 'essayReaderControlsCollapsed';
+  var root = document.documentElement;
+  var essay = document.getElementById('essay-body');
+  var controlsPanel = document.getElementById('reader-controls');
+  var toggleEl = document.getElementById('reader-controls-toggle');
+  var fontEl = document.getElementById('reader-font');
+  var sizeEl = document.getElementById('reader-font-size');
+  var sizeValEl = document.getElementById('reader-font-size-value');
+  var resetEl = document.getElementById('reader-reset');
+  if (!essay || !fontEl || !sizeEl || !sizeValEl) return;
+
+  function safeFont(v) {
+    if (v === 'sans' || v === 'opendyslexic') return v;
+    return 'serif';
+  }
+
+  function safeSize(n) {
+    if (typeof n !== 'number' || isNaN(n)) return 100;
+    return Math.min(150, Math.max(90, Math.round(n / 5) * 5));
+  }
+
+  function applyFont(font) {
+    var f = safeFont(font);
+    root.setAttribute('data-reader-font', f);
+    fontEl.value = f;
+  }
+
+  function applySize(pct) {
+    var p = safeSize(pct);
+    essay.style.setProperty('--reader-font-size', p + '%');
+    sizeEl.value = String(p);
+    sizeEl.setAttribute('aria-valuenow', String(p));
+    sizeValEl.textContent = p + '%';
+  }
+
+  function loadStored() {
+    try {
+      var f = localStorage.getItem(STORAGE_FONT);
+      var s = localStorage.getItem(STORAGE_SIZE);
+      if (f) applyFont(f);
+      if (s !== null && s !== '') applySize(parseInt(s, 10));
+    } catch (e) { /* private mode etc. */ }
+  }
+
+  function persist() {
+    try {
+      localStorage.setItem(STORAGE_FONT, safeFont(fontEl.value));
+      localStorage.setItem(STORAGE_SIZE, String(safeSize(parseInt(sizeEl.value, 10))));
+    } catch (e) { /* ignore */ }
+  }
+
+  fontEl.addEventListener('change', function () {
+    applyFont(fontEl.value);
+    persist();
+  });
+
+  sizeEl.addEventListener('input', function () {
+    applySize(parseInt(sizeEl.value, 10));
+    persist();
+  });
+
+  if (resetEl) {
+    resetEl.addEventListener('click', function () {
+      applyFont('serif');
+      applySize(100);
+      try {
+        localStorage.removeItem(STORAGE_FONT);
+        localStorage.removeItem(STORAGE_SIZE);
+      } catch (e) { /* ignore */ }
+    });
+  }
+
+  function setCollapsed(collapsed) {
+    if (!controlsPanel || !toggleEl) return;
+    if (collapsed) {
+      controlsPanel.classList.add('reader-controls--collapsed');
+      toggleEl.setAttribute('aria-expanded', 'false');
+      toggleEl.textContent = 'Expand';
+    } else {
+      controlsPanel.classList.remove('reader-controls--collapsed');
+      toggleEl.setAttribute('aria-expanded', 'true');
+      toggleEl.textContent = 'Collapse';
+    }
+    try {
+      localStorage.setItem(STORAGE_COLLAPSED, collapsed ? '1' : '0');
+    } catch (e) { /* ignore */ }
+  }
+
+  function loadCollapsed() {
+    try {
+      var c = localStorage.getItem(STORAGE_COLLAPSED);
+      if (c === '1') setCollapsed(true);
+    } catch (e) { /* ignore */ }
+  }
+
+  if (toggleEl && controlsPanel) {
+    toggleEl.addEventListener('click', function () {
+      setCollapsed(!controlsPanel.classList.contains('reader-controls--collapsed'));
+    });
+  }
+
+  loadStored();
+  try {
+    if (!localStorage.getItem(STORAGE_FONT)) {
+      applyFont('serif');
+    }
+  } catch (e) {
+    applyFont('serif');
+  }
+  if (!essay.style.getPropertyValue('--reader-font-size').trim()) applySize(parseInt(sizeEl.value, 10));
+  loadCollapsed();
+})();
+    </script>
   </body>
 </html>
