@@ -31,6 +31,14 @@
   source: "Themes and Motifs in Hebrews/themes_and_motifs_in_hebrews.html"
   type: "html"
 
+- title: "On the Wretchedness of Man"
+  collection: "Anthropology"
+  description: >-
+    A brief biblical defence of fallen state of humanity.
+  slug: "on-the-wretchedness-of-man"
+  source: "Anthropology/On the Wretchedness of Man.md"
+  type: "markdown"
+
 - title: "The Sunday Obligation and Eternal Consequences"
   collection: "The Sunday Obligation and Eternal Consequences"
   description: >-

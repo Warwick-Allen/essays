@@ -83,3 +83,8 @@ corruption that the fall has wrought.  To
 underestimate human depravity is not kindness—it is a
 failure of both theological honesty and practical
 wisdom.
+
+
+---
+
+<a href="https://github.com/Warwick-Allen/essays" class="github-link">View Source on GitHub</a>
