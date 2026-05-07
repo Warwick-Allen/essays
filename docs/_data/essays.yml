@@ -20,7 +20,7 @@
   type: "markdown"
 
 - title: "The Dominant Themes and Intersecting Motifs in the Book of Hebrews"
-  collection: "Themes and Motifs in Hebrews"
+  collection: "Hebrews"
   description: >-
     An exploration of the six dominant themes in Hebrews—Christ's supremacy, the
     new covenant, Christ's priesthood, faith and perseverance, the call to
@@ -28,11 +28,11 @@
     atonement—unified by four interwoven motifs: rest, covenant fulfilment,
     access to God's presence, and perfection.
   slug: "themes-and-motifs-in-hebrews"
-  source: "Themes and Motifs in Hebrews/themes_and_motifs_in_hebrews.html"
+  source: "Hebrews/themes_and_motifs_in_hebrews.html"
   type: "html"
 
 - title: "The Irony of Insisting on Sabbath-Keeping"
-  collection: "Themes and Motifs in Hebrews"
+  collection: "Hebrews"
   description: >-
     A warning against teaching mandatory Sabbath observance.
   slug: "the-irony-of-insisting-on-sabbath-keeping"
