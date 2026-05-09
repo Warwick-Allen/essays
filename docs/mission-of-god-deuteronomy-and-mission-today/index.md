@@ -1,4 +1,6 @@
-# The Bible’s Story of God’s Mission as Revealed in Deuteronomy, and the Practice of Mission Today
+---
+title: "The Bible’s Story of God’s Mission as Revealed in Deuteronomy, and the Practice of Mission Today"
+---
 
 Course Number:	MM581
 
@@ -112,6 +114,7 @@ Wright, Christopher J. H. *The Mission of God: Unlocking The Bible’s Grand Nar
 [^15]:  This proverb was committed to writing after the events of Deuteronomy, but the truth it entails is eternal.
 
 [^16]:  According to the Wikimedia entry on Matt 5:14, in Jesus’s time, “salt and light” was a reference to the Law.  However, I did not find supporting attestation to that claim. Contributors to Wikimedia projects, “Matthew 5:14,” *Wikipedia* (Wikimedia Foundation, 4 June 2023), https://en.wikipedia.org/wiki/Matthew\_5:14.
+
 
 ---
 

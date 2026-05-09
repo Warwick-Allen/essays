@@ -196,12 +196,11 @@ p {
   background-color: #0d1117 !important;
 }
 
-/* Hide the page header completely */
+/* Hide the page header completely (avoid bare `header` — essay titles use <header class="essay-title-block">) */
 .page-header,
 #header_wrap,
 #project_title,
-#project_tagline,
-header {
+#project_tagline {
   display: none !important;
 }
 
@@ -433,6 +432,13 @@ $essay-opendyslexic-stack: "OpenDyslexic", $essay-sans-stack;
 #main_content .essay-body p {
   margin-top: 0;
   margin-bottom: 1.15em;
+}
+
+#main_content .essay-body .essay-subtitle {
+  font-size: 1.75em;
+  color: #c9d1d9;
+  line-height: 1.35;
+  text-align: left;
 }
 
 #main_content .essay-body p:last-child {

@@ -1,4 +1,6 @@
-# Theology and Practice of Mission Participation
+---
+title: "Theology and Practice of Mission Participation"
+---
 
 Course Number:	MM581
 
@@ -414,6 +416,7 @@ Patrick Jacob, “Created for God’s Glory (Isaiah 43:7),” *End of the Matter
 [^66]:  Blue Letter Bible, “G3084 \- Lytroō \- Strong’s Greek Lexicon (ESV),” Blue Letter Bible, 2023, [https://www.blueletterbible.org/lexicon/g3084/esv/tr/0-1/](https://www.blueletterbible.org/lexicon/g3084/esv/tr/0-1/).
 
 [^67]:  Blue Letter Bible, “G629 \- Apolytrōsis \- Strong’s Greek Lexicon (ESV),” *Blue Letter Bible*, 2023, [https://www.blueletterbible.org/lexicon/g629/esv/tr/0-1/](https://www.blueletterbible.org/lexicon/g629/esv/tr/0-1/).
+
 
 ---
 

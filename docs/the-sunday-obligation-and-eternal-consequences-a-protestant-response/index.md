@@ -1,4 +1,6 @@
-# A Further Protestant Response to the Catholic Reply
+---
+title: "A Further Protestant Response to the Catholic Reply"
+---
 
 ## Is "Meticulous Attendance" a Fair Characterisation?
 

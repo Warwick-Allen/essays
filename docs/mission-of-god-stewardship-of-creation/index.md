@@ -1,4 +1,6 @@
-# Mission as it Relates to Stewardship of Creation
+---
+title: "Mission as it Relates to Stewardship of Creation"
+---
 
 Course Number:	MM581
 
@@ -89,6 +91,7 @@ Wilson, J. R. *God’s Good World: Reclaiming the Doctrine of Creation*, Baker A
 [^13]:  In addition to the concept of non-rational creation glorifying God vicariously through rational creatures contemplating it and responding with praise, verses about creation glorifying God can be further demystified through understand the verses in their poetic or otherwise non-literal sense.
 
 [^14]:  Hayhoe, Douglas (2017). “Creation as a Gift: A Neglected Approach to Creation Care.” *Science & Christian Belief*, 29, 120\.
+
 
 ---
 

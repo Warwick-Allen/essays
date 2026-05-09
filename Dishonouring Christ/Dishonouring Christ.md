@@ -1,4 +1,6 @@
-# Dishonouring Christ
+---
+title: "Dishonouring Christ"
+---
 
 *This is a reproduction of [a Facebook conversation] from April 2026.*
 

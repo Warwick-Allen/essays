@@ -1,8 +1,8 @@
-# Warwick Allen's Theological Profile
+---
+title: "Warwick Allen's Theological Profile"
+---
 
 ***A Molinist Arminian Baptist Charismatic with High Sacramental Convictions***
-
----
 
 ### Table of Contents
 

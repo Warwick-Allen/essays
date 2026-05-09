@@ -1,4 +1,6 @@
-# Theology and Practice of Mission Participation
+---
+title: "Theology and Practice of Mission Participation"
+---
 
 Course Number:	MM581
 

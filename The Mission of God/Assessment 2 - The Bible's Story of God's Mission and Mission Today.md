@@ -1,4 +1,6 @@
-# The Bible’s Story of God’s Mission as Revealed in Deuteronomy, and the Practice of Mission Today
+---
+title: "The Bible’s Story of God’s Mission as Revealed in Deuteronomy, and the Practice of Mission Today"
+---
 
 Course Number:	MM581
 

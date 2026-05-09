@@ -1,4 +1,6 @@
-# On the Wretchedness of Man
+---
+title: "On the Wretchedness of Man"
+---
 
 A biblical anthropology must begin where the Bible
 itself begins: with the dignity of man as a creature

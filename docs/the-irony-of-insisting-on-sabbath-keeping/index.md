@@ -1,4 +1,6 @@
-# The Irony of Insisting on Sabbath-Keeping
+---
+title: "The Irony of Insisting on Sabbath-Keeping"
+---
 
 After meditating on the Letter to the Hebrews, I noticed a striking irony: those who insist that Christians must keep a weekly Sabbath as a requirement may actually be failing to observe the true Sabbath that Christ has won for us.
 

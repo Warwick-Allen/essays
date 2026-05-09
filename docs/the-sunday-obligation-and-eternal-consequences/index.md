@@ -1,4 +1,6 @@
-# The Sunday Obligation and Eternal Consequences: A Catholic–Protestant Exchange
+---
+title: "The Sunday Obligation and Eternal Consequences: A Catholic–Protestant Exchange"
+---
 
 ## Introduction
 

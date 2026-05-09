@@ -1,4 +1,6 @@
-# Mission as it Relates to Stewardship of Creation
+---
+title: "Mission as it Relates to Stewardship of Creation"
+---
 
 Course Number:	MM581
 
