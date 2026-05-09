@@ -336,3 +336,8 @@ TSWLatexianTemp*
 # need to keep the language-agnositic source file.
 *.greek.*
 *.hebrew.*
+
+# Jekyll local preview (under docs/)
+docs/_site/
+docs/.jekyll-cache/
+docs/vendor/bundle/

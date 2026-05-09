@@ -17,6 +17,75 @@ branch using the `/docs` folder.
 - `<slug>/index.md` and `<slug>.html` files are published essay pages generated
   from source files at the repository root.
 
+## Local preview (Jekyll)
+
+The published site uses GitHub Pages’ Jekyll stack. To render it locally with
+the same dependency versions as production, use Bundler with `Gemfile` /
+`Gemfile.lock` in this directory.
+
+**Prerequisites**
+
+- Ruby 3.x (`ruby --version`)
+- Bundler (`gem install bundler`)
+- On Debian, Ubuntu, or WSL: install build tooling so native gems compile
+
+  ```sh
+  sudo apt install ruby-dev build-essential
+  ```
+
+**Serve with live reload**
+
+From the repository root:
+
+```sh
+./scripts/serve-jekyll.sh
+```
+
+Or from `docs/`:
+
+```sh
+bundle install
+bundle exec jekyll serve
+```
+
+Open **http://127.0.0.1:4000/essays/** (`baseurl` in `_config.yml` matches the
+live site path).
+
+**GitHub API token (optional)**
+
+The `github-pages` gem includes `jekyll-github-metadata`, which can call the
+GitHub API to populate `site.github.*` in Liquid. If no credentials are
+available, you may see a message that no GitHub API authentication was found.
+That is **harmless** for normal local preview (layout, styles, and essay
+content).
+
+To authenticate (quieter logs and correct metadata if templates use
+`site.github`), set **`JEKYLL_GITHUB_TOKEN`** or **`GITHUB_TOKEN`** to a
+personal access token with at least read access to this repository, then run
+Jekyll as usual. Do not commit the token or add it to `_config.yml`.
+
+If you use the GitHub CLI, **`gh auth token` requires a recent `gh` version**.
+On older CLI releases the command is missing: the shell may substitute an error
+message into the variable, which **breaks** the build (invalid HTTP headers).
+Check with `gh auth token --help` or upgrade `gh` before using:
+
+```sh
+export JEKYLL_GITHUB_TOKEN="$(gh auth token)"
+./scripts/serve-jekyll.sh
+```
+
+If that fails, create a token under GitHub → Settings → Developer settings, and
+export it manually for the session.
+
+**Static HTML only** (writes to `docs/_site/`):
+
+```sh
+./scripts/build-jekyll.sh
+```
+
+Gems install under `docs/vendor/bundle/` (see `.bundle/config`) so Bundler does
+not require system-wide writes.
+
 ## Updating Published Essays
 
 Do not edit generated essay pages here as the source of truth. Edit the source

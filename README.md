@@ -66,3 +66,7 @@ The site is configured with Jekyll for GitHub Pages:
 
 GitHub Pages should be configured to deploy from the `main` branch using the
 `/docs` folder.
+
+To preview the site locally with the same Jekyll stack as GitHub Pages, run
+`./scripts/serve-jekyll.sh` from the repository root (see `docs/README.md` for
+setup details and troubleshooting).

@@ -1,0 +1,6 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+# Align Jekyll, themes, and plugins with GitHub Pages (same stack as production).
+gem "github-pages", group: :jekyll_plugins
