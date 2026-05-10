@@ -47,12 +47,15 @@ Consider the following argument:
     the assistance of the Holy Spirit.
 
 The conclusion follows validly from the premises.
-If one finds the conclusion unacceptable, one must challenge one of the
-premises, or else find some other feature of the argument that is doing
-illegitimate work.
-There are several strategies available.
+If one finds the conclusion unacceptable, there are three types of response
+available: one may challenge one of the two premises, one may accept the
+conclusion and show that it is less troubling than it first appears, or one may
+challenge the inference itself—arguing that even if both premises are
+granted, the conclusion does not follow in the same way it would for an
+ordinary human being.
+The following options arise.
 
-#### (a) Weakening the Force of Premise (1) by Limiting the Scope of "Every."
+#### (a) Weakening the Force of Premise (1) by Limiting the Scope of "Every"
 
 On this view, the phrase "in every respect" is not a comprehensive metaphysical
 claim but a rhetorical intensification of a more limited point.
@@ -70,7 +73,15 @@ inclinations.
 
 We will refer to this as the *resistible-sin* option.
 
-#### (c) Accepting the Conclusion—That Christ Had a Proclivity to Sin Which He Resisted through the Spirit's Empowerment
+#### (c) Arguing That the Proclivity to Sin Is Itself a Form of Sinfulness and Therefore Already Excluded by the Exception in Premise (1)
+
+This is structurally different from the limited-likeness option, because it does
+not weaken the scope of "every" but rather argues that concupiscence falls
+within what is already excluded by the phrase "without sin."
+
+We will refer to this as the *sinful-concupiscence* option.
+
+#### (d) Accepting the Conclusion—That Christ Had a Proclivity to Sin Which He Resisted through the Spirit's Empowerment
 
 On this view, both premises are affirmed, and the force of the argument is
 accepted.
@@ -79,29 +90,28 @@ compromising Christ's sinlessness or the efficacy of the atonement.
 
 We will refer to this as the *dependent-Christ* option.
 
-#### (d) Arguing That the Proclivity to Sin Is Itself a Form of Sinfulness and Therefore Already Excluded by the Exception in Premise (1)
+#### (e) Challenging the Inference by Distinguishing the Manner of Christ's Dependence on the Spirit from Ours, on Account of the Hypostatic Union
 
-This is structurally different from the limited-likeness option, because it does
-not weaken the scope of "every" but rather argues that concupiscence falls
-within what is already excluded by the phrase "without sin."
-
-We will refer to this as the *sinful-concupiscence* option.
-
-#### (e) Distinguishing the Manner of Christ's Dependence on the Spirit from Ours, on Account of the Hypostatic Union
-
-This option does not reject either premise but challenges the inference: even
-if Christ depended on the Spirit, that dependence was categorically different
-from ours, because his human nature subsisted within the person of the eternal
-Son in a way that has no analogue in ordinary human existence.
+This option does not reject either premise, nor does it simply accept the
+conclusion as stated.
+Instead, it challenges the inference from the premises: even if Christ depended
+on the Spirit, that dependence was categorically different from ours, because
+his human nature subsisted within the person of the eternal Son in a way that
+has no analogue in ordinary human existence.
+Unlike the preceding options, this one does not constitute a standalone
+resolution to the dilemma; as will become clear, it functions rather as a
+qualifying framework that operates alongside the other options, and most
+decisively alongside the dependent-Christ option.
 
 We will refer to this as the *dissimilar-dependency* option.
 
-##### ⥊
+<div style="text-align:center; margin:2ex 0"><strong>⥊</strong></div>
 
-Each of these options has been held by serious theologians.
+Each of the first four options has been held by serious theologians.
 Each has genuine strengths.
 Each also carries costs.
-The following sections examine them in turn.
+The following sections examine them in turn, before showing how the
+dissimilar-dependency option deepens and qualifies the most adequate of them.
 
 ## III. The *Limited-Likeness* Option: Limiting the Scope of "Every Respect"
 
