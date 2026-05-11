@@ -3,6 +3,32 @@ title: "Tempted in Every Respect: Christ, the Spirit, and the Proclivity to Sin"
 subtitle: "An Examination of the Tension between Hebrews 2:17 and 4:15"
 ---
 
+<div style="text-align:center"><h6>Abstract</h6></div>
+
+*Hebrews 2:17 and 4:15 together affirm Christ's full solidarity with his people
+and his temptation* in every respect*, while insisting that he remained* without
+sin*—a pairing that raises an acute question: did he bear the interior proclivity
+to sin that marks fallen humanity, and if so, how does his dependence on the
+Holy Spirit relate to ours?
+This essay maps the logical options for resolving the dilemma—limiting the scope
+of "in every respect," denying the necessity of the Spirit's assistance,
+treating concupiscence as already excluded by "without sin," accepting a
+Spirit-dependent Christ, and qualifying that dependence by the hypostatic
+union—before weighing their exegetical and soteriological costs.
+Two pressures prove decisive.
+Exegetically,* χωρὶς ἁμαρτίας in *Hebrews 4:15 is more plausibly read as
+adverbial than as exceptive, favouring options that affirm rather than exclude
+Christ's bearing of the conditions of fallen humanity.
+Soteriologically, Gregory of Nazianzus's axiom—what is not assumed is not
+healed—places serious strain on any Christology that withholds those conditions
+from what Christ assumed.
+The essay contends that a carefully nuanced dependent-Christ position,
+associated with Edward Irving and T. F. Torrance and distinguished from ordinary
+Spirit-dependence by its instrumental and vocational rather than therapeutic
+character, best honours the pastoral aims of Hebrews, the demands of the
+Gregorian axiom, and the consistent New Testament witness to Christ's
+sinlessness.*
+
 ## I. Introduction: The Dilemma in Its Biblical Setting
 
 Two verses in the Epistle to the Hebrews sit at the heart of a deceptively
