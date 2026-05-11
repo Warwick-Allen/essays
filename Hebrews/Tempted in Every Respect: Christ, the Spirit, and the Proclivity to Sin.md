@@ -665,8 +665,29 @@ which was not his claim.
 Torrance worked within the mainstream of Reformed theology and took care to
 frame his position in terms of Chalcedonian Christology.
 The position is not uncontested, but it falls within the range of positions
-that orthodox theologians have maintained, and it has the support of a number
-of significant patristic and Reformed voices.
+that orthodox theologians have maintained.
+Within the patristic tradition, Cyril of Alexandria insists that the Word
+assumed flesh in its full post-lapsarian condition—subject to suffering,
+mortality, and the disordered passions of fallen humanity—while remaining
+personally sinless; and the recapitulation theology of Irenaeus, in which
+Christ traverses every condition of fallen human existence in order to renew it
+from within, provides an earlier structural parallel.
+Gregory of Nazianzus's own writings, beyond the axiom for which he is most
+cited in this essay, press in the same direction: his insistence that Christ
+assumed the full range of human experience, including its disordered passions,
+in order to heal it, anticipates the Irving–Torrance logic with some precision.
+Within the Reformed tradition, John Owen's extended treatment of the Spirit's
+work in sustaining and empowering Christ's human nature throughout his earthly
+life—developed in his *Pneumatologia*—constitutes meaningful precedent, even if
+Owen does not draw every conclusion that Irving and Torrance draw.
+It should be acknowledged, however, that the patristic support is itself
+contested: some scholars dispute whether Cyril and Gregory should be read as
+affirming the assumption of fallen nature in precisely the sense that Irving
+and Torrance intend, and the question of how far the patristic witness
+underwrites the later position remains a matter of ongoing theological debate.
+The Irving–Torrance position is, in short, a serious theological option with
+deep historical roots, even if those roots do not add up to a unanimous
+historical endorsement.
 
 ## XII. Conclusion
 
