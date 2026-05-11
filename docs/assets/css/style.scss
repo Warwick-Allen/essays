@@ -105,6 +105,12 @@ a:hover {
   color: #79c0ff;
 }
 
+/* Kramdown footnote reference marks (in-text <a class="footnote" href="#fn:n">) */
+a.footnote {
+  margin-left: 0.1em;
+  vertical-align: text-bottom;
+}
+
 /* Breadcrumbs (_layouts/default.html + _includes/breadcrumbs.html) */
 .breadcrumb-nav {
   margin: 0 0 1.25rem 0;

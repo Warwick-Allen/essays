@@ -35,11 +35,11 @@ The question of how to resolve this discomfort, without sacrificing either the
 genuineness of Christ's solidarity with us or the unblemished character of his
 person, is the subject of this essay.
 I argue that a carefully nuanced version of the dependent-Christ option—in which
-Christ assumed the conditions of fallen human nature and was sustained throughout
-in sinless obedience by the Holy Spirit, in a manner categorically distinct from
-our own dependence on the Spirit—best satisfies the pastoral, exegetical, and
-soteriological demands that the text and the broader theological tradition place
-upon any adequate resolution.
+Christ assumed the conditions of fallen human nature and was sustained
+throughout in sinless obedience by the Holy Spirit, in a manner categorically
+distinct from our own dependence on the Spirit—best satisfies the pastoral,
+exegetical, and soteriological demands that the text and the broader theological
+tradition place upon any adequate resolution.
 
 ## II. The Logical Structure of the Dilemma
 
@@ -119,7 +119,7 @@ temptation—Christ was tempted in every respect, yet throughout without
 sinning—or as exceptive, meaning he was tempted in every respect except with
 respect to sin itself, i.e. he had no sinful inclinations to speak of.
 The majority of modern commentators on Hebrews (including Harold Attridge,
-William Lane, and Gareth Cockerill) favour the adverbial reading, on the
+William Lane, and Gareth Cockerill)[^1] favour the adverbial reading, on the
 grounds that the exceptive reading sits awkwardly with the emphatic force of
 *κατὰ πάντα* ("in every respect") and with the pastoral logic of the passage.
 On the adverbial reading, the text does not exclude Christ's having borne the
@@ -158,7 +158,7 @@ The verse does not necessarily commit one to the view that every feature of
 fallen human psychology was reproduced in him.
 
 This reading has historical support.
-Reformed orthodoxy, particularly in the tradition of Francis Turretin, has
+Reformed orthodoxy, particularly in the tradition of Francis Turretin,[^2] has
 generally maintained that Christ assumed *human nature* but not *fallen human
 nature*—that is, he took on humanity as such without the inherited disorder
 that characterises humanity since the fall.
@@ -232,9 +232,9 @@ theology in both the East and the West, and with the testimony of Scripture.
 The Pauline account of human nature in Romans 7 and 8 paints a picture of human
 beings in bondage to sin, incapable of the obedience that God requires without
 the liberating work of the Spirit.
-The Council of Orange in 529 condemned the Pelagian and semi-Pelagian positions
-that suggested humanity could move toward God or resist sin without prevenient
-grace.
+The Council of Orange in 529 condemned the Pelagian and semi-Pelagian
+positions[^3] that suggested humanity could move toward God or resist sin
+without prevenient grace.
 Augustine's extensive writings on grace and free will argue that the will,
 while formally free, is in practice bound by disordered loves until it is
 liberated by God's grace.
@@ -268,7 +268,7 @@ It is, rather, a consequence of the fall, a condition introduced by sin and
 itself belonging to the domain of sinfulness.
 The Council of Trent, affirming against the Reformers, insisted that
 concupiscence in the baptised is not formally sin but only the *tinder* of sin
-(*fomes peccati*).
+(*fomes peccati*).[^4]
 The Reformers, by contrast, tended to regard concupiscence as itself sinful,
 even where it is not acted upon.
 But even on the Council of Trent's more cautious formulation, concupiscence is
@@ -394,7 +394,7 @@ options, because it is this pressure that ultimately determines which resolution
 is most adequate.
 
 Gregory of Nazianzus's axiom—*what is not assumed is not healed* (*to gar
-aproslepton, atherapeuton*)—was forged in a specific polemical context, but
+aproslepton, atherapeuton*)[^5]—was forged in a specific polemical context, but
 its logic is far wider than that context.
 Gregory's point was that salvation is achieved by the incarnate Son taking on
 and transforming human nature from within.
@@ -464,9 +464,9 @@ The most thoroughgoing attempt to take the dependent-Christ option seriously—t
 affirm that Christ assumed fallen human nature, including its vulnerability to
 sinful inclination, and overcame it through the Spirit without himself
 sinning—is associated above all with the Scottish preacher Edward Irving
-(1792–1834) and the twentieth-century Scottish theologian T. F. Torrance
-(1913–1996), who developed Irving's insights within a more rigorous systematic
-framework.
+(1792–1834)[^6] and the twentieth-century Scottish theologian T. F. Torrance
+(1913–1996),[^7] who developed Irving's insights within a more rigorous
+systematic framework.
 
 Irving's central claim, which caused him considerable controversy in his own
 day, was that Christ assumed human nature "in the fallen condition"—not that
@@ -571,9 +571,10 @@ constrained nature for the exhausting and ultimately lethal work of redemption.
 
 A further distinction must be drawn between having an inclination and being in
 rebellion.
-In fallen human beings, concupiscence is not merely a neutral susceptibility
-but is entangled with an actual orientation away from God—what Augustine
-calls *incurvatus in se*, the soul curved in upon itself.
+In fallen human beings, concupiscence is not merely a neutral susceptibility but
+is entangled with an actual orientation away from God—what the Augustinian
+tradition, and especially Luther, calls *incurvatus in se*, the soul curved in
+upon itself.[^8]
 Christ, even on the assumption that his human nature bore something analogous
 to concupiscence, was never in this condition of actual rebellion.
 His will was, from the first moment of his existence, wholly directed toward
@@ -600,7 +601,7 @@ existence of its own (*hypostasis*) apart from the divine Son, while
 *enhypostasia* denotes that it is fully and really personal by virtue of being
 taken up into the person of the Son.
 On this account, Christ's human nature has no personal existence of its own
-apart from the person of the Son.
+apart from the person of the Son.[^9]
 In ordinary human beings, human nature is personalised in created human
 persons, each of whom has their own particular history of sin.
 In Christ, human nature is personalised in an uncreated divine person, who has
@@ -709,27 +710,26 @@ Torrance worked within the mainstream of Reformed theology and took care to
 frame his position in terms of Chalcedonian Christology.
 The position is not uncontested, but it falls within the range of positions
 that orthodox theologians have maintained.
-Within the patristic tradition, Cyril of Alexandria insists that the Word
+Within the patristic tradition, Cyril of Alexandria[^10] insists that the Word
 assumed flesh in its full post-lapsarian condition—subject to suffering,
 mortality, and the disordered passions of fallen humanity—while remaining
-personally sinless; and the recapitulation theology of Irenaeus, in which
+personally sinless; and the recapitulation theology of Irenaeus,[^11] in which
 Christ traverses every condition of fallen human existence in order to renew it
 from within, provides an earlier structural parallel.
 Gregory of Nazianzus's own writings, beyond the axiom for which he is most
 cited in this essay, press in the same direction: his insistence that Christ
 assumed the full range of human experience, including its disordered passions,
 in order to heal it, anticipates the Irving–Torrance logic with some precision.
-Within the Reformed tradition, John Owen's extended treatment of the Spirit's
-work in sustaining and empowering Christ's human nature throughout his earthly
-life—developed in his *Pneumatologia*—constitutes meaningful precedent, even if
-Owen does not draw every conclusion that Irving and Torrance draw.
+Within the Reformed tradition, John Owen's[^12] extended treatment of the
+Spirit's work in sustaining and empowering Christ's human nature throughout his
+earthly life—developed in his *Pneumatologia*—constitutes meaningful precedent,
+even if Owen does not draw every conclusion that Irving and Torrance draw.
 It should be acknowledged, however, that the patristic support is itself
 contested.
-Oliver Crisp, in *Divinity and Humanity* (Cambridge University Press, 2007),
-argues against the assumption of a fallen human nature on broadly Reformed
-grounds, contending that the distinction between fallenness and sinfulness is
-less stable than Irving and Torrance suppose, and that an unfallen human nature
-is both exegetically defensible and Christologically preferable.
+Oliver Crisp[^13] argues against the assumption of a fallen human nature on
+broadly Reformed grounds, contending that the distinction between fallenness and
+sinfulness is less stable than Irving and Torrance suppose, and that an unfallen
+human nature is both exegetically defensible and Christologically preferable.
 Crisp's challenge is a serious one, and the Irving–Torrance tradition has not
 always answered it with full precision.
 The most adequate response, implicit in the distinctions drawn in section IX
@@ -815,12 +815,120 @@ bring their weakness is not a high priest who observes their condition from a
 safe distance but one who has engaged it from within and emerged victorious on
 their behalf.
 
+### Bibliography
+
+Attridge, Harold W.
+*Hebrews: A Commentary on the Epistle to the Hebrews*.
+Hermeneia.
+Philadelphia: Fortress Press, 1989.
+
+Cockerill, Gareth Lee.
+*The Epistle to the Hebrews*.
+NICNT.
+Grand Rapids: Eerdmans, 2012.
+
+Council of Orange.
+"Canons of the Council of Orange (529)."
+[https://www.creeds.net/ancient/orange.htm](https://www.creeds.net/ancient/orange.htm).
+
+Council of Trent.
+"Session V: Decree Concerning Original Sin (17 June 1546)."
+[https://history.hanover.edu/texts/trent/ct05.html](https://history.hanover.edu/texts/trent/ct05.html).
+
+Crisp, Oliver D.
+*Divinity and Humanity: The Incarnation Reconsidered*.
+Current Issues in Theology.
+Cambridge: Cambridge University Press, 2007.
+
+Cyril of Alexandria.
+*On the Unity of Christ*.
+Translated by John A. McGuckin.
+Crestwood, NY: St Vladimir's Seminary Press, 1995.
+
+Gregory of Nazianzus.
+"Letter 101 (To Cledonius the Priest, against Apollinarius)."
+In *NPNF², vol. 7*, edited by Philip Schaff and Henry Wace, 439–43.
+Buffalo: Christian Literature, 1894.
+[https://www.tertullian.org/fathers2/NPNF2-07/Npnf2-07-59.htm](https://www.tertullian.org/fathers2/NPNF2-07/Npnf2-07-59.htm).
+
+Irenaeus.
+*Against Heresies*.
+In *Ante-Nicene Fathers*, vol. 1, edited by Alexander Roberts and James Donaldson.
+Buffalo: Christian Literature, 1885.
+[https://ccel.org/ccel/schaff/anf01](https://ccel.org/ccel/schaff/anf01).
+
+Irving, Edward.
+*The Orthodox and Catholic Doctrine of Our Lord's Human Nature*.
+London: Baldwin and Cradock, 1830.
+
+John of Damascus.
+*On the Orthodox Faith*.
+In *NPNF², vol. 9*.
+[https://ccel.org/ccel/schaff/npnf209](https://ccel.org/ccel/schaff/npnf209).
+
+Lane, William L.
+*Hebrews 1–8*.
+WBC 47A.
+Dallas: Word, 1991.
+
+Luther, Martin.
+*Lectures on Romans*.
+Translated by Wilhelm Pauck.
+Library of Christian Classics 15.
+Philadelphia: Westminster, 1961.
+
+Owen, John.
+*Pneumatologia: A Discourse Concerning the Holy Spirit*.
+In *The Works of John Owen*, edited by William H. Goold, vol. 3.
+Edinburgh: Johnstone and Hunter, 1850–1853.
+[https://www.monergism.com/works-john-owen](https://www.monergism.com/works-john-owen).
+
+Torrance, Thomas F.
+*Incarnation: The Person and Life of Christ*.
+Edited by Robert T. Walker.
+Downers Grove: IVP Academic, 2008.
+
+———.
+*The Mediation of Christ*.
+Colorado Springs: Helmers and Howard, 1992.
+
+Turretin, Francis.
+*Institutes of Elenctic Theology*.
+Translated by George M. Giger.
+Edited by James T. Dennison Jr.
+3 vols.
+Phillipsburg, NJ: P&R, 1992–1997.
+
 ---
 
-*This essay draws on Hebrews 2:17 and 4:15 (ESV), Gregory of Nazianzus's
-Epistle 101, the Christological tradition associated with Edward Irving and T.
-F. Torrance, and the classical Reformed Christology of John Owen and Francis
-Turretin.*
+*All Bible quotations are from the English Standard Version (ESV).*
+
+[^1]: On Heb 4:14–16, these three commentaries treat *χωρὶς ἁμαρτίας* as qualifying Christ’s endurance of testing from the side of sinlessness rather than as marking out a sphere of human experience from which interior temptation is excluded; I take that exegesis to align with the “adverbial” construal defended above. Harold W. Attridge, *Hebrews: A Commentary on the Epistle to the Hebrews*, Hermeneia (Philadelphia: Fortress Press, 1989), 137–42; William L. Lane, *Hebrews 1–8*, WBC 47A (Dallas: Word, 1991), 114–23; Gareth Lee Cockerill, *The Epistle to the Hebrews*, NICNT (Grand Rapids: Eerdmans, 2012), 218–30.
+
+[^2]: Francis Turretin, *Institutes of Elenctic Theology*, trans. George M. Giger, ed. James T. Dennison Jr., 3 vols. (Phillipsburg, NJ: P&R, 1992–1997), 2:405–30 (Topic XIII, “The Person and State of Christ,” esp. qq. 7–10 on Christ’s assumption of true human nature without sin).
+
+[^3]: Second Council of Orange (529), canons 5–6, in *Canons of the Council of Orange*, [https://www.creeds.net/ancient/orange.htm](https://www.creeds.net/ancient/orange.htm).
+
+[^4]: Council of Trent, “Decree Concerning Original Sin,” Fifth Session, 17 June 1546, §5, in *Session V: Decree Concerning Original Sin*, [https://history.hanover.edu/texts/trent/ct05.html](https://history.hanover.edu/texts/trent/ct05.html).
+
+[^5]: Gregory of Nazianzus, “Letter 101 (To Cledonius the Priest, against Apollinarius),” in *Nicene and Post-Nicene Fathers*, Second Series, vol. 7, ed. Philip Schaff and Henry Wace (Buffalo: Christian Literature, 1894), 440–41 (Greek *to gar aproslepton atherapeuton*).
+
+[^6]: Edward Irving, *The Orthodox and Catholic Doctrine of Our Lord’s Human Nature* (London: Baldwin and Cradock, 1830).
+
+[^7]: Thomas F. Torrance, *Incarnation: The Person and Life of Christ*, ed. Robert T. Walker (Downers Grove: IVP Academic, 2008); Thomas F. Torrance, *The Mediation of Christ* (Colorado Springs: Helmers and Howard, 1992).
+
+[^8]: Martin Luther, *Lectures on Romans*, trans. Wilhelm Pauck, Library of Christian Classics 15 (Philadelphia: Westminster, 1961), on Rom 5:4, 124–31.
+
+[^9]: John of Damascus, *Exposition of the Orthodox Faith* 3.9–12, in *Nicene and Post-Nicene Fathers*, Second Series, vol. 9, ed. Philip Schaff (Buffalo: Christian Literature, 1899), 45–52.
+
+[^10]: Cyril of Alexandria, *On the Unity of Christ*, trans. John A. McGuckin (Crestwood, NY: St Vladimir’s Seminary Press, 1995), 95–111.
+
+[^11]: Irenaeus, *Against Heresies* 3.18.1–7, in *Ante-Nicene Fathers*, vol. 1, ed. Alexander Roberts and James Donaldson (Buffalo: Christian Literature, 1885), 444–48.
+
+[^12]: John Owen, *Pneumatologia: A Discourse Concerning the Holy Spirit*, in *The Works of John Owen*, ed. William H. Goold, vol. 3 (Edinburgh: Johnstone and Hunter, 1855), 171–220.
+
+[^13]: Oliver D. Crisp, *Divinity and Humanity: The Incarnation Reconsidered*, Current Issues in Theology (Cambridge: Cambridge University Press, 2007), 90–117 (ch. 4, “Did Christ have a fallen human nature?”), esp. 93 on the inseparability of “fallenness” and sinfulness in traditional formulations of original sin.
+
 
 
 ---
