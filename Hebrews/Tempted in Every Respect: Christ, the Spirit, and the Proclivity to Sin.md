@@ -366,15 +366,46 @@ Christ enters into the condition of fallen humanity, takes it up into himself,
 and transforms it by his sinless life, atoning death, and resurrection.
 If any part of the human condition is excluded from what he assumed, that part
 is excluded from what he healed.
+This is an important claim, and it deserves a brief examination before it is
+applied.
 
-Hebrews 2:17 supports this logic directly, as the original question observes.
+The axiom is not a merely speculative philosophical claim imported from Greek
+participation theory; it rests on a deeply biblical account of how salvation
+works.
+The New Testament consistently presents redemption not as a legal decree issued
+from a distance but as the result of the Son entering into the human condition,
+sharing it from within, and transforming it.
+This participatory logic is prominent in Paul—"God sent his own Son in the
+likeness of sinful flesh and for sin" (Romans 8:3), so that the condemnation
+belonging to that flesh might be dealt with in it—and it is central to the
+argument of Hebrews, as the following paragraph will show.
+A reader steeped in the forensic tradition of Reformed soteriology might object
+that the axiom assumes too much: perhaps the atonement is legally efficacious
+regardless of which specific conditions of fallenness Christ assumed, so long
+as he bore the penalty due to sin in our place.
+This objection has genuine force, and nothing in the present argument denies
+that the atonement has an indispensable forensic dimension.
+But a purely forensic account, taken in isolation, struggles to ground the
+sanctifying and transformative dimensions of salvation that the New Testament
+equally insists upon.
+When Paul speaks of believers being "buried with Christ" and "raised with him"
+(Romans 6:4), or of the Spirit uniting them to Christ's own humanity (Romans
+8:9–11), something more than a legal transfer is in view.
+The Gregorian axiom is not anti-forensic; it insists, rather, that the legal
+transaction has an incarnational depth without which these participatory
+dimensions of salvation lack a proper ground.
+Assumption and healing are not two separate mechanisms but two moments in a
+single act of redemption.
+
+Among the biblical passages that give this logic its most pointed and immediate
+expression, Hebrews 2:17 stands out.
 The passage moves from Christ's likeness to his brothers "in every respect" to
 his capacity "to make propitiation for the sins of the people."
 The connection is not incidental.
 His fitness to be the atoning high priest is grounded in his genuine
 participation in the human condition.
-The solidarity and the atonement are not two separate things but aspects of a
-single redemptive movement.
+The solidarity and the atonement are not two separate things; they are aspects
+of a single redemptive movement.
 
 If concupiscence—the interior inclination toward sin—is among the most
 crippling features of the fallen human condition, and if freedom from it is
