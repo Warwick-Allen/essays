@@ -34,6 +34,12 @@ outright heretical.
 The question of how to resolve this discomfort, without sacrificing either the
 genuineness of Christ's solidarity with us or the unblemished character of his
 person, is the subject of this essay.
+I argue that a carefully nuanced version of the dependent-Christ option—in which
+Christ assumed the conditions of fallen human nature and was sustained throughout
+in sinless obedience by the Holy Spirit, in a manner categorically distinct from
+our own dependence on the Spirit—best satisfies the pastoral, exegetical, and
+soteriological demands that the text and the broader theological tradition place
+upon any adequate resolution.
 
 ## II. The Logical Structure of the Dilemma
 
@@ -104,6 +110,25 @@ qualifying framework that operates alongside the other options, and most
 decisively alongside the dependent-Christ option.
 
 We will refer to this as the *dissimilar-dependency* option.
+
+Before surveying the options, it is worth registering that the Greek text of
+Hebrews 4:15 itself bears directly on which options are exegetically viable.
+The phrase rendered "without sin" (*χωρὶς ἁμαρτίας*) is grammatically
+ambiguous: it may be read as adverbial, modifying the manner of the
+temptation—Christ was tempted in every respect, yet throughout without
+sinning—or as exceptive, meaning he was tempted in every respect except with
+respect to sin itself, i.e. he had no sinful inclinations to speak of.
+The majority of modern commentators on Hebrews (including Harold Attridge,
+William Lane, and Gareth Cockerill) favour the adverbial reading, on the
+grounds that the exceptive reading sits awkwardly with the emphatic force of
+*κατὰ πάντα* ("in every respect") and with the pastoral logic of the passage.
+On the adverbial reading, the text does not exclude Christ's having borne the
+interior conditions of fallen humanity; it affirms only that he never yielded
+to them.
+This exegetical point does not settle the theological question by itself, but it
+does mean that the options surveyed below are not all exegetically equal: those
+that read *χωρὶς ἁμαρτίας* as exceptive are working against the grain of the
+most defensible reading of the Greek.
 
 <div style="text-align:center; margin:2ex 0"><strong>⥊</strong></div>
 
@@ -180,6 +205,9 @@ The logic is directly applicable here: if the disordered inclination toward sin
 is among the most debilitating features of fallen humanity, and if Christ did
 not assume it, then it is unclear how its healing is grounded in the
 incarnation at all.
+This soteriological cost will be examined more fully in section VII; for now it
+is enough to note that the limited-likeness option purchases theological
+tidiness at a significant price.
 
 ## IV. The *Resistible-Sin* Option: Denying the Necessity of the Spirit's Assistance
 
@@ -221,6 +249,9 @@ sustained holiness is not achievable by willpower alone, suggests that premise
 (2) is not as easily dismissed as this option requires.
 Abandoning it in order to resolve the Christological dilemma would seem to
 purchase a tidy Christology at the cost of a distorted soteriology.
+The resistible-sin option can therefore be set aside; the more interesting
+question is whether the proclivity to sin should be excluded from what Christ
+assumed, or affirmed as part of it.
 
 ## V. The *Sinful-Concupiscence* Option: Concupiscence as Already Excluded by "Without Sin"
 
@@ -288,6 +319,9 @@ The question of where concupiscence falls in the taxonomy of sin, nature, and
 the fall remains theologically unresolved, which means the sinful-concupiscence
 option is more vulnerable to the pressure from Hebrews 4:15 than it first
 appears.
+The two remaining options approach the dilemma differently: one by challenging
+the inference rather than the premises, and one by accepting the conclusion and
+showing that it is less troubling than it first appears.
 
 ## VI. The *Dissimilar-Dependency* Option: The Hypostatic Union as a Qualifying Context
 
@@ -347,6 +381,10 @@ standalone resolution but as a supplementary qualification to whichever primary
 option one adopts.
 It is a genuine and important consideration, but it does not by itself resolve
 the dilemma.
+With the four primary options and the qualifying role of the
+dissimilar-dependency option now in view, we are in a position to examine the
+soteriological pressure that ultimately determines which resolution is most
+adequate.
 
 ## VII. The Soteriological Pressure: "What Is Not Assumed Is Not Healed"
 
@@ -555,9 +593,14 @@ question.
 
 #### The Distinction between Assumption and Personalisation
 
-Classical Christology, drawing on the concept of *anhypostasia* and
-*enhypostasia*, holds that Christ's human nature has no personal existence of
-its own apart from the person of the Son.
+Classical Christology employs the paired concepts of *anhypostasia* and
+*enhypostasia* to describe the personal mode of Christ's human nature:
+*anhypostasia* denotes that his human nature has no independent personal
+existence of its own (*hypostasis*) apart from the divine Son, while
+*enhypostasia* denotes that it is fully and really personal by virtue of being
+taken up into the person of the Son.
+On this account, Christ's human nature has no personal existence of its own
+apart from the person of the Son.
 In ordinary human beings, human nature is personalised in created human
 persons, each of whom has their own particular history of sin.
 In Christ, human nature is personalised in an uncreated divine person, who has
@@ -681,10 +724,25 @@ work in sustaining and empowering Christ's human nature throughout his earthly
 life—developed in his *Pneumatologia*—constitutes meaningful precedent, even if
 Owen does not draw every conclusion that Irving and Torrance draw.
 It should be acknowledged, however, that the patristic support is itself
-contested: some scholars dispute whether Cyril and Gregory should be read as
-affirming the assumption of fallen nature in precisely the sense that Irving
-and Torrance intend, and the question of how far the patristic witness
-underwrites the later position remains a matter of ongoing theological debate.
+contested.
+Oliver Crisp, in *Divinity and Humanity* (Cambridge University Press, 2007),
+argues against the assumption of a fallen human nature on broadly Reformed
+grounds, contending that the distinction between fallenness and sinfulness is
+less stable than Irving and Torrance suppose, and that an unfallen human nature
+is both exegetically defensible and Christologically preferable.
+Crisp's challenge is a serious one, and the Irving–Torrance tradition has not
+always answered it with full precision.
+The most adequate response, implicit in the distinctions drawn in section IX
+above, is that the relevant sense of "fallen" is carefully circumscribed: it
+refers to the conditions and susceptibilities of post-lapsarian human
+existence—mortality, liability to temptation, the weight of disordered
+inclination—and not to any actual sinful act or orientation.
+Whether that circumscription is stable enough to satisfy Crisp's objection is a
+question on which the theological debate remains genuinely open.
+Some scholars further dispute whether Cyril and Gregory should be read as
+affirming the assumption of fallen nature in precisely the sense that Irving and
+Torrance intend, and the question of how far the patristic witness underwrites
+the later position remains a matter of ongoing debate.
 The Irving–Torrance position is, in short, a serious theological option with
 deep historical roots, even if those roots do not add up to a unanimous
 historical endorsement.
@@ -738,6 +796,24 @@ condition, engaging it from within, and emerging victorious—carrying
 transformed human nature through death and into resurrection glory.
 That is a more demanding Christology, but it is also, arguably, a more adequate
 soteriology.
+
+The pastoral stakes of this conclusion deserve a brief word.
+Hebrews was written to a community under pressure—people tempted to abandon
+their confession, exhausted by the cost of faithfulness, uncertain whether their
+high priest could truly understand their struggle.
+The answer the author gives is not merely doctrinal but deeply personal: *he has
+been there*.
+On the nuanced dependent-Christ account, that answer has its full weight.
+Christ did not pass through human history in an insulated nature, untouched by
+the interior disorder that makes holiness so costly.
+He bore it, from within, and overcame it—not by divine fiat but by the
+Spirit-sustained obedience of a genuinely human will.
+For the preacher, this means that Christ's sympathy for the struggling believer
+is not merely formal but existential.
+For the believer in the midst of temptation, it means that the one to whom they
+bring their weakness is not a high priest who observes their condition from a
+safe distance but one who has engaged it from within and emerged victorious on
+their behalf.
 
 ---
 
