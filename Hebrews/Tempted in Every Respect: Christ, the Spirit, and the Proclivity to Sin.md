@@ -494,7 +494,7 @@ sinning—is associated above all with the Scottish preacher Edward Irving
 (1913–1996),[^7] who developed Irving's insights within a more rigorous
 systematic framework.
 
-Irving's central claim, which caused him considerable controversy in his own
+Irving's central claim, which caused him considerable controversy in his
 day, was that Christ assumed human nature "in the fallen condition"—not that
 he was sinful, but that he took on the nature that Adam's race actually has,
 with all its weakness, mortality, and vulnerability to temptation.
@@ -603,7 +603,7 @@ tradition, and especially Luther, calls *incurvatus in se*, the soul curved in
 upon itself.[^8]
 Christ, even on the assumption that his human nature bore something analogous
 to concupiscence, was never in this condition of actual rebellion.
-His will was, from the first moment of his existence, wholly directed toward
+His will was, from the first moment of his human existence, wholly directed toward
 the Father, wholly shaped by the love of the Spirit.
 The inclinations he bore were, so to speak, never in alliance with a rebellious
 self, because there was no rebellious self for them to ally with.
@@ -649,8 +649,8 @@ dependent-Christ option, it remains to show that this position does not merely
 avoid the Gregorian problem but actively enhances the account of the atonement's
 efficacy.
 
-On the nuanced dependent-Christ option, the atonement is not merely a
-transaction but a transformation.
+On the nuanced dependent-Christ option, the atonement is not only a
+transaction; it is also a transformation.
 What Christ achieves on the cross is not simply the payment of a penalty
 standing over against humanity, but the completion of a lifelong work of
 engaging, bearing, and conquering the conditions of fallen human nature.
