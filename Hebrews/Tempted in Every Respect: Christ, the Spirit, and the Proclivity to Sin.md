@@ -1,6 +1,8 @@
 ---
 title: "Tempted in Every Respect: Christ, the Spirit, and the Proclivity to Sin"
 subtitle: "An Examination of the Tension between Hebrews 2:17 and 4:15"
+author: "Warwick Allen"
+date: "May 2026"
 ---
 
 <div style="text-align:center"><h6>Abstract</h6></div>
