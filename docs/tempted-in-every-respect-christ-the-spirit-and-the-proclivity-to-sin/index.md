@@ -441,8 +441,8 @@ works.
 The New Testament consistently presents redemption not as a legal decree issued
 from a distance but as the result of the Son entering into the human condition,
 sharing it from within, and transforming it.
-This participatory logic is prominent in Paul—"God sent his own Son in the
-likeness of sinful flesh and for sin" (Romans 8:3), so that the condemnation
+This participatory logic is prominent in Paul—“God sent his own Son in the
+likeness of sinful flesh and for sin” (Romans 8:3), so that the condemnation
 belonging to that flesh might be dealt with in it—and it is central to the
 argument of Hebrews, as the following paragraph will show.
 A reader steeped in the forensic tradition of Reformed soteriology might object
