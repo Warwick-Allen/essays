@@ -473,10 +473,10 @@ participation in the human condition.
 The solidarity and the atonement are not two separate things; they are aspects
 of a single redemptive movement.
 
-If concupiscence—the interior inclination toward sin—is among the most
-crippling features of the fallen human condition, and if freedom from it is
-among the most urgent needs of redeemed humanity, then a Christology which
-excludes it from what Christ assumed must explain how it is healed.
+If concupiscence is among the most crippling features of the fallen human
+condition, and if freedom from it is among the most urgent needs of redeemed
+humanity, then a Christology which excludes it from what Christ assumed must
+explain how it is healed.
 The limited-likeness and sinful-concupiscence options face this question most
 acutely.
 Their answer must be that the Spirit heals concupiscence in sanctification on
