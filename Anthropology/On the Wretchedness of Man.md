@@ -1,5 +1,7 @@
 ---
 title: "On the Wretchedness of Man"
+author: "Warwick Allen"
+date: "May 2026"
 ---
 
 A biblical anthropology must begin where the Bible

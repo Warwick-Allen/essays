@@ -69,6 +69,16 @@
             {% if page.subtitle %}
             <p class="essay-subtitle">{{ page.subtitle }}</p>
             {% endif %}
+            {% if page.author or page.date %}
+            <div class="essay-metadata">
+              {% if page.author %}
+              <div class="essay-author">By {{ page.author }}</div>
+              {% endif %}
+              {% if page.date %}
+              <div class="essay-date">{{ page.date }}</div>
+              {% endif %}
+            </div>
+            {% endif %}
           </header>
           {% endif %}
           {{ content }}
