@@ -424,7 +424,7 @@ aproslepton, atherapeuton*)[^5]—was forged in a specific polemical context, bu
 its logic is far wider than that context.
 Gregory's point was that salvation is achieved by the incarnate Son taking on
 and transforming human nature from within.
-The healing is not merely juridical—a legal transaction conducted at a
+The healing is not solely juridical—a legal transaction conducted at a
 distance—but participatory:
 Christ enters into the condition of fallen humanity, takes it up into himself,
 and transforms it by his sinless life, atoning death, and resurrection.
@@ -540,7 +540,7 @@ same nature in believers.
 The logic runs from assumption to conquest to application, and there is no gap.
 
 Second, this position does full justice to the pastoral claims of Hebrews 4:15.
-Christ was tempted not merely by external pressures but by the full weight of
+Christ was tempted not only by external pressures but by the full weight of
 fallen human experience from within.
 When Hebrews says he can "sympathize with our weaknesses," this sympathy is not
 merely theoretical but existential: he has been where we are, in the specific
@@ -553,7 +553,7 @@ Luke presents Christ as Spirit-conceived, Spirit-anointed, Spirit-led (even
 into the wilderness to face temptation), Spirit-empowered in his ministry, and
 Spirit-sustained in his death (Hebrews 9:14).
 The Irving–Torrance reading provides a principled account of why this emphasis
-is there: the Spirit was not merely clothing Christ in messianic authority but
+is there: the Spirit was not just clothing Christ in messianic authority but
 genuinely sustaining his sinless human nature under the conditions of fallen
 existence.
 
@@ -597,7 +597,7 @@ constrained nature for the exhausting and ultimately lethal work of redemption.
 
 A further distinction must be drawn between having an inclination and being in
 rebellion.
-In fallen human beings, concupiscence is not merely a neutral susceptibility but
+In fallen human beings, concupiscence is not just a neutral susceptibility but
 is entangled with an actual orientation away from God—what the Augustinian
 tradition, and especially Luther, calls *incurvatus in se*, the soul curved in
 upon itself.[^8]
@@ -677,11 +677,12 @@ fallenness—mortality, susceptibility to temptation, the whole weight of human
 frailty—is taken through death and raised in glory.
 The resurrection body is no longer subject to the conditions of fallen
 existence.
-What was assumed in the incarnation has been not merely endured but redeemed.
+What was assumed in the incarnation has not only been endured: it has been
+redeemed.
 And since Christ is the first fruits of a new humanity, his resurrection is the
 pledge and ground of ours.
 
-The Gregorian axiom is therefore not merely satisfied but exceeded on this
+The Gregorian axiom is therefore not just satisfied but exceeded on this
 account.
 What was assumed was not merely engaged and preserved from sinning; it was
 conquered, transformed, and glorified.
@@ -827,7 +828,7 @@ The pastoral stakes of this conclusion deserve a brief word.
 Hebrews was written to a community under pressure—people tempted to abandon
 their confession, exhausted by the cost of faithfulness, uncertain whether their
 high priest could truly understand their struggle.
-The answer the author gives is not merely doctrinal but deeply personal: *he has
+The answer the author gives is not purely doctrinal but deeply personal: *he has
 been there*.
 On the nuanced dependent-Christ account, that answer has its full weight.
 Christ did not pass through human history in an insulated nature, untouched by
