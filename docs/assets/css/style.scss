@@ -657,6 +657,23 @@ html[data-reader-font="serif"] .essay-body h6 {
   font-family: $essay-serif-stack;
 }
 
+/* -------------------------------------------------------------------------- */
+/* Abstract styling: italicise the whole abstract but render inner emphasis normal */
+/* This inverts the usual emphasis inside the abstract: the block is italic,
+   while <em> or <i> text inside appears in the normal (upright) style. */
+.abstract {
+  font-style: italic;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+.abstract em,
+.abstract i {
+  font-style: normal;
+}
+.abstract h6 {
+  text-align: center;
+}
+
 /* OpenDyslexic for essay text and headings */
 html[data-reader-font="opendyslexic"] .essay-body {
   font-family: $essay-opendyslexic-stack;

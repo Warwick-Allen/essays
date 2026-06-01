@@ -79,6 +79,12 @@
               {% endif %}
             </div>
             {% endif %}
+            {% if page.abstract %}
+            <div class="abstract" role="doc-abstract">
+              <h6 class="abstracttitle">Abstract</h6>
+              {{ page.abstract | markdownify }}
+            </div>
+            {% endif %}
           </header>
           {% endif %}
           {{ content }}
