@@ -2,29 +2,33 @@
 title: "Tempted in Every Respect: Christ, the Spirit, and the Proclivity to Sin"
 subtitle: "An Examination of the Tension between Hebrews 2:17 and 4:15"
 author: "Warwick Allen"
-date: "May 2026"
+date: "31 May 2026"
 abstract: |
-    Hebrews 2:17 and 4:15 together affirm Christ's full solidarity with his
-    people and his temptation *in every respect*, while insisting that he
-    remained *without sin*—a pairing that raises an acute question: did he bear
-    the interior proclivity to sin that marks fallen humanity, and if so, how
-    does his dependence on the Holy Spirit relate to ours?  This essay maps the
-    logical options for resolving the dilemma—limiting the scope of "in every
-    respect," denying the necessity of the Spirit's assistance, treating
-    concupiscence as already excluded by "without sin," accepting a
-    Spirit-dependent Christ, and qualifying that dependence by the hypostatic
-    union—before weighing their exegetical and soteriological costs.  Two
-    pressures prove decisive.  Exegetically, *χωρὶς ἁμαρτίας* in Hebrews 4:15 is
-    more plausibly read as adverbial than as exceptive, favouring options that
-    affirm rather than exclude Christ's bearing of the conditions of fallen
-    humanity.  Soteriologically, Gregory of Nazianzus's axiom—what is not
-    assumed is not healed—places serious strain on any Christology that
-    withholds those conditions from what Christ assumed.  The essay contends
-    that a carefully nuanced dependent-Christ position, associated with Edward
-    Irving and T. F. Torrance and distinguished from ordinary Spirit-dependence
-    by its instrumental and vocational rather than therapeutic character, best
-    honours the pastoral aims of Hebrews, the demands of the Gregorian axiom,
-    and the consistent New Testament witness to Christ's sinlessness.
+  Hebrews 2:17 and 4:15 together affirm Christ's full solidarity with his people
+  and his temptation *in every respect*, while insisting that he remained
+  *without sin*—a pairing that raises an acute question: did he bear the
+  interior proclivity to sin that marks fallen humanity, and if so, how does his
+  dependence on the Holy Spirit relate to ours?  This essay maps the logical
+  options for resolving the dilemma—limiting the scope of "in every respect,"
+  denying the necessity of the Spirit's assistance, treating concupiscence as
+  already excluded by "without sin," accepting a Spirit-dependent Christ, and
+  qualifying that dependence by the hypostatic union—before making the strongest
+  available case for the dependent-Christ position as developed in the
+  Irving–Torrance tradition.  Two pressures initially drive the argument in that
+  direction.  Exegetically, *χωρὶς ἁμαρτίας* in Hebrews 4:15 is more plausibly
+  read as adverbial than as exceptive, favouring options that affirm rather than
+  exclude Christ's bearing of the conditions of fallen humanity.
+  Soteriologically, Gregory of Nazianzus's axiom—what is not assumed is not
+  healed—places serious strain on any Christology that withholds those
+  conditions from what Christ assumed.  The essay contends, however, that the
+  Irving–Torrance position, though plausible and serious, ultimately founders on
+  three difficulties: its incomplete answer to the question of Christ's
+  holiness, its extension of the Gregorian axiom beyond the polemical context
+  for which Gregory forged it, and its reliance on that axiom to perform
+  adjudicating work that biblical exegesis alone cannot supply.  Once these
+  difficulties are registered, the costs previously identified in the
+  limited-likeness and sinful-concupiscence options look less decisive, and both
+  emerge as defensible resolutions between which the essay does not choose.
 ---
 
 ## I. Introduction: The Dilemma in Its Biblical Setting
@@ -58,12 +62,16 @@ outright heretical.
 The question of how to resolve this discomfort, without sacrificing either the
 genuineness of Christ's solidarity with us or the unblemished character of his
 person, is the subject of this essay.
-I argue that a carefully nuanced version of the dependent-Christ option—in which
-Christ assumed the conditions of fallen human nature and was sustained
-throughout in sinless obedience by the Holy Spirit, in a manner categorically
-distinct from our own dependence on the Spirit—best satisfies the pastoral,
-exegetical, and soteriological demands that the text and the broader theological
-tradition place upon any adequate resolution.
+
+The essay proceeds by giving the dependent-Christ option, particularly in the
+nuanced form developed by the Irving–Torrance tradition, its strongest available
+hearing.
+That case is a serious one, and the pastoral and soteriological pressures that
+drive it deserve to be felt at full weight.
+The essay's ultimate conclusion, however, is that three persistent difficulties
+prove more telling than the case in its favour—and that the limited-likeness and
+sinful-concupiscence options, once those difficulties are registered, emerge as
+more defensible resolutions between which there is no compelling need to choose.
 
 ## II. The Logical Structure of the Dilemma
 
@@ -159,8 +167,9 @@ most defensible reading of the Greek.
 Each of the first four options has been held by serious theologians.
 Each has genuine strengths.
 Each also carries costs.
-The following sections examine them in turn, before showing how the
-dissimilar-dependency option deepens and qualifies the most adequate of them.
+The following sections examine them in turn, before presenting the strongest
+available case for the dependent-Christ option and then examining the three
+persistent difficulties that that case ultimately cannot resolve.
 
 ## III. The *Limited-Likeness* Option: Limiting the Scope of "Every Respect"
 
@@ -407,15 +416,14 @@ It is a genuine and important consideration, but it does not by itself resolve
 the dilemma.
 With the four primary options and the qualifying role of the
 dissimilar-dependency option now in view, we are in a position to examine the
-soteriological pressure that ultimately determines which resolution is most
-adequate.
+soteriological pressure that bears on all the preceding options.
 
 ## VII. The Soteriological Pressure: "What Is Not Assumed Is Not Healed"
 
 Before making a positive case for a version of the dependent-Christ option, it
 is worth dwelling on the soteriological problem that bears on all the preceding
-options, because it is this pressure that ultimately determines which resolution
-is most adequate.
+options, because it is this pressure that initially appears to determine which
+resolution is most adequate.
 
 Gregory of Nazianzus's axiom—*what is not assumed is not healed* (*to gar
 aproslepton, atherapeuton*)[^5]—was forged in a specific polemical context, but
@@ -437,8 +445,8 @@ works.
 The New Testament consistently presents redemption not as a legal decree issued
 from a distance but as the result of the Son entering into the human condition,
 sharing it from within, and transforming it.
-This participatory logic is prominent in Paul—“God sent his own Son in the
-likeness of sinful flesh and for sin” (Romans 8:3), so that the condemnation
+This participatory logic is prominent in Paul—"God sent his own Son in the
+likeness of sinful flesh and for sin" (Romans 8:3), so that the condemnation
 belonging to that flesh might be dealt with in it—and it is central to the
 argument of Hebrews, as the following paragraph will show.
 A reader steeped in the forensic tradition of Reformed soteriology might object
@@ -481,6 +489,17 @@ and conquered in the incarnate life.
 This is not an impossible answer, but it does introduce a gap between the
 Gregorian logic and the actual structure of salvation—a gap which, once
 noticed, is difficult to close without qualification.
+
+The full weight of this pressure will be allowed to stand in the sections that
+follow, where the dependent-Christ option is given its fullest and strongest
+presentation.
+It should be noted here, however, that the argument's force depends on two
+assumptions that will need to be examined: that the Gregorian axiom can
+legitimately be extended from the structural completeness of what Christ assumed
+to the condition of what he assumed; and that the axiom can perform the role of
+adjudicating between options that biblical exegesis alone leaves underdetermined.
+Both assumptions will be scrutinised in section XII, where they prove less
+secure than the foregoing argument requires.
 
 ## VIII. The *Dependent-Christ* Option: Christ's Dependence on the Spirit—The Irving–Torrance Tradition
 
@@ -686,7 +705,7 @@ What was assumed was not merely engaged and preserved from sinning; it was
 conquered, transformed, and glorified.
 The healing is complete.
 
-## XI. Objections Considered
+## XI. Objections Considered and Answered
 
 ### Objection 1: Does this not make Christ a sinner in some sense?
 
@@ -705,6 +724,15 @@ Christ assumed the former condition while never committing the latter act.
 The distinction is between the terrain in which the battle was fought and the
 outcome of the battle.
 Christ assumed fallen terrain but never lost the battle.
+
+This distinction between terrain and outcome is genuine and important, and it
+goes some distance toward answering the charge that the Irving–Torrance
+position attributes sinfulness to Christ.
+Section XII will press the question further, however: the relevant concern is
+not only whether Christ sinned but whether the bearing of morally disordered
+desires—desires oriented toward objects contrary to God—is compatible with the
+holiness proper to the incarnate Son's human nature considered in itself.
+That question is not settled by the nature/person distinction alone.
 
 ### Objection 2: If Christ had concupiscence, does that not make his sinlessness merely contingent?
 
@@ -772,73 +800,252 @@ The Irving–Torrance position is, in short, a serious theological option with
 deep historical roots, even if those roots do not add up to a unanimous
 historical endorsement.
 
-## XII. Conclusion
+## XII. Three Persistent Difficulties
 
-The dilemma posed by Hebrews 2:17 and 4:15 is a genuine one.
-The four main resolutions surveyed here—weakening the scope of "in every
-respect" (the limited-likeness option), denying the necessity of the Spirit's
-assistance (the resistible-sin option), invoking the hypostatic union as a
-qualifying context (the dissimilar-dependency option), and classifying
-concupiscence as already excluded by "without sin" (the sinful-concupiscence
-option)—each have genuine strengths and genuine weaknesses.
-The limited-likeness option and the sinful-concupiscence option are perhaps the
-most historically common, but both face serious pressure from the Gregorian
-axiom and the soteriological logic of Hebrews 2:17 itself.
-The resistible-sin option is difficult to sustain on the basis of Scripture and
-the broader tradition.
-The dissimilar-dependency option is best understood as a supplement to other
-positions rather than a standalone resolution.
+The force of the case made in sections VII through XI should be acknowledged
+before it is questioned.
+The Irving–Torrance position is genuinely serious, its historical roots are
+real, and the soteriological pressure it places on its alternatives is not
+imaginary.
+Three difficulties remain, however, that this position cannot fully resolve,
+and together they prove more decisive than the case in its favour.
 
-The position that best satisfies the full range of exigencies—the pastoral
-claims of Hebrews 4:15, the soteriological logic of Hebrews 2:17, the Gregorian
-axiom, and the consistent New Testament testimony to Christ's sinlessness—is a
-carefully nuanced version of the dependent-Christ option, shaped by the insights
-of the Irving–Torrance tradition.
-On this account, Christ assumed fallen human nature in the full weight of its
-condition, bore the interior pressure of its disordered inclinations, and
-overcame them continuously through the Spirit's empowerment—without ever
-sinning.
-His dependence on the Spirit was real but not therapeutic in the way that ours
-is: it was the Spirit sustaining and empowering a human nature that was never
-in rebellion, in the service of a lifelong redemptive engagement with the
-conditions of fallen existence.
+### Difficulty 1: The Holiness Concern Is Not Adequately Resolved
 
-This position preserves the genuine solidarity of Christ with fallen humanity,
-grounds the efficacy of the atonement in a direct incarnational engagement with
-the very conditions from which we need to be freed, and accounts for the
-pervasive New Testament emphasis on the Spirit's role in Christ's life and
-ministry.
-It does so without collapsing the distinction between Christ and us, because
-the person who bore fallen human nature was the eternal Son, and the manner of
-his dependence on the Spirit—instrumental and vocational rather than
-therapeutic—is categorically different from ours.
+Section XI acknowledged the distinction between fallen terrain and sinful
+outcome, and noted that this distinction does not quite settle whether the
+bearing of disordered desires is compatible with the holiness of the incarnate
+Son's human nature.
+The difficulty runs as follows.
 
-The incarnation, on this reading, is not the story of a divine person insulated
-within a pristine human nature, passing through human history untouched by its
-disorder.
-It is the story of the eternal Son entering into the depths of the human
-condition, engaging it from within, and emerging victorious—carrying
-transformed human nature through death and into resurrection glory.
-That is a more demanding Christology, but it is also, arguably, a more adequate
-soteriology.
+Concupiscence, understood in the classical sense, is not simply a neutral
+susceptibility to external pressure.
+It is a *disordered* orientation of desire—desire toward objects that are
+contrary to God, arising prior to any deliberate act of the will.
+The Irving–Torrance response moves in two directions: it invokes the
+nature/person distinction to show that such disorder in the human nature does
+not constitute sinfulness in the divine person; and it invokes the distinction
+between inclination and rebellion (section IX) to argue that, in Christ's case,
+these inclinations were "never in alliance with a rebellious self."
+Both moves are illuminating, but neither fully resolves the difficulty.
 
-The pastoral stakes of this conclusion deserve a brief word.
-Hebrews was written to a community under pressure—people tempted to abandon
-their confession, exhausted by the cost of faithfulness, uncertain whether their
-high priest could truly understand their struggle.
-The answer the author gives is not purely doctrinal but deeply personal: *he has
-been there*.
-On the nuanced dependent-Christ account, that answer has its full weight.
-Christ did not pass through human history in an insulated nature, untouched by
-the interior disorder that makes holiness so costly.
-He bore it, from within, and overcame it—not by divine fiat but by the
-Spirit-sustained obedience of a genuinely human will.
-For the preacher, this means that Christ's sympathy for the struggling believer
-is not merely formal but existential.
-For the believer in the midst of temptation, it means that the one to whom they
-bring their weakness is not a high priest who observes their condition from a
-safe distance but one who has engaged it from within and emerged victorious on
-their behalf.
+The nature/person distinction shows that Christ's having concupiscence would not
+constitute *actual sin*—a verdict with respect to acts.
+What it does not show is that the bearing of morally disordered desires is
+consistent with the *holiness* proper to the human nature of the Son of God.
+The question here is not whether Christ sinned but whether "the holy thing"
+(Luke 1:35) conceived by the Spirit and born of Mary was holy in the
+constitution of his human nature, or merely in his personal orientation and the
+outcomes of his acts.
+The tradition's strong instinct—expressed in the Roman Catholic doctrine of the
+*immaculata conceptio* as applied to Christ, and in the broader Protestant
+insistence on his spotless inner life—that Christ's humanity was pure in its
+very condition and not merely in its conduct, is not obviously wrong.
+The nature/person distinction does not, by itself, show that it is.
+
+The distinction between inclination and rebellion is similarly limited in its
+reach.
+It correctly observes that Christ's inclinations had no rebellious self to ally
+with.
+But "having no rebellious self to ally with" is a description of the *personal*
+context of those inclinations, not of the inclinations themselves.
+If the inclinations were genuinely concupiscent—genuinely oriented toward objects
+contrary to God—then they are morally disordered whether or not they find a
+willing partner in a rebellious will.
+The Irving–Torrance tradition has not produced a fully satisfying answer to this
+point.
+The essay's acknowledgment in section XI that the question of the position's
+internal stability "remains genuinely open" is more telling than it might first
+appear: it is a concession that the most fundamental objection has not been
+closed.
+
+### Difficulty 2: The Gregorian Axiom Is Extended Beyond Its Original Context
+
+Gregory of Nazianzus forged his axiom in Epistle 101[^5] in response to a
+specific claim: that the Logos, in becoming incarnate, assumed the human body
+and irrational soul but not the rational soul or mind (*nous*).
+Gregory's reply was that if the rational soul is missing from what Christ
+assumed, then the rational soul is missing from what he healed—and since the
+rational soul is precisely the seat of sin's disorder, that omission would be
+catastrophic for salvation.
+
+The structure of the argument is accordingly this: *missing parts of human
+nature* → *those parts go unhealed*.
+The application of this logic to the *condition* of the assumed nature—whether
+it was fallen or unfallen, whether it bore concupiscence or not—is an extension
+of the original argument, not a direct application of it.
+The question Gregory was answering was: "Did Christ assume a complete human
+nature?"
+The question now being pressed by the same axiom is: "Did that nature bear the
+post-lapsarian condition of fallen existence?"
+These are related questions, but they are not the same question.
+The first concerns the *structural completeness* of the assumed humanity; the
+second concerns its *historical condition*.
+Gregory's logic moves from the first but does not itself reach the second
+without an additional inferential step—one that Gregory himself did not take,
+and one that his own theological commitments do not unambiguously support.
+
+This observation does not render the extension illegitimate; it flows coherently
+from the same soteriological instinct, and the analogy is principled.
+But a principled analogical extension is not the same as a direct application,
+and the essay has been treating the axiom as if it were directly applicable to
+the question of concupiscence rather than extended to it.
+Once this distinction is acknowledged, the axiom's authority in the present
+debate is proportionately diminished.
+
+### Difficulty 3: The Axiom Is Performing Work That Exegesis Alone Cannot Supply
+
+The exegetical situation, as sections II and III have noted, is genuinely
+underdetermined.
+The adverbial reading of *χωρὶς ἁμαρτίας* in Hebrews 4:15 is more defensible
+than the exceptive reading and is favoured by the majority of modern
+commentators.
+But the adverbial reading establishes only that the text *does not exclude*
+Christ's bearing of the interior conditions of fallen humanity; it does not
+*require* it.
+The limited-likeness and sinful-concupiscence options are not exegetically ruled
+out by the Greek—they are simply not the reading for which the text most
+naturally calls.
+
+The Gregorian axiom has been invoked throughout this essay to break this
+exegetical tie.
+But if the axiom is an extended application rather than a direct one—as
+difficulty 2 has argued—then it cannot bear this adjudicating role without
+independent biblical justification for the extension itself.
+The New Testament texts cited in section VII—Romans 8:3, Romans 6:4, Hebrews
+2:17—genuinely support the claim that salvation has participatory and
+incarnational depth.
+None of them, however, requires the assumption of concupiscence as such.
+Romans 8:3's "likeness of sinful flesh" is consistent with the Irving–Torrance
+reading but does not demand it; Hebrews 2:14–17's solidarity language grounds
+the atonement in genuine participation in the human condition but does not
+specify the interior phenomenology of Christ's temptations.
+The inference from "participatory soteriology is biblical" to "therefore Christ
+bore concupiscence" requires the Gregorian axiom as an intermediate step, and
+it is precisely that step which is now in question.
+The participatory dimensions of salvation identified in section VII are not
+mistaken; what is mistaken is the assumption that they supply exegetical warrant
+for the specific Irving–Torrance claim about concupiscence, when in fact they
+rely on the axiom to do so.
+
+### Revisiting the Costs of the Competing Options
+
+Once these three difficulties are registered, the costs previously identified
+in the limited-likeness and sinful-concupiscence options look considerably less
+decisive than they appeared in sections III and V.
+Both options were found wanting primarily because they left the Gregorian logic
+unanswered—a gap "difficult to close without qualification."
+But that gap is significantly narrowed if the axiom's extension to concupiscence
+cannot be sustained.
+The genuinely applicable force of the axiom concerns the structural completeness
+of what Christ assumed: he must have assumed a full human nature, rational soul
+included, and this both options affirm without reservation.
+They differ from the dependent-Christ position only on the question of the
+condition of what was assumed, and it is precisely on that question that the
+axiom's authority has now been challenged.
+
+Both options must still answer the pastoral question of whether Christ's
+sympathy for the struggling believer is fully grounded.
+The Irving–Torrance tradition rightly presses here: a Christ who did not share
+the interior disorder of fallen humanity faces something structurally different
+from what we face, and this asymmetry should be acknowledged honestly rather
+than minimised.
+It can be answered, however, without the Irving–Torrance solution.
+On either the limited-likeness or the sinful-concupiscence reading, Christ faced
+genuine external temptation, bore the full weight of human mortality and
+suffering, experienced grief and rejection and the agony of Gethsemane, and
+resisted all of it in the Spirit-sustained obedience of a genuinely human will.
+Without the interior pull that sometimes rationalises the believer's capitulation,
+his temptations were no less demanding—and in some respects more so, since he
+bore them without the anodyne of yielding.
+The sympathy he offers is qualified by this asymmetry; it is not destroyed by it.
+
+## XIII. Conclusion
+
+The dilemma posed by Hebrews 2:17 and 4:15 is a genuine one, and the
+Irving–Torrance tradition offers what is in many respects the most
+theologically ambitious response to it.
+By affirming that Christ assumed fallen human nature in the full weight of its
+condition, overcame its interior disorders through the Spirit's sustaining work,
+and thereby conquered from within the very conditions from which we need to be
+freed, the tradition honours the pastoral claims of Hebrews with unusual
+thoroughness.
+The positive case set out in sections VIII through X is a serious one, and the
+Gregorian pressure it brings to bear on its alternatives is not imaginary.
+Any adequate Christology must reckon honestly with the force of that case.
+
+Nevertheless, the three difficulties identified in section XII are, taken
+together, sufficient to render the position unsatisfying as a conclusion.
+The holiness concern—whether the bearing of morally disordered desires is
+compatible with the constitution of the Son's human nature, not merely the
+conduct of his personal life—is not adequately resolved by the nature/person
+distinction or by the observation that Christ's inclinations had no rebellious
+self to ally with.
+The Gregorian axiom, for all its genuine soteriological insight, is being
+extended from the structural completeness of the assumed nature to the condition
+of that nature—an extension that Gregory himself did not make and that cannot
+be treated simply as an application of his own argument.
+And the axiom, even in its extended form, is performing adjudicating work
+between exegetically underdetermined options; the biblical texts support
+participatory soteriology as a general account of salvation but do not
+themselves reach the specific claim about concupiscence.
+
+Once these difficulties are acknowledged, the two options that appeared most
+disadvantaged under the Gregorian pressure—the limited-likeness option and the
+sinful-concupiscence option—emerge in a considerably more favourable light.
+Both affirm the structural completeness of what Christ assumed.
+Both maintain his sinlessness without qualification.
+Both have deep historical roots in the mainstream of the Christian tradition.
+The limited-likeness option, in the tradition of Turretin, presents Christ's
+humanity as an unfallen humanity—not a truncated one but a perfected one,
+restored to the condition for which human nature was originally designed.
+The sinful-concupiscence option, more exegetically precise, does not weaken the
+scope of "in every respect" but argues that what the exception "without sin"
+already excludes is precisely the domain of concupiscence, understood as a
+post-lapsarian disorder belonging to the realm of the sinful.
+Each option carries its own costs, principally in the structural asymmetry of
+Christ's temptations relative to ours; but those costs are answerable within
+the resources that each option already possesses, and they are less decisive
+than they appeared when the Gregorian axiom was performing its full
+adjudicating role.
+
+There is no compelling reason to choose between the limited-likeness and
+sinful-concupiscence options.
+They differ primarily in where they locate the relevant distinction—at the level
+of "every respect" (limited-likeness) or at the level of "without sin"
+(sinful-concupiscence)—and in the taxonomical assumptions they make about
+concupiscence's relationship to sin and fallen nature.
+Both are exegetically available, both are historically supported, and both leave
+room for the Spirit's work in sanctification to address the concupiscent
+condition of believers on the basis of Christ's atoning work—without requiring
+that he shared that condition himself.
+The unresolved question of precisely where concupiscence belongs in the taxonomy
+of sin, nature, and fall is itself the reason why neither option can claim
+decisive superiority over the other, and why the essay is right to leave both
+standing.
+
+The pastoral stakes deserve a final word.
+Hebrews was written to a community under pressure—exhausted, tempted to abandon
+its confession, uncertain whether its high priest could truly understand its
+struggle.
+The answer the author gives is not purely doctrinal but deeply personal: he has
+been there.
+The limited-likeness and sinful-concupiscence readings affirm this, though they
+qualify its scope.
+Christ did not pass through human history unmoved: he knew hunger and grief,
+rejection and abandonment, the agony of Gethsemane and the desolation of the
+cross.
+He faced genuine temptation—real external pressure, real cost, real obedience—
+and overcame it.
+His sympathy for the struggling believer is not purely formal; it is grounded in
+genuine human experience of what faithfulness costs.
+That the interior disorder of concupiscence may not have been part of his
+experience is a genuine asymmetry, but it is one that the author of Hebrews
+does not appear to have regarded as disqualifying: what is affirmed, emphatically
+and pastorally, is that he was tempted in every respect as we are, and that he
+did not sin.
+To rest in that affirmation—without resolving every question about its inner
+phenomenology—may itself be the most faithful response to the text.
 
 ### Bibliography
 
@@ -928,17 +1135,17 @@ Phillipsburg, NJ: P&R, 1992–1997.
 
 *All Bible quotations are from the English Standard Version (ESV).*
 
-[^1]: On Heb 4:14–16, these three commentaries treat *χωρὶς ἁμαρτίας* as qualifying Christ’s endurance of testing from the side of sinlessness rather than as marking out a sphere of human experience from which interior temptation is excluded; I take that exegesis to align with the “adverbial” construal defended above. Harold W. Attridge, *Hebrews: A Commentary on the Epistle to the Hebrews*, Hermeneia (Philadelphia: Fortress Press, 1989), 137–42; William L. Lane, *Hebrews 1–8*, WBC 47A (Dallas: Word, 1991), 114–23; Gareth Lee Cockerill, *The Epistle to the Hebrews*, NICNT (Grand Rapids: Eerdmans, 2012), 218–30.
+[^1]: On Heb 4:14–16, these three commentaries treat *χωρὶς ἁμαρτίας* as qualifying Christ's endurance of testing from the side of sinlessness rather than as marking out a sphere of human experience from which interior temptation is excluded; I take that exegesis to align with the "adverbial" construal defended above. Harold W. Attridge, *Hebrews: A Commentary on the Epistle to the Hebrews*, Hermeneia (Philadelphia: Fortress Press, 1989), 137–42; William L. Lane, *Hebrews 1–8*, WBC 47A (Dallas: Word, 1991), 114–23; Gareth Lee Cockerill, *The Epistle to the Hebrews*, NICNT (Grand Rapids: Eerdmans, 2012), 218–30.
 
-[^2]: Francis Turretin, *Institutes of Elenctic Theology*, trans. George M. Giger, ed. James T. Dennison Jr., 3 vols. (Phillipsburg, NJ: P&R, 1992–1997), 2:405–30 (Topic XIII, “The Person and State of Christ,” esp. qq. 7–10 on Christ’s assumption of true human nature without sin).
+[^2]: Francis Turretin, *Institutes of Elenctic Theology*, trans. George M. Giger, ed. James T. Dennison Jr., 3 vols. (Phillipsburg, NJ: P&R, 1992–1997), 2:405–30 (Topic XIII, "The Person and State of Christ," esp. qq. 7–10 on Christ's assumption of true human nature without sin).
 
 [^3]: Second Council of Orange (529), canons 5–6, in *Canons of the Council of Orange*, [https://www.creeds.net/ancient/orange.htm](https://www.creeds.net/ancient/orange.htm).
 
-[^4]: Council of Trent, “Decree Concerning Original Sin,” Fifth Session, 17 June 1546, §5, in *Session V: Decree Concerning Original Sin*, [https://history.hanover.edu/texts/trent/ct05.html](https://history.hanover.edu/texts/trent/ct05.html).
+[^4]: Council of Trent, "Decree Concerning Original Sin," Fifth Session, 17 June 1546, §5, in *Session V: Decree Concerning Original Sin*, [https://history.hanover.edu/texts/trent/ct05.html](https://history.hanover.edu/texts/trent/ct05.html).
 
-[^5]: Gregory of Nazianzus, “Letter 101 (To Cledonius the Priest, against Apollinarius),” in *Nicene and Post-Nicene Fathers*, Second Series, vol. 7, ed. Philip Schaff and Henry Wace (Buffalo: Christian Literature, 1894), 440–41 (Greek *to gar aproslepton atherapeuton*).
+[^5]: Gregory of Nazianzus, "Letter 101 (To Cledonius the Priest, against Apollinarius)," in *Nicene and Post-Nicene Fathers*, Second Series, vol. 7, ed. Philip Schaff and Henry Wace (Buffalo: Christian Literature, 1894), 440–41 (Greek *to gar aproslepton atherapeuton*).
 
-[^6]: Edward Irving, *The Orthodox and Catholic Doctrine of Our Lord’s Human Nature* (London: Baldwin and Cradock, 1830).
+[^6]: Edward Irving, *The Orthodox and Catholic Doctrine of Our Lord's Human Nature* (London: Baldwin and Cradock, 1830).
 
 [^7]: Thomas F. Torrance, *Incarnation: The Person and Life of Christ*, ed. Robert T. Walker (Downers Grove: IVP Academic, 2008); Thomas F. Torrance, *The Mediation of Christ* (Colorado Springs: Helmers and Howard, 1992).
 
@@ -946,10 +1153,11 @@ Phillipsburg, NJ: P&R, 1992–1997.
 
 [^9]: John of Damascus, *Exposition of the Orthodox Faith* 3.9–12, in *Nicene and Post-Nicene Fathers*, Second Series, vol. 9, ed. Philip Schaff (Buffalo: Christian Literature, 1899), 45–52.
 
-[^10]: Cyril of Alexandria, *On the Unity of Christ*, trans. John A. McGuckin (Crestwood, NY: St Vladimir’s Seminary Press, 1995), 95–111.
+[^10]: Cyril of Alexandria, *On the Unity of Christ*, trans. John A. McGuckin (Crestwood, NY: St Vladimir's Seminary Press, 1995), 95–111.
 
 [^11]: Irenaeus, *Against Heresies* 3.18.1–7, in *Ante-Nicene Fathers*, vol. 1, ed. Alexander Roberts and James Donaldson (Buffalo: Christian Literature, 1885), 444–48.
 
 [^12]: John Owen, *Pneumatologia: A Discourse Concerning the Holy Spirit*, in *The Works of John Owen*, ed. William H. Goold, vol. 3 (Edinburgh: Johnstone and Hunter, 1855), 171–220.
 
-[^13]: Oliver D. Crisp, *Divinity and Humanity: The Incarnation Reconsidered*, Current Issues in Theology (Cambridge: Cambridge University Press, 2007), 90–117 (ch. 4, “Did Christ have a fallen human nature?”), esp. 93 on the inseparability of “fallenness” and sinfulness in traditional formulations of original sin.
+[^13]: Oliver D. Crisp, *Divinity and Humanity: The Incarnation Reconsidered*, Current Issues in Theology (Cambridge: Cambridge University Press, 2007), 90–117 (ch. 4, "Did Christ have a fallen human nature?"), esp. 93 on the inseparability of "fallenness" and sinfulness in traditional formulations of original sin.
+
