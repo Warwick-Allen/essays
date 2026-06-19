@@ -1,13 +1,20 @@
-
-# Not All Summaries Are the Same: A Guide to Near‑Synonyms of “Summary” in English
+---
+title: "Not All Summaries Are the Same"
+subtitle: |
+  A Guide to Near‑Synonyms of “Summary” in English
+author: "Warwick Allen"
+date: "19 June 2026"
+indicative abstract: |
+  An exploration of near‑synonyms of "summary" through
+  their etymology, showing how the origins shape how
+  we use the words today.
+---
 
 When you see **“TL;DR”** online, you know exactly what it means: *a short version of something long*.  It is quick, informal, and very modern.
 
 However, in academic writing and formal English you have a much richer set of words to choose from.  Words such as *summary*, *synopsis*, *abstract*, and *outline* may look similar, but they are not identical.  Each carries a slightly different meaning, and understanding those differences can improve both your analysis and your writing.
 
-This post explores these near‑synonyms through their **etymology**—that is, their original meanings in Greek and Latin—and shows how those origins still shape how we use them today.
-
----
+This post explores these near‑synonyms through their *etymology*—that is, their original meanings in Greek and Latin—and shows how those origins still shape how we use them today.
 
 ## Why Etymology Matters
 
@@ -20,15 +27,13 @@ For example:
 
 Once you recognise these patterns, you start to see that English gives you several different ways to “summarise” something—each with its own focus.
 
----
-
 ## 1. Words Based on **Cutting Things Down**
 
 These words come from roots meaning *to cut*, *trim*, or *shorten*.
 
 - **Epitome**:  
   from Greek *epitemnein*, “to cut short.”  
-- **Précis**:  
+- **Précis** (pronounced “PRAY-see”):  
   from French, ultimately Latin, “cut short.”  
 - **Abridgement**:  
   from Latin *brevis*, meaning “short.”  
@@ -38,8 +43,6 @@ These words suggest you are **reducing** something by removing unnecessary mater
 #### Example:
 
 > A précis of the speech keeps only the essential points.
-
----
 
 ## 2. Words Based on **Seeing Everything at Once**
 
@@ -58,8 +61,6 @@ These words suggest you are **organising information so it can be grasped as a w
 
 > The synopsis gives a clear view of how the argument develops.
 
----
-
 ## 3. Words Based on **Selecting What Matters Most**
 
 These words emphasise importance and hierarchy.
@@ -76,8 +77,6 @@ These suggest you are **extracting the key ideas** rather than merely shortening
 #### Example:
 
 > The summary highlights the most important findings.
-
----
 
 ## 4. Words Based on **Containing the Whole in a Small Space**
 
@@ -96,8 +95,6 @@ These suggest a **compact version that still represents the whole**.
 
 > The article ends with a capsule summary of its conclusions.
 
----
-
 ## 5. Words Based on **Structure and Framework**
 
 These focus on the *shape* of the material rather than its content.
@@ -113,8 +110,6 @@ These suggest you are showing the **structure without full detail**.
 
 > The outline shows the main sections of the essay.
 
----
-
 ## What Does This Mean for Your Writing?
 
 Understanding these differences will help you:
@@ -128,8 +123,6 @@ For example:
 - Use **“synopsis”** in literary analysis.
 - Use **“outline”** when planning essays.
 - Use **“summary”** for general purposes.
-
----
 
 ## Complete Comparison Table
 
@@ -148,8 +141,6 @@ For example:
 | **Outline** | “Drawn edge” | Framework | Structure only | Planning |
 | **Excerpt** | “Pick out” (Latin) | Selection | Parts, not whole | Quotation |
 
----
-
 ## Final Thought
 
 At first glance, all of these words seem to mean “summary”.  But their histories show something more interesting:
@@ -163,4 +154,3 @@ So the next time you need to write a “summary”, ask yourself:
 > Am I cutting, selecting, or showing the structure?
 
 Choosing the right word is not just about vocabulary—it is about **thinking more precisely**.
-
