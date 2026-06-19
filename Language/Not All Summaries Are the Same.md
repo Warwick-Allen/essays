@@ -4,7 +4,7 @@ subtitle: |
   A Guide to Near‑Synonyms of “Summary” in English
 author: "Warwick Allen"
 date: "19 June 2026"
-abstract: |
+synopsis: |
   An exploration of near‑synonyms of "summary" through
   their etymology, showing how the origins shape how
   we use the words today.
