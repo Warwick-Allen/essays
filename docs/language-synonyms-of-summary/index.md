@@ -10,7 +10,6 @@ indicative abstract: |
   we use the words today.
 ---
 
-<br>
 When you see **“TL;DR”** online, you know exactly what it means: *a short version of something long*.  It is quick, informal, and very modern.
 
 However, in academic writing and formal English you have a much richer set of words to choose from.  Words such as *summary*, *synopsis*, *abstract*, and *outline* may look similar, but they are not identical.  Each carries a slightly different meaning, and understanding those differences can improve both your analysis and your writing.
