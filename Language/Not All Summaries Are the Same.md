@@ -10,15 +10,12 @@ abstract: |
   we use the words today.
 ---
 
-## 
-
+<br>
 When you see **“TL;DR”** online, you know exactly what it means: *a short version of something long*.  It is quick, informal, and very modern.
 
 However, in academic writing and formal English you have a much richer set of words to choose from.  Words such as *summary*, *synopsis*, *abstract*, and *outline* may look similar, but they are not identical.  Each carries a slightly different meaning, and understanding those differences can improve both your analysis and your writing.
 
 This post explores these near‑synonyms through their *etymology*—that is, their original meanings in Greek and Latin—and shows how those origins still shape how we use them today.
-
----
 
 ## Why Etymology Matters
 
@@ -30,8 +27,6 @@ For example:
 - A word that meant “top” might imply *prioritising importance*.
 
 Once you recognise these patterns, you start to see that English gives you several different ways to “summarise” something—each with its own focus.
-
----
 
 ## 1. Words Based on **Cutting Things Down**
 
@@ -50,8 +45,6 @@ These words suggest you are **reducing** something by removing unnecessary mater
 
 > A précis of the speech keeps only the essential points.
 
----
-
 ## 2. Words Based on **Seeing Everything at Once**
 
 These come from roots meaning *to see* or *to look at*.
@@ -68,8 +61,6 @@ These words suggest you are **organising information so it can be grasped as a w
 #### Example:
 
 > The synopsis gives a clear view of how the argument develops.
-
----
 
 ## 3. Words Based on **Selecting What Matters Most**
 
@@ -88,8 +79,6 @@ These suggest you are **extracting the key ideas** rather than merely shortening
 
 > The summary highlights the most important findings.
 
----
-
 ## 4. Words Based on **Containing the Whole in a Small Space**
 
 These evoke the idea of packing information into a small form.
@@ -107,8 +96,6 @@ These suggest a **compact version that still represents the whole**.
 
 > The article ends with a capsule summary of its conclusions.
 
----
-
 ## 5. Words Based on **Structure and Framework**
 
 These focus on the *shape* of the material rather than its content.
@@ -124,8 +111,6 @@ These suggest you are showing the **structure without full detail**.
 
 > The outline shows the main sections of the essay.
 
----
-
 ## What Does This Mean for Your Writing?
 
 Understanding these differences will help you:
@@ -139,8 +124,6 @@ For example:
 - Use **“synopsis”** in literary analysis.
 - Use **“outline”** when planning essays.
 - Use **“summary”** for general purposes.
-
----
 
 ## Complete Comparison Table
 
@@ -158,8 +141,6 @@ For example:
 | **Capsule** | “Little box” (Latin) | Containment | Compression | Journalism |
 | **Outline** | “Drawn edge” | Framework | Structure only | Planning |
 | **Excerpt** | “Pick out” (Latin) | Selection | Parts, not whole | Quotation |
-
----
 
 ## Final Thought
 
