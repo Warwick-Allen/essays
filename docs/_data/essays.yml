@@ -106,7 +106,7 @@
   type: "markdown"
 
 - title: "Theology and Practice of Mission Participation"
-  collection: "The Mission of God"
+  collection: "Language"
   description: >-
     MM581 integrative assessment defining the mission of God and faithful
     participation—including identity, Word, deed, creation care, justice, and a
@@ -114,3 +114,12 @@
   slug: "mission-of-god-theology-and-practice-of-participation"
   source: "The Mission of God/Assessment 3 - Theology and Practise of Mission Participation.md"
   type: "markdown"
+
+- title: "Not All Summaries Are the Same"
+  collection: "The Mission of God"
+  description: >-
+    An exploration of near‑synonyms of "summary" through their etymology, showing how the origins shape how we use the words today. 
+  slug: "language-synonyms-of-summary"
+  source: "Language/Not All Summaries Are the Same.md"
+  type: "markdown"
+ 
