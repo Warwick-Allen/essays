@@ -1,10 +1,20 @@
-# Not All Summaries Are the Same: A Guide to Near‑Synonyms of “Summary” in English
+---
+title: "Not All Summaries Are the Same"
+subtitle: |
+  A Guide to Near‑Synonyms of “Summary” in English
+author: "Warwick Allen"
+date: "19 June 2026"
+abstract: |
+  An exploration of near‑synonyms of "summary" through
+  their etymology, showing how the origins shape how
+  we use the words today. 
+---
 
 When you see **“TL;DR”** online, you know exactly what it means: *a short version of something long*.  It is quick, informal, and very modern.
 
 However, in academic writing and formal English you have a much richer set of words to choose from.  Words such as *summary*, *synopsis*, *abstract*, and *outline* may look similar, but they are not identical.  Each carries a slightly different meaning, and understanding those differences can improve both your analysis and your writing.
 
-This post explores these near‑synonyms through their **etymology**—that is, their original meanings in Greek and Latin—and shows how those origins still shape how we use them today.
+This post explores these near‑synonyms through their *etymology*—that is, their original meanings in Greek and Latin—and shows how those origins still shape how we use them today.
 
 ---
 
