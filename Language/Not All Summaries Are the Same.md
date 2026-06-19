@@ -37,7 +37,7 @@ These words come from roots meaning *to cut*, *trim*, or *shorten*.
 
 - **Epitome**:  
   from Greek *epitemnein*, “to cut short.”  
-- **Précis**:  
+- **Précis** (pronounced “PRAY-see”):  
   from French, ultimately Latin, “cut short.”  
 - **Abridgement**:  
   from Latin *brevis*, meaning “short.”  
