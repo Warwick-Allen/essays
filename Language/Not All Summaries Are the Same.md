@@ -7,7 +7,7 @@ date: "19 June 2026"
 abstract: |
   An exploration of near‑synonyms of "summary" through
   their etymology, showing how the origins shape how
-  we use the words today. 
+  we use the words today.  
 ---
 
 When you see **“TL;DR”** online, you know exactly what it means: *a short version of something long*.  It is quick, informal, and very modern.
