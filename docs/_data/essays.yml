@@ -115,6 +115,14 @@
   source: "The Mission of God/Assessment 3 - Theology and Practise of Mission Participation.md"
   type: "markdown"
 
+- title: "Divine Aseity and the Impossibility of Divine Loneliness"
+  collection: "Theology Proper"
+  description: >-
+    A scriptural and philosophical-theological analysis that makes a case against the claim that God is able to experience loneliness.
+  slug: "theology-proper-divine-aseity-and-the-impossibility-of-loneliness"
+  source: "Theology Proper/Divine Aseity and the Impossibility of Loneliness.md"
+  type: "markdown"
+
 - title: "Not All Summaries Are the Same"
   collection: "Language"
   description: >-
@@ -122,4 +130,4 @@
   slug: "language-synonyms-of-summary"
   source: "Language/Not All Summaries Are the Same.md"
   type: "markdown"
- 
+  
