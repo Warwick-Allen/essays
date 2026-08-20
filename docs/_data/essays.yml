@@ -19,6 +19,17 @@
   source: "Theological Profile/warwick_allen_theological_profile.md"
   type: "markdown"
 
+- title: "On the Emotional Life and Unchangeableness of God"
+  collection: "Theological Profile"
+  description: >-
+    This statement addresses three interrelated questions: whether God can
+    genuinely be moved by his creatures, whether such responsiveness is
+    compatible with his being without any deficiency, and what it means for
+    Scripture to say that God does not change.
+  slug: "theological-profile-the-emotional-life-and-unchangeableness-of-god"
+  source: "Theological Profile/On the Emotional Life and Unchangeableness of God.md"
+  type: "markdown"
+
 - title: "The Dominant Themes and Intersecting Motifs in the Book of Hebrews"
   collection: "Hebrews"
   description: >-
