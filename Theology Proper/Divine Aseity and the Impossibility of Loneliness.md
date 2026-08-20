@@ -3,9 +3,24 @@ title:    "The Impossibility of Divine Loneliness"
 subtitle: "Aseity, Triunity, and the Grammar of Theological Predication"
 author:   "Warwick Allen"
 date:     "August 2026"
+abstract: |
+  The claim that God created the world because He was lonely enjoys some
+  currency in devotional and popular theological writing.  This essay subjects
+  the claim to exegetical, dogmatic, and philosophical examination.  It
+  distinguishes the affective claim (that God, apart from creation, experiences
+  or experienced loneliness) from the aetiological claim (that creation is God's
+  remedy for that state), and argues that the former is without exegetical
+  support and metaphysically incoherent on any recognisably orthodox doctrine of
+  God, so that the latter fails *a fortiori*.  The argument proceeds from the
+  canonical witness to divine self-sufficiency, through the doctrines of aseity,
+  simplicity, and divine beatitude, to the trinitarian account of eternal
+  relational fullness, with particular attention to Richard of St Victor's
+  doctrine of the *condilectus*, the exegesis of Colossians 1:15–20, and Karl
+  Barth's relational anthropology.  A concluding survey of process, passibilist,
+  and open theologies shows that even the tradition's most determined internal
+  revisionists decline the "lonely God" thesis, which is best classified as an
+  instance of what Brian Davies has called theistic personalism.
 ---
-
-**Abstract.** The claim that God created the world because He was lonely enjoys some currency in devotional and popular theological writing. This essay subjects the claim to exegetical, dogmatic, and philosophical examination. It distinguishes the affective claim (that God, apart from creation, experiences or experienced loneliness) from the aetiological claim (that creation is God's remedy for that state), and argues that the former is without exegetical support and metaphysically incoherent on any recognisably orthodox doctrine of God, so that the latter fails *a fortiori*. The argument proceeds from the canonical witness to divine self-sufficiency, through the doctrines of aseity, simplicity, and divine beatitude, to the trinitarian account of eternal relational fullness, with particular attention to Richard of St Victor's doctrine of the *condilectus*, the exegesis of Colossians 1:15–20, and Karl Barth's relational anthropology. A concluding survey of process, passibilist, and open theologies shows that even the tradition's most determined internal revisionists decline the "lonely God" thesis, which is best classified as an instance of what Brian Davies has called theistic personalism.
 
 ## 1. Introduction
 
