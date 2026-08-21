@@ -83,6 +83,8 @@ Third, Scripture characterises creation as an act of will rather than of necessi
 
 A defender of L1 might appeal, finally, to the Bible's anthropopathisms: God grieves (Genesis 6:6), burns with jealousy (Exodus 34:14), and recoils in compassion (Hosea 11:8). Two observations dispose of this appeal. First, even a maximal reading of biblical anthropopathism yields grief, jealousy, wrath, and compassion, each of them a covenantal response to an already-existing creation; the canon nowhere attributes loneliness to God, whether before creation or after it. The argument from anthropopathism therefore cannot even cite an anthropopathism in its favour: it must first invent the datum it proposes to interpret. Second, as §2.2 showed from 1 Samuel 15, the canon itself instructs readers to construe such language non-univocally. The exegetical basis for L1 is accordingly not thin but absent.
 
+The covenantal responses catalogued above do, however, raise a further question, which lies beyond the ante-creational brief of this essay: whether, given creation, the turning away of creatures can render God lonely. That question faces a different evidential and dogmatic situation, and it receives a separate treatment, and a negative answer, in the companion essay "Grieved but Not Bereft: Creaturely Apostasy and the Impossibility of Post-Creational Divine Loneliness", whose theses (L3 and L4) continue the numbering established in §1 above.
+
 ## 4. Aseity, Perfection, and the End of Creation
 
 ### 4.1 The doctrine of divine aseity

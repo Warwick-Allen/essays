@@ -129,16 +129,29 @@
 - title: "Divine Aseity and the Impossibility of Divine Loneliness"
   collection: "Theology Proper"
   description: >-
-    A scriptural and philosophical-theological analysis that makes a case against the claim that God is able to experience loneliness.
+    A scriptural and philosophical-theological analysis that makes a case
+    against the claim that God is able to experience loneliness.
   slug: "theology-proper-divine-aseity-and-the-impossibility-of-loneliness"
   source: "Theology Proper/Divine Aseity and the Impossibility of Loneliness.md"
+  type: "markdown"
+
+- title: >-
+    Grieved but Not Bereft:
+    Creaturely Apostasy and the Impossibility of Post-Creational Divine Loneliness
+  collection: "Theology Proper"
+  description: >-
+    This essay explores whether, given creation, God can suffer loneliness when
+    His creatures turn away from Him.
+  slug: "theology-proper-creaturely-apostasy-and-the-impossibility-of-divine-loneliness"
+  source: "Theology Proper/Creaturely Apostasy and the Impossibility of Divine Loneliness.md"
   type: "markdown"
 
 - title: "Not All Summaries Are the Same"
   collection: "Language"
   description: >-
-    An exploration of near‑synonyms of "summary" through their etymology, showing how the origins shape how we use the words today. 
+    An exploration of near‑synonyms of "summary" through their etymology,
+    showing how the origins shape how we use the words today. 
   slug: "language-synonyms-of-summary"
   source: "Language/Not All Summaries Are the Same.md"
   type: "markdown"
-  
+
