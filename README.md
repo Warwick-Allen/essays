@@ -10,9 +10,7 @@ web-ready copies from `docs/`, using a manifest-driven publishing script.
 
 ## Repository Structure
 
-- `Anthropology/`, `Dishonouring Christ/`, `Hebrews/`, `The Mission of God/`,
-  `The Sunday Obligation and Eternal Consequences/`, and
-  `Theological Profile/` contain the source essays.
+- The top-level directories with title-case names contain the source essays.
 - `docs/` contains the GitHub Pages site.
 - `docs/_data/essays.yml` is the manifest that controls which essays appear on
   the site, how they are grouped, and where each published page lives.
