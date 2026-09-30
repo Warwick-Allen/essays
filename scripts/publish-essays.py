@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 """Read docs/_data/essays.yml and publish each essay into docs/.
 
-For 'markdown' essays: copy source → docs/<slug>/index.md, append a GitHub footer.
+For 'markdown' essays: copy source → docs/<slug>/index.md, join wrapped link
+                       definitions for kramdown, append a GitHub footer.
 For 'html' essays:     copy source → docs/<slug>.html verbatim.
 """
 
 import os
+import re
 import shutil
 import sys
 
@@ -21,6 +23,35 @@ GITHUB_FOOTER = (
     'class="github-link">View Source on GitHub</a>\n'
 )
 
+# The opening or closing line of a fenced code block.
+FENCE = re.compile(r"^ {0,3}(`{3,}|~{3,})")
+# A link reference definition's label with nothing after it on the line.
+DANGLING_LINK_LABEL = re.compile(r"^ {0,3}\[[^\]]+\]:[ \t]*$")
+
+
+def join_link_definitions(text):
+    """Move each link destination onto the same line as its label.
+
+    CommonMark, and so GitHub, accepts a link reference definition whose
+    destination is on the line after the label, but kramdown recognises a
+    definition only when both are on one line.  Fenced code is left alone.
+    """
+    lines = []
+    fence = None
+    for line in text.split("\n"):
+        marker = FENCE.match(line)
+        if fence:
+            if (marker and marker.group(1).startswith(fence)
+                    and not line[marker.end():].strip()):
+                fence = None
+        elif marker:
+            fence = marker.group(1)
+        elif lines and DANGLING_LINK_LABEL.match(lines[-1]) and line.strip():
+            lines[-1] += " " + line.strip()
+            continue
+        lines.append(line)
+    return "\n".join(lines)
+
 
 def publish_markdown(essay):
     slug = essay["slug"]
@@ -32,11 +63,12 @@ def publish_markdown(essay):
         print(f"  SKIP (source not found): {source}", file=sys.stderr)
         return False
 
-    os.makedirs(dest_dir, exist_ok=True)
-    shutil.copy2(source, dest)
+    with open(source, encoding="utf-8") as f:
+        text = f.read()
 
-    with open(dest, "a", encoding="utf-8") as f:
-        f.write(GITHUB_FOOTER)
+    os.makedirs(dest_dir, exist_ok=True)
+    with open(dest, "w", encoding="utf-8") as f:
+        f.write(join_link_definitions(text) + GITHUB_FOOTER)
 
     print(f"  markdown → {os.path.relpath(dest, REPO_ROOT)}")
     return True

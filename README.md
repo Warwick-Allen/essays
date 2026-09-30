@@ -29,6 +29,11 @@ are published copies and may be overwritten by `scripts/publish-essays.py`.
 Markdown essays are copied to `docs/<slug>/index.md` with a small GitHub source
 footer appended. HTML essays are copied to `docs/<slug>.html` as-is.
 
+Sources may put a reference-style link's URL on the line after its `[label]:`,
+as GitHub allows. Jekyll's kramdown needs both on one line, so the publisher
+joins them in the published copy. Fenced `mermaid` code blocks are drawn as
+diagrams in the browser by `docs/_includes/mermaid.html`.
+
 ## Adding Or Updating Essays
 
 To update an existing essay, edit its source file in the relevant top-level

@@ -1,0 +1,22 @@
+{% comment %}Draw ```mermaid fenced blocks as diagrams. Mermaid loads only on pages that have one, and the code stays visible if it cannot load.{% endcomment %}
+<script type="module">
+  const blocks = document.querySelectorAll('pre > code.language-mermaid');
+  if (blocks.length) {
+    const { default: mermaid } = await import('https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs');
+    // SVG text labels, because the site's blanket div and p rules would restyle HTML ones.
+    mermaid.initialize({ startOnLoad: false, theme: 'dark', htmlLabels: false, flowchart: { htmlLabels: false } });
+    const nodes = Array.from(blocks, (code) => {
+      const figure = document.createElement('div');
+      figure.className = 'mermaid';
+      figure.textContent = code.textContent;
+      code.parentElement.replaceWith(figure);
+      return figure;
+    });
+    await mermaid.run({ nodes });
+    // Shrink a wide diagram to fit, but no further than this; beyond it, the diagram scrolls.
+    const MIN_SCALE = 0.65;
+    for (const svg of document.querySelectorAll('.mermaid > svg')) {
+      svg.style.minWidth = `${Math.round(svg.viewBox.baseVal.width * MIN_SCALE)}px`;
+    }
+  }
+</script>

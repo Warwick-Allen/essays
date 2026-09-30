@@ -362,6 +362,23 @@ a[href*="github.com"]:after {
   display: none;
 }
 
+/* Mermaid diagrams (drawn by _includes/mermaid.html): a wide diagram may use
+   the width of the window rather than the text column, and scrolls sideways
+   within its own box when even that is too narrow. */
+.essay-body .mermaid {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  width: calc(100vw - 2rem);
+  margin: 1.5em 0;
+  overflow-x: auto;
+}
+
+.essay-body .mermaid svg {
+  display: block;
+  margin: 0 auto;
+}
+
 /* Table styling if present */
 table {
   border-color: #30363d;
@@ -400,6 +417,18 @@ td {
   
   h1, h2, h3, h4, h5, h6 {
     color: black;
+  }
+
+  /* Fit diagrams to the page rather than the window. */
+  .essay-body .mermaid {
+    left: auto;
+    transform: none;
+    width: auto;
+    overflow: visible;
+  }
+
+  .essay-body .mermaid svg {
+    min-width: 0 !important;
   }
 }
 
