@@ -904,143 +904,101 @@ so please read them before relying on them:
 	1893.
 
 
-[Wikipedia: George Allen (architect)]:
-https://en.wikipedia.org/wiki/George_Allen_(architect)
+[Wikipedia: George Allen (architect)]: https://en.wikipedia.org/wiki/George_Allen_(architect)
 
-[NZHistory: Fighting on the Whanganui River]:
-https://nzhistory.govt.nz/media/photo/fighting-whanganui-river
+[NZHistory: Fighting on the Whanganui River]: https://nzhistory.govt.nz/media/photo/fighting-whanganui-river
 
-[NZHistory: The 1865 campaign]:
-https://nzhistory.govt.nz/war/wanganui-war/1865-campaign
+[NZHistory: The 1865 campaign]: https://nzhistory.govt.nz/war/wanganui-war/1865-campaign
 
-[Auckland Examiner, 21 July 1860]:
-https://paperspast.natlib.govt.nz/newspapers/AKEXAM18600721.2.5
+[Auckland Examiner, 21 July 1860]: https://paperspast.natlib.govt.nz/newspapers/AKEXAM18600721.2.5
 
-[Daily Southern Cross, 20 July 1860, "Shipping Intelligence"]:
-https://paperspast.natlib.govt.nz/newspapers/DSC18600720.2.19
+[Daily Southern Cross, 20 July 1860, "Shipping Intelligence"]: https://paperspast.natlib.govt.nz/newspapers/DSC18600720.2.19
 
-[Daily Southern Cross, 13 October 1863]:
-https://paperspast.natlib.govt.nz/newspapers/DSC18631013.2.3.1
+[Daily Southern Cross, 13 October 1863]: https://paperspast.natlib.govt.nz/newspapers/DSC18631013.2.3.1
 
-[Manawatu Standard, 4 December 1924]:
-https://paperspast.natlib.govt.nz/newspapers/MS19241204.2.16
+[Manawatu Standard, 4 December 1924]: https://paperspast.natlib.govt.nz/newspapers/MS19241204.2.16
 
-[New Zealander, 21 July 1860, "Maritime Record"]:
-https://paperspast.natlib.govt.nz/newspapers/NZ18600721.2.4
+[New Zealander, 21 July 1860, "Maritime Record"]: https://paperspast.natlib.govt.nz/newspapers/NZ18600721.2.4
 
-[New Zealander, 22 October 1863]:
-https://paperspast.natlib.govt.nz/newspapers/NZ18631022.2.18
+[New Zealander, 22 October 1863]: https://paperspast.natlib.govt.nz/newspapers/NZ18631022.2.18
 
-[New Zealand Herald, 19 May 1916]:
-https://paperspast.natlib.govt.nz/newspapers/NZH19160519.2.104
+[New Zealand Herald, 19 May 1916]: https://paperspast.natlib.govt.nz/newspapers/NZH19160519.2.104
 
-[Waikato Argus, 3 April 1913]:
-https://paperspast.natlib.govt.nz/newspapers/WAIGUS19130403.2.14
+[Waikato Argus, 3 April 1913]: https://paperspast.natlib.govt.nz/newspapers/WAIGUS19130403.2.14
 
-[Wanganui Chronicle, 25 March 1880]:
-https://paperspast.natlib.govt.nz/newspapers/WC18800325.2.13.3
+[Wanganui Chronicle, 25 March 1880]: https://paperspast.natlib.govt.nz/newspapers/WC18800325.2.13.3
 
-[Wanganui Chronicle, 25 April 1894, "Ruapehu"]:
-https://paperspast.natlib.govt.nz/newspapers/WC18940425.2.32
+[Wanganui Chronicle, 25 April 1894, "Ruapehu"]: https://paperspast.natlib.govt.nz/newspapers/WC18940425.2.32
 
-[Wanganui Chronicle, 29 April 1897]:
-https://paperspast.natlib.govt.nz/newspapers/WC18970429.2.25
+[Wanganui Chronicle, 29 April 1897]: https://paperspast.natlib.govt.nz/newspapers/WC18970429.2.25
 
-[Wanganui Chronicle, 14 December 1907]:
-https://paperspast.natlib.govt.nz/newspapers/WC19071214.2.60
+[Wanganui Chronicle, 14 December 1907]: https://paperspast.natlib.govt.nz/newspapers/WC19071214.2.60
 
-[Wanganui Chronicle, 17 June 1908]:
-https://paperspast.natlib.govt.nz/newspapers/WC19080617.2.55
+[Wanganui Chronicle, 17 June 1908]: https://paperspast.natlib.govt.nz/newspapers/WC19080617.2.55
 
-[G. F. Allen, "Wanganui in the '60s"]:
-https://paperspast.natlib.govt.nz/newspapers/WC19240405.2.72
+[G. F. Allen, "Wanganui in the '60s"]: https://paperspast.natlib.govt.nz/newspapers/WC19240405.2.72
 
-[Wanganui Chronicle, 30 July 1924]:
-https://paperspast.natlib.govt.nz/newspapers/WC19240730.2.31
+[Wanganui Chronicle, 30 July 1924]: https://paperspast.natlib.govt.nz/newspapers/WC19240730.2.31
 
-[obituary in the *Wanganui Chronicle*]:
-https://paperspast.natlib.govt.nz/newspapers/WC19290301.2.37
+[obituary in the *Wanganui Chronicle*]: https://paperspast.natlib.govt.nz/newspapers/WC19290301.2.37
 
-[Wanganui Herald, 19 April 1894, "A Trip to Taupo"]:
-https://paperspast.natlib.govt.nz/newspapers/WH18940419.2.20
+[Wanganui Herald, 19 April 1894, "A Trip to Taupo"]: https://paperspast.natlib.govt.nz/newspapers/WH18940419.2.20
 
-[Wanganui Herald, 1 March 1929]:
-https://paperspast.natlib.govt.nz/newspapers/WH19290301.2.33
+[Wanganui Herald, 1 March 1929]: https://paperspast.natlib.govt.nz/newspapers/WH19290301.2.33
 
-[Waikato Times, 19 April 1915]:
-https://paperspast.natlib.govt.nz/newspapers/WT19150419.2.23
+[Waikato Times, 19 April 1915]: https://paperspast.natlib.govt.nz/newspapers/WT19150419.2.23
 
-[Dictionary of New Zealand Biography]:
-https://teara.govt.nz/en/biographies/2a7/allen-george-frederic
+[Dictionary of New Zealand Biography]: https://teara.govt.nz/en/biographies/2a7/allen-george-frederic
 
-[Dictionary of New Zealand Biography: Allen, George Frederic]:
-https://teara.govt.nz/en/biographies/2a7/allen-george-frederic/print
+[Dictionary of New Zealand Biography: Allen, George Frederic]: https://teara.govt.nz/en/biographies/2a7/allen-george-frederic/print
 
-[Te Ara: Te Heuheu Tūkino V, Tūreiti]:
-https://teara.govt.nz/en/biographies/3t13/te-heuheu-tukino-v-tureiti
+[Te Ara: Te Heuheu Tūkino V, Tūreiti]: https://teara.govt.nz/en/biographies/3t13/te-heuheu-tukino-v-tureiti
 
-[Te Ara: 19th-century domestic architecture]:
-https://teara.govt.nz/en/domestic-architecture/page-1
+[Te Ara: 19th-century domestic architecture]: https://teara.govt.nz/en/domestic-architecture/page-1
 
-[Te Ara: Whanganui places]:
-https://teara.govt.nz/en/whanganui-places/print
+[Te Ara: Whanganui places]: https://teara.govt.nz/en/whanganui-places/print
 
-[Puke Ariki: St Stephen's Church, Waverley]:
-https://terangiaoaonunui.pukeariki.com/story-collections/taranaki-churches/st-stephens-church-waverley/
+[Puke Ariki: St Stephen's Church, Waverley]: https://terangiaoaonunui.pukeariki.com/story-collections/taranaki-churches/st-stephens-church-waverley/
 
-[Trove: Willis's Guide Book, 1894]:
-https://trove.nla.gov.au/work/260698400
+[Trove: Willis's Guide Book, 1894]: https://trove.nla.gov.au/work/260698400
 
-[Trove: Supplementary edition, 1902]:
-https://trove.nla.gov.au/work/260851397
+[Trove: Supplementary edition, 1902]: https://trove.nla.gov.au/work/260851397
 
-[Whanganui District Council cemetery search]:
-https://wdc.whanganui.govt.nz/Cemeteries/Search.aspx
+[Whanganui District Council cemetery search]: https://wdc.whanganui.govt.nz/Cemeteries/Search.aspx
 
-[Australian War Memorial: The river and the redoubts]:
-https://www.awm.gov.au/wartime/97/river-and-the-redoubt
+[Australian War Memorial: The river and the redoubts]: https://www.awm.gov.au/wartime/97/river-and-the-redoubt
 
-[Births, Deaths & Marriages Historical Records]:
-https://www.bdmhistoricalrecords.dia.govt.nz/
+[Births, Deaths & Marriages Historical Records]: https://www.bdmhistoricalrecords.dia.govt.nz/
 
-[DOC: Tongariro National Park history and culture]:
-https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/about-tongariro-national-park/history-and-culture/
+[DOC: Tongariro National Park history and culture]: https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/about-tongariro-national-park/history-and-culture/
 
-[DOC: Waihohonu Hut]:
-https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/heritage-sites/waihohonu-hut/
+[DOC: Waihohonu Hut]: https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/heritage-sites/waihohonu-hut/
 
-[Geni: George Frederic Allen]:
-https://www.geni.com/people/George-Allen/6000000009114908390
+[Geni: George Frederic Allen]: https://www.geni.com/people/George-Allen/6000000009114908390
 
-[Heritage New Zealand: St Stephen's Church, Marton]:
-https://www.heritage.org.nz/list-details/1250/St+Stephens+Church
+[Heritage New Zealand: St Stephen's Church, Marton]: https://www.heritage.org.nz/list-details/1250/St+Stephens+Church
 
-[Heritage New Zealand: Oneida Homestead]:
-https://www.heritage.org.nz/the-list/details/160
+[Heritage New Zealand: Oneida Homestead]: https://www.heritage.org.nz/the-list/details/160
 
-[Masterton District Council cemetery search]:
-https://www.mstn.govt.nz/property-rates-and-building/cemeteries/search-our-cemeteries
+[Masterton District Council cemetery search]: https://www.mstn.govt.nz/property-rates-and-building/cemeteries/search-our-cemeteries
 
-[the family's MyHeritage site, "Allen Web Site"]:
-https://www.myheritage.com/family-sites/allen/OYYV66TN7T5UQNRJHLQHHSCEJINDOXQ
+[the family's MyHeritage site, "Allen Web Site"]: https://www.myheritage.com/family-sites/allen/OYYV66TN7T5UQNRJHLQHHSCEJINDOXQ
 
-[National Geographic: Whanganui River is a legal person]:
-https://www.nationalgeographic.com/culture/article/maori-river-in-new-zealand-is-a-legal-person-article
+[National Geographic: Whanganui River is a legal person]: https://www.nationalgeographic.com/culture/article/maori-river-in-new-zealand-is-a-legal-person-article
 
-[Whanganui Chronicle: St Stephen's 150th anniversary]:
-https://www.nzherald.co.nz/whanganui-chronicle/news/150th-anniversary-celebrations-for-marton-church-st-stephens-delayed-until-2022/NMNQRITZZJ56LAV7WBVNQWLPOA/
+[Whanganui Chronicle: St Stephen's 150th anniversary]: https://www.nzherald.co.nz/whanganui-chronicle/news/150th-anniversary-celebrations-for-marton-church-st-stephens-delayed-until-2022/NMNQRITZZJ56LAV7WBVNQWLPOA/
 
-[Great Barrier Island painting and caption]:
-https://www.oocities.org/hanson_allen/docs/gtbarrier.html
+[Great Barrier Island painting and caption]: https://www.oocities.org/hanson_allen/docs/gtbarrier.html
 
-[George's reminiscences]:
-https://www.oocities.org/hanson_allen/docs/kilwingfa.html
+[George's reminiscences]: https://www.oocities.org/hanson_allen/docs/kilwingfa.html
 
-[Mount Ruapehu erupting, 1895]:
-https://www.oocities.org/hanson_allen/docs/mtruapehu.html
+[Mount Ruapehu erupting, 1895]: https://www.oocities.org/hanson_allen/docs/mtruapehu.html
 
-[The children of George and Carrie]:
-https://www.oocities.org/hanson_allen/firstgennz.html
+[The children of George and Carrie]: https://www.oocities.org/hanson_allen/firstgennz.html
 
-[Hanson-Allen Family website]:
-https://www.oocities.org/hanson_allen/gfandcfallen.html
+[Hanson-Allen Family website]: https://www.oocities.org/hanson_allen/gfandcfallen.html
+
+
+---
+
+<a href="https://github.com/Warwick-Allen/essays" class="github-link">View Source on GitHub</a>
