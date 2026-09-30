@@ -695,6 +695,15 @@ html[data-reader-font="serif"] .essay-body h6 {
   margin-left: 2em;
   margin-right: 2em;
 }
+
+/* Guarantee a gap between the title block (which ends with the abstract, when
+   present) and the essay body, independent of what the body's first element
+   is. Without this, an abstract's own paragraph loses its bottom margin (see
+   the p:last-child rule below) and a body that opens with a plain paragraph
+   (margin-top: 0) rather than a heading collapses flush against it. */
+#main_content .essay-body .essay-title-block {
+  margin-bottom: 1.5em;
+}
 .abstract em,
 .abstract i {
   font-style: normal;
