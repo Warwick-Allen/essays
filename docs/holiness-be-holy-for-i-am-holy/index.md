@@ -38,7 +38,7 @@ abstract: |
 
 ## 1. Introduction
 
-### 1.1 The refrain and the question
+### 1.1 The refrain, the question and the commission
 
 Three times the Scriptures place in the mouth of God a sentence that has become the motto of biblical holiness. At the close of the dietary law He says, "Consecrate yourselves therefore, and be holy, for I am holy", and again, "You shall therefore be holy, for I am holy" (Leviticus 11:44–45). At the head of the central chapter of the Holiness Code He says, "You shall be holy, for I the LORD your God am holy" (Leviticus 19:2). And Peter, opening the exhortations of his first letter, writes, "as he who called you is holy, you also be holy in all your conduct, since it is written, 'You shall be holy, for I am holy'" (1 Peter 1:15–16).[^1]
 
@@ -47,6 +47,16 @@ Three times the Scriptures place in the mouth of God a sentence that has become 
 The refrain is heard in two ways in evangelical pulpits, and often in the same sermon: as comfort (because He is holy, He has made His people holy) and as demand (because He is holy, His people are to pursue holiness). Neither hearing is new. Luther, in the sermons on 1 Peter that he published in 1523, said of this verse, "As then God our Master is holy, so are His people holy also, and we are all holy if we walk in faith"; the Sifra glossed the words Peter quotes, *qĕdōšîm tihyû*, as *pĕrûšîm tihyû*, "you shall be separate"; and Calvin, within his comment on 1 Peter 1:15, hears "ye are mine" as what the sentence takes for granted, "abstain from the pollutions of the Gentiles" as what it requires, and "I am he who sanctify you" as what God "also adds".[^2] The two hearings answer to a real question about the grammar of three sentences and, behind the grammar, about the relation between what God does and what His people do.
 
 [^2]: Martin Luther, *The Epistles of St. Peter and St. Jude Preached and Explained*, trans. E. H. Gillett (New York: Anson D. F. Randolph, 1859), on 1 Peter 1:15–16; the sermons were published in 1523 and are also available as *Luther's Works*, vol. 30, *The Catholic Epistles* (St Louis: Concordia, 1967). Sifra, Qedoshim, parashah 1, on Leviticus 19:2, glossing *qĕdōšîm tihyû* with *pĕrûšîm tihyû*, "you shall be separate", as quoted by Nahmanides ad loc. and printed in the Malbim edition. John Calvin, *Commentaries on the Catholic Epistles*, trans. and ed. John Owen (Edinburgh: Calvin Translation Society, 1855), on 1 Peter 1:15–16.
+
+#### The commission
+
+This essay was commissioned with the following brief:
+
+> Explore Leviticus 11:44–45, 19:2 and 1 Peter 1:15–16. In particular, focus
+> on the relative merits between the "because I am holy, you have been made
+> (or are being made) holy" interpretation and the "because I am holy, you
+> should strive towards holiness" interpretation. If both interpretations
+> hold up to scrutiny, explain which (if either) should be given priority.
 
 ### 1.2 Method and posture
 
